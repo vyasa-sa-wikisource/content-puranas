@@ -1,0 +1,84 @@
+# Slice for vyasa-sa-wikisource/content-puranas.
+# Nine Mahāpurāṇas accepted from the 2026-09-27 Wikisource probe.
+# Ingest in the puranas work_set order. Vāmana, Brahmāṇḍa, and the partials
+# stay out until their short pages or missing kāṇḍas are resolved.
+
+repo = "content-puranas"
+
+[[work]]
+id = "bhagavata-purana"
+title_sa = "श्रीमद्भागवतपुराणम्"
+wikisource = "श्रीमद्भागवतपुराणम्"
+category = "पुराणानि"
+status = "accepted"
+
+[[work]]
+id = "markandeya-purana"
+title_sa = "मार्कण्डेयपुराणम्"
+wikisource = "मार्कण्डेयपुराणम्"
+category = "पुराणानि"
+status = "accepted"
+
+[[work]]
+id = "brahma-purana"
+title_sa = "ब्रह्मपुराणम्"
+wikisource = "ब्रह्मपुराणम्"
+category = "पुराणानि"
+status = "accepted"
+
+[[work]]
+id = "vishnu-purana"
+title_sa = "विष्णुपुराणम्"
+wikisource = "विष्णुपुराणम्"
+category = "पुराणानि"
+status = "accepted"
+
+[[work]]
+id = "agni-purana"
+title_sa = "अग्निपुराणम्"
+wikisource = "अग्निपुराणम्"
+category = "पुराणानि"
+status = "accepted"
+
+[[work]]
+id = "garuda-purana"
+title_sa = "गरुडपुराणम्"
+wikisource = "गरुडपुराणम्"
+category = "पुराणानि"
+status = "accepted"
+
+[[work]]
+id = "matsya-purana"
+title_sa = "मत्स्यपुराणम्"
+wikisource = "मत्स्यपुराणम्"
+category = "पुराणानि"
+status = "accepted"
+
+[[work]]
+id = "shiva-purana"
+title_sa = "शिवपुराणम्"
+wikisource = "शिवपुराणम्"
+category = "पुराणानि"
+status = "accepted"
+
+[[work]]
+id = "varaha-purana"
+title_sa = "वराहपुराणम्"
+wikisource = "वराहपुराणम्"
+category = "पुराणानि"
+status = "accepted"
+
+[[work_set]]
+id = "puranas"
+description = "Nine complete Mahāpurāṇas, ingest order"
+work_ids = [
+  "bhagavata-purana",
+  "markandeya-purana",
+  "brahma-purana",
+  "vishnu-purana",
+  "agni-purana",
+  "garuda-purana",
+  "matsya-purana",
+  "shiva-purana",
+  "varaha-purana",
+]
