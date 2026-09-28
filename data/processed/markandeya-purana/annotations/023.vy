@@ -1,0 +1,11 @@
+`annotate "23:19..23:23" { speaker="ऋतध्वज उवाच" }
+`annotate "23:24" { speaker="जड उवाच" }
+`annotate "23:25..23:27" { speaker="नागराडश्वतर उवाच" }
+`annotate "23:28..23:29" { speaker="जड उवाच" }
+`annotate "23:30..23:47" { speaker="अश्वतर उवाच" }
+`annotate "23:48..23:49" { speaker="जड उवाच" }
+`annotate "23:50..23:56" { speaker="अश्वतर उवाच" }
+`annotate "23:57..23:65" { speaker="जड उवाच" }
+`annotate "23:66..23:88" { speaker="महादेव उवाच" }
+`annotate "23:89..23:90" { speaker="कुवलयाश्व उवाच" }
+`annotate "23:91..23:115" { speaker="जड उवाच" }

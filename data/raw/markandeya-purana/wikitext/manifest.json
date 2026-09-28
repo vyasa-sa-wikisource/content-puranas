@@ -1,0 +1,164 @@
+[
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ००१‌-००५",
+    "from": 1,
+    "to": 5,
+    "file": "adhyaya-001-005.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ००६-०१०",
+    "from": 6,
+    "to": 10,
+    "file": "adhyaya-006-010.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०११-०१५",
+    "from": 11,
+    "to": 15,
+    "file": "adhyaya-011-015.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०१६-०२०",
+    "from": 16,
+    "to": 20,
+    "file": "adhyaya-016-020.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०२१-०२५",
+    "from": 21,
+    "to": 25,
+    "file": "adhyaya-021-025.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०२६-०३०",
+    "from": 26,
+    "to": 30,
+    "file": "adhyaya-026-030.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०३१-०३५",
+    "from": 31,
+    "to": 35,
+    "file": "adhyaya-031-035.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०३६-०४०",
+    "from": 36,
+    "to": 40,
+    "file": "adhyaya-036-040.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०४१-०४५",
+    "from": 41,
+    "to": 45,
+    "file": "adhyaya-041-045.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०४६-०५०",
+    "from": 46,
+    "to": 50,
+    "file": "adhyaya-046-050.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०५१-०५५",
+    "from": 51,
+    "to": 55,
+    "file": "adhyaya-051-055.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०५६-०६०",
+    "from": 56,
+    "to": 60,
+    "file": "adhyaya-056-060.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ६१-६५",
+    "from": 61,
+    "to": 65,
+    "file": "adhyaya-061-065.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ६६-७०",
+    "from": 66,
+    "to": 70,
+    "file": "adhyaya-066-070.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ७१-८०",
+    "from": 71,
+    "to": 80,
+    "file": "adhyaya-071-080.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०८१-०८५",
+    "from": 81,
+    "to": 85,
+    "file": "adhyaya-081-085.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ०८६-०९०",
+    "from": 86,
+    "to": 90,
+    "file": "adhyaya-086-090.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायः ९१-९३",
+    "from": 91,
+    "to": 93,
+    "file": "adhyaya-091-093.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायाः ०९१-०९५",
+    "from": 91,
+    "to": 95,
+    "file": "adhyaya-091-095.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायाः ०९६-१००",
+    "from": 96,
+    "to": 100,
+    "file": "adhyaya-096-100.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायाः १०१-१०५",
+    "from": 101,
+    "to": 105,
+    "file": "adhyaya-101-105.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायाः १०६-११०",
+    "from": 106,
+    "to": 110,
+    "file": "adhyaya-106-110.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायाः १११-११५",
+    "from": 111,
+    "to": 115,
+    "file": "adhyaya-111-115.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायाः ११६-१२०",
+    "from": 116,
+    "to": 120,
+    "file": "adhyaya-116-120.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायाः १२१-१२५",
+    "from": 121,
+    "to": 125,
+    "file": "adhyaya-121-125.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायाः १२६-१३०",
+    "from": 126,
+    "to": 130,
+    "file": "adhyaya-126-130.wikitext.json"
+  },
+  {
+    "title": "मार्कण्डेयपुराणम्/अध्यायाः १३१-१३४",
+    "from": 131,
+    "to": 134,
+    "file": "adhyaya-131-134.wikitext.json"
+  }
+]

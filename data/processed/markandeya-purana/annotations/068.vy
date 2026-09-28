@@ -1,0 +1,14 @@
+`annotate "68:3..68:23" { speaker="मार्कण्डेय उवाच" }
+`annotate "68:24..68:25" { speaker="ब्राह्मण उवाच" }
+`annotate "68:26" { speaker="राजोवाच" }
+`annotate "68:27..68:28" { speaker="ब्राह्मण उवाच" }
+`annotate "68:29" { speaker="राजोवाच" }
+`annotate "68:30..68:32" { speaker="ब्राह्मण उवाच" }
+`annotate "68:33..68:34" { speaker="राजोवाच" }
+`annotate "68:35..68:44" { speaker="ब्राह्मण उवाच" }
+`annotate "68:45..68:50" { speaker="मार्कण्डेय उवाच" }
+`annotate "68:51..68:54" { speaker="ऋषिरुवाच" }
+`annotate "68:55" { speaker="राजोवाच" }
+`annotate "68:56..68:60" { speaker="ऋषिरुवाच" }
+`annotate "68:61..68:62" { speaker="मार्कण्डेय उवाच" }
+`annotate "68:63..68:64" { speaker="ऋषिरुवाच" }

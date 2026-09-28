@@ -1,0 +1,13 @@
+`annotate "75:1..75:5" { speaker="मार्कण्डेय उवाच" }
+`annotate "75:6..75:13" { speaker="पुत्र उवाच" }
+`annotate "75:14..75:23" { speaker="मातोवाच" }
+`annotate "75:24" { speaker="गुरुरुवाच" }
+`annotate "75:25" { speaker="आनन्द उवाच" }
+`annotate "75:26" { speaker="गुरुरुवाच" }
+`annotate "75:27..75:30" { speaker="आनन्द उवाच" }
+`annotate "75:31" { speaker="गुरुरुवाच" }
+`annotate "75:32..75:37" { speaker="आनन्द उवाच" }
+`annotate "75:38..75:41" { speaker="मार्कण्डेय उवाच" }
+`annotate "75:42" { speaker="आनन्द उवाच" }
+`annotate "75:43..75:44" { speaker="ब्रह्मोवाच" }
+`annotate "75:45..75:58" { speaker="मार्कण्डेय उवाच" }

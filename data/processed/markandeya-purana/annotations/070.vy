@@ -1,0 +1,10 @@
+`annotate "70:1..70:6" { speaker="मार्कण्डेय उवाच" }
+`annotate "70:7..70:11" { speaker="ऋषिरुवाच" }
+`annotate "70:12..70:14" { speaker="राजोवाच" }
+`annotate "70:15" { speaker="ऋषीरुवाच" }
+`annotate "70:16" { speaker="राजोवाच" }
+`annotate "70:17..70:22" { speaker="ऋषिरुवाच" }
+`annotate "70:23" { speaker="मार्कण्डेय उवाच" }
+`annotate "70:24..70:25" { speaker="राजोवाच" }
+`annotate "70:26..70:28" { speaker="ऋषीरुवाच" }
+`annotate "70:29" { speaker="मार्कण्डेय उवाच" }

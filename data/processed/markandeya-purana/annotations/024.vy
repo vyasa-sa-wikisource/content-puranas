@@ -1,0 +1,13 @@
+`annotate "24:1..24:4" { speaker="जड उवाच" }
+`annotate "24:5..24:13" { speaker="कुवलयाश्व उवाच" }
+`annotate "24:14" { speaker="जड उवाच" }
+`annotate "24:15" { speaker="नाग उवाच" }
+`annotate "24:16..24:22" { speaker="कुवलयाश्व उवाच" }
+`annotate "24:23..24:24" { speaker="अश्वतर उवाच" }
+`annotate "24:25..24:30" { speaker="जड उवाच" }
+`annotate "24:31" { speaker="अश्वतर उवाच" }
+`annotate "24:32..24:33" { speaker="जड उवाच" }
+`annotate "24:34" { speaker="अश्वतर उवाच" }
+`annotate "24:35..24:37" { speaker="जड उवाच" }
+`annotate "24:38..24:41" { speaker="अश्वतर उवाच" }
+`annotate "24:42..24:43" { speaker="जड उवाच" }

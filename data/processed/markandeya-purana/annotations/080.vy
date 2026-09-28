@@ -1,0 +1,9 @@
+`annotate "80:18..80:21" { speaker="वैश्य उवाच" }
+`annotate "80:22" { speaker="राजोवाच" }
+`annotate "80:23..80:26" { speaker="वैश्य उवाच" }
+`annotate "80:27..80:33" { speaker="मार्कण्डेय उवाच" }
+`annotate "80:34..80:44" { speaker="ऋषिरुवाच" }
+`annotate "80:45..80:46" { speaker="राजोवाच" }
+`annotate "80:47..80:52" { speaker="ऋषिरुवाच" }
+`annotate "80:53..80:67" { speaker="ब्रह्मोवाच" }
+`annotate "80:68..80:78" { speaker="ऋषिरुवाच" }

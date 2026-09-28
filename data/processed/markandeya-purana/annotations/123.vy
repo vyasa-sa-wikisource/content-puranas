@@ -1,0 +1,11 @@
+`annotate "123:1..123:31" { speaker="मार्कण्डेय उवाच" }
+`annotate "123:32..123:37" { speaker="कन्योवाच" }
+`annotate "123:38..123:39" { speaker="विशाल उवाच" }
+`annotate "123:40" { speaker="राजपुत्र उवाच" }
+`annotate "123:41" { speaker="मार्कण्डेय उवाच" }
+`annotate "123:42" { speaker="राजपुत्र उवाच" }
+`annotate "123:43..123:44" { speaker="मार्कण्डेय उवाच" }
+`annotate "123:45" { speaker="कन्योवाच" }
+`annotate "123:46..123:61" { speaker="मार्कण्डेय उवाच" }
+`annotate "123:62..123:63" { speaker="देवदूत उवाच" }
+`annotate "123:64" { speaker="मार्कण्डेय उवाच" }

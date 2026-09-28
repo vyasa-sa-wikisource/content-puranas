@@ -1,0 +1,5 @@
+primary = true
+language = "sa"
+script = "Deva"
+kind = "source"
+segment_separator = "\n"

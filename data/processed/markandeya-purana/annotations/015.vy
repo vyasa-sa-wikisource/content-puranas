@@ -1,0 +1,15 @@
+`annotate "15:1..15:46" { speaker="यमकिङ्कर उवाच" }
+`annotate "15:47..15:51" { speaker="पुत्र उवाच" }
+`annotate "15:52..15:55" { speaker="यमपुरुष उवाच" }
+`annotate "15:56..15:57" { speaker="राजोवाच" }
+`annotate "15:58" { speaker="यमपुरुष उवाच" }
+`annotate "15:59..15:65" { speaker="राजोवाच" }
+`annotate "15:66" { speaker="यमपुरुष उवाच" }
+`annotate "15:67" { speaker="धर्म उवाच" }
+`annotate "15:68" { speaker="राजोवाच" }
+`annotate "15:69" { speaker="इन्द्र उवाच" }
+`annotate "15:70" { speaker="राजोवाच" }
+`annotate "15:71..15:74" { speaker="धर्म उवाच" }
+`annotate "15:75..15:76" { speaker="राजोवाच" }
+`annotate "15:77" { speaker="इन्द्र उवाच" }
+`annotate "15:78..15:81" { speaker="पुत्र उवाच" }

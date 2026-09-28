@@ -1,0 +1,13 @@
+`annotate "71:1" { speaker="मार्कण्डेय उवाच" }
+`annotate "71:2" { speaker="ब्राह्मण उवाच" }
+`annotate "71:3" { speaker="राजोवाच" }
+`annotate "71:4" { speaker="ब्राह्मण उवाच" }
+`annotate "71:5" { speaker="राजोवाच" }
+`annotate "71:6" { speaker="ब्राह्मण उवाच" }
+`annotate "71:7" { speaker="राजोवाच" }
+`annotate "71:8..71:10" { speaker="ब्राह्मण उवाच" }
+`annotate "71:11..71:20" { speaker="मार्कण्डेय उवाच" }
+`annotate "71:21..71:23" { speaker="राजोवाच" }
+`annotate "71:24" { speaker="मार्कण्डेय उवाच" }
+`annotate "71:25" { speaker="ब्राह्मण उवाच" }
+`annotate "71:26..71:42" { speaker="मार्कण्डेय उवाच" }

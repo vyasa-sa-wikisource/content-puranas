@@ -1,0 +1,16 @@
+`annotate "16:1..16:2" { speaker="पितोवाच" }
+`annotate "16:3..16:6" { speaker="पुत्र उवाच" }
+`annotate "16:7..16:11" { speaker="पितोवाच" }
+`annotate "16:12" { speaker="पुत्र उवाच" }
+`annotate "16:13" { speaker="पितोवाच" }
+`annotate "16:14..16:50" { speaker="पुत्र उवाच" }
+`annotate "16:51..16:52" { speaker="अनसूयोवाच" }
+`annotate "16:53" { speaker="पुत्र उवाच" }
+`annotate "16:54..16:63" { speaker="अनसूयोवाच" }
+`annotate "16:64..16:68" { speaker="पुत्र उवाच" }
+`annotate "16:69..16:76" { speaker="अनसूयोवाच" }
+`annotate "16:77..16:79" { speaker="पुत्र उवाच" }
+`annotate "16:80..16:84" { speaker="अनसूयोवाच" }
+`annotate "16:85..16:86" { speaker="पुत्र उवाच" }
+`annotate "16:87" { speaker="देवा ऊचुः" }
+`annotate "16:88..16:90" { speaker="अनसूयोवाच" }

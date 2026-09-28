@@ -1,0 +1,13 @@
+`annotate "18:1..18:14" { speaker="पुत्र उवाच" }
+`annotate "18:15" { speaker="अर्जुन उवाच" }
+`annotate "18:16..18:19" { speaker="गर्ग उवाच" }
+`annotate "18:20..18:21" { speaker="बृहस्पतिरुवाच" }
+`annotate "18:22..18:25" { speaker="गर्ग उवाच" }
+`annotate "18:26..18:27" { speaker="देवा ऊचुः" }
+`annotate "18:28" { speaker="दत्तात्रेय उवाच" }
+`annotate "18:29" { speaker="देवा ऊचुः" }
+`annotate "18:30..18:31" { speaker="दत्तात्रेय उवाच" }
+`annotate "18:32" { speaker="देवा ऊचुः" }
+`annotate "18:33..18:47" { speaker="गर्ग उवाच" }
+`annotate "18:48" { speaker="देवा ऊचुः" }
+`annotate "18:49..18:58" { speaker="दत्तात्रेय उवाच" }
