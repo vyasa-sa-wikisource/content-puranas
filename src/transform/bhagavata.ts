@@ -9,10 +9,12 @@
 
 import fs from "node:fs/promises";
 import path from "node:path";
+import { emitFacetAnnotations } from "./facets";
 
 const RAW_DIR = path.resolve("data/raw/bhagavata-purana/wikitext");
 const WORKSPACE_DIR = path.resolve("data/processed/bhagavata-purana");
 const CONTENT_DIR = path.join(WORKSPACE_DIR, "content", "mula");
+const ANNOTATIONS_DIR = path.join(WORKSPACE_DIR, "annotations");
 
 const DEV_TO_ARABIC: Record<string, string> = {
   "०": "0",
@@ -164,17 +166,8 @@ function emitBlock(cmd: string, arg: number | null, body: string): string {
   return `${open}\n${body}\n${close}`;
 }
 
-export function emitChapter(skandha: number, adhyaya: number, chapter: ParsedChapter): string {
-  const sk = String(skandha).padStart(2, "0");
-  const ad = String(adhyaya).padStart(2, "0");
-  const parts = [
-    "`set context {\n" +
-      `  skandha = "${sk}",\n` +
-      `  adhyaya = "${ad}",\n` +
-      `  skandha.title = "Skandha ${skandha}",\n` +
-      `  adhyaya.title = "Adhyāya ${adhyaya}"\n` +
-      "}",
-  ];
+export function emitChapter(chapter: ParsedChapter): string {
+  const parts: string[] = [];
   if (chapter.preface) parts.push(emitBlock("preface", null, chapter.preface));
   let verse = 0;
   for (const unit of chapter.units) {
@@ -224,7 +217,13 @@ async function main(): Promise<void> {
     const ad = String(chapter.adhyaya).padStart(2, "0");
     const dest = path.join(CONTENT_DIR, sk, `${ad}.vy`);
     await fs.mkdir(path.dirname(dest), { recursive: true });
-    await fs.writeFile(dest, emitChapter(chapter.skandha, chapter.adhyaya, parsed));
+    await fs.writeFile(dest, emitChapter(parsed));
+    const notes = emitFacetAnnotations([chapter.skandha, chapter.adhyaya], parsed.units);
+    if (notes) {
+      const ann = path.join(ANNOTATIONS_DIR, sk, `${ad}.vy`);
+      await fs.mkdir(path.dirname(ann), { recursive: true });
+      await fs.writeFile(ann, notes);
+    }
   }
   console.log(
     `[Transform] ${chapters.length} adhyāyas, ${verses} verses, ${colophons} colophons, ${empty} empty`,

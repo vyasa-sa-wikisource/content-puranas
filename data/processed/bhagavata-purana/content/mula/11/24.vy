@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "24",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 24"
-}
-
 `preface [
 सांख्ययोगवर्णनम् -
 ]

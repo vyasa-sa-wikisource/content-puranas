@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "03",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 3"
-}
-
 `preface [
 मायायास्ततः सन्तरणोपायस्य च वर्णनं ब्रह्मकर्मादि निरूपणं च -
 ]

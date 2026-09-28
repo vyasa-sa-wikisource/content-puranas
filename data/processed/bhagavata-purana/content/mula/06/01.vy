@@ -1,10 +1,3 @@
-`set context {
-  skandha = "06",
-  adhyaya = "01",
-  skandha.title = "Skandha 6",
-  adhyaya.title = "Adhyāya 1"
-}
-
 `verse 1 [
 श्रीपरीक्षिदुवाच -
 निवृत्तिमार्गः कथित आदौ भगवता यथा ।

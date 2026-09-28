@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "16",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 16"
-}
-
 `preface [
 कालियदमनम्-नागपत्‍नीकृतं नागकर्तृकं च
 भगवतः स्तवनं नागद्वारा ह्रदपरित्यागश्च -

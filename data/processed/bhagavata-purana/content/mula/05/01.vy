@@ -1,10 +1,3 @@
-`set context {
-  skandha = "05",
-  adhyaya = "01",
-  skandha.title = "Skandha 5",
-  adhyaya.title = "Adhyāya 1"
-}
-
 `preface [
 प्रियव्रतविजयम्
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "63",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 63"
-}
-
 `preface [
 श्रीकृष्णबाणासुरसंग्रामः; तत्र माहेश्वरज्वरेण
 माहेश्वरेण च कृता भगवत् स्तुतिः -

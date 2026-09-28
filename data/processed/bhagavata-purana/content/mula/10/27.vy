@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "27",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 27"
-}
-
 `preface [
 विगतमदस्य इंद्रस्य श्रीकृष्णसन्निधौ क्षमाप्रार्थनम् -
 ]

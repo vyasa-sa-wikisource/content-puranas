@@ -1,10 +1,3 @@
-`set context {
-  skandha = "12",
-  adhyaya = "07",
-  skandha.title = "Skandha 12",
-  adhyaya.title = "Adhyāya 7"
-}
-
 `speaker [
 सूत उवाच
 ]

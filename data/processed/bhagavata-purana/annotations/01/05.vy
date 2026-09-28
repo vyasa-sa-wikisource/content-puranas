@@ -1,0 +1,15 @@
+`annotate "1:5:1" { speaker="सूत उवाच" }
+`annotate "1:5:2..1:5:4" { speaker="नारद उवाच" }
+`annotate "1:5:1..1:5:4" { meter="अनुष्टुप्" }
+`annotate "1:5:5..1:5:7" { speaker="व्यास उवाच" }
+`annotate "1:5:5..1:5:7" { meter="उपेंद्रवज्रा" }
+`annotate "1:5:8..1:5:9" { meter="अनुष्टुप्" }
+`annotate "1:5:10..1:5:17" { meter="वंशस्थ" }
+`annotate "1:5:18" { meter="इंद्रवंशा" }
+`annotate "1:5:19..1:5:22" { meter="वंशस्थ" }
+`annotate "1:5:23..1:5:25" { meter="इंद्रवंशा" }
+`annotate "1:5:26" { meter="वंशस्थ" }
+`annotate "1:5:27..1:5:28" { meter="इंद्रवंशा" }
+`annotate "1:5:29..1:5:39" { meter="अनुष्टुप्" }
+`annotate "1:5:8..1:5:40" { speaker="श्रीनारद उवाच" }
+`annotate "1:5:40" { meter="इंद्रवंशा" }

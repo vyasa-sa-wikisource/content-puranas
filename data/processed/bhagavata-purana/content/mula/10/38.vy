@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "38",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 38"
-}
-
 `preface [
 कंसाज्ञया रामकृष्णौ मथुरां आनेतुं अक्रूरस्य नन्दगोकुलं प्रति गमनं तत्र रामकृष्णद्वारा तस्य सत्कारश्च -
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "55",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 55"
-}
-
 `preface [
 प्रद्युम्नस्य जन्म, शम्बरासुरवधश्च
 ]

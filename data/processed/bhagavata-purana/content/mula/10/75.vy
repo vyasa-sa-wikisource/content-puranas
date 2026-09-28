@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "75",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 75"
-}
-
 `preface [
 राजसूयान्तेऽवभृथस्नानमहोत्सवः; मयनिर्मितायां युधिष्ठिरसभायां दुर्योधनस्यावमाननं च -
 ]

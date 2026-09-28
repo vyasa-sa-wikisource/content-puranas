@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "09",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 9"
-}
-
 `preface [
 गंगावतरणकथा, भगीरथवृत्तं सौदासचरितं च -
 ]

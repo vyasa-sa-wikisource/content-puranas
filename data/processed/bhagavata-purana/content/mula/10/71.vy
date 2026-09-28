@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "71",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 71"
-}
-
 `preface [
 उद्धवमंत्रणया श्रीकृष्णस्येन्द्रप्रस्थगमनम् -
 ]

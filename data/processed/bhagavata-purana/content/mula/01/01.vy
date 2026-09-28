@@ -1,10 +1,3 @@
-`set context {
-  skandha = "01",
-  adhyaya = "01",
-  skandha.title = "Skandha 1",
-  adhyaya.title = "Adhyāya 1"
-}
-
 `verse 1 [
 जन्माद्यस्य यतोऽन्वयादितरतः चार्थेष्वभिज्ञः स्वराट् ।
 तेने ब्रह्म हृदा य आदिकवये मुह्यन्ति यत् सूरयः ।

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "83",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 83"
-}
-
 `preface [
 द्रौपदीं प्रति श्रीकृष्णपत्‍नीनां स्वस्वोद्वाहवृत्तांतवर्णनम् -
 ]

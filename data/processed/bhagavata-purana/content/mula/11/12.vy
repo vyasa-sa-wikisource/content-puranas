@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "12",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 12"
-}
-
 `verse 1 [
 श्रीभगवानुवाच।
 न रोधयति मां योगो न साङ्ख्यं धर्म एव च।

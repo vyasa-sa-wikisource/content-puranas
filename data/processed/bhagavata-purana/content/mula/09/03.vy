@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "03",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 3"
-}
-
 `preface [
 शर्यातिवंशः, सुकन्याख्यानं रेवतकन्याख्यानं च -
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "86",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 86"
-}
-
 `preface [
 सुभद्राहरणं श्रीकृष्णस्य मिथिलागमनं तत्र बहुलाश्वश्रुतदेवयोः सद्मनि सकृदेव प्रवेशः -
 ]

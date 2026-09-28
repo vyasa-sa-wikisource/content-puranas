@@ -8,6 +8,8 @@
 
 `command-def { name="annotate" category="metadata" flexible_args="true" }
 
+`facets { speaker="वक्ता", meter="छन्दः" }
+
 `set settings {
   break_after = "।॥"
 }

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "22",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 22"
-}
-
 `preface [
 चीरहरणलीला -
 ]

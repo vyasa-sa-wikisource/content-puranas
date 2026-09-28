@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "07",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 7"
-}
-
 `verse 1 [
 अथ सप्तमोऽध्यायः ।
 श्रीभगवानुवाच।

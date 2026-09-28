@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "84",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 84"
-}
-
 `preface [
 ऋषिगणकृता भगवत्स्तुतिः; वसुदेवयज्ञोत्सवः; बन्धूनां प्रस्थापनादिकं च -
 ]

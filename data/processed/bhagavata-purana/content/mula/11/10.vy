@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "10",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 10"
-}
-
 `preface [
 आत्मनः संसारबंधो देहाध्यासादस्तीति बोधनं
 जगतोमिथ्यात्व निरूपणं च -

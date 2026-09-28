@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "33",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 33"
-}
-
 `preface [
 महारासवर्णनं; परीक्षित्कृत शंकायाः शुकद्वारा समाधानं च -
 ]

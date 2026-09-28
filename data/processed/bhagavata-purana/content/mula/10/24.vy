@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "24",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 24"
-}
-
 `preface [
 इंद्रमखभङ्ग -
 ]

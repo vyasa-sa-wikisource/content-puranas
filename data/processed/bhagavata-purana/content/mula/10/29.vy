@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "29",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 29"
-}
-
 `preface [
 वेणुनादं श्रुत्वा आगतानां गोपीनां श्रीकृष्णेनसह संवादः; रासारम्भः; तासां मानापनोदाय भगवतो अंतर्धानं च -
 ]

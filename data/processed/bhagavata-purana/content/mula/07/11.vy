@@ -1,10 +1,3 @@
-`set context {
-  skandha = "07",
-  adhyaya = "11",
-  skandha.title = "Skandha 7",
-  adhyaya.title = "Adhyāya 11"
-}
-
 `preface [
 श्रीमद्‌भागवत महापुराण
 

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "15",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 15"
-}
-
 `preface [
 गोचारणं, धेनुकासुरवधः कालियाविषदूषिताम्बूपानान् मृतानां
 गवां गोपानां च पुनरुज्जीवनम् -

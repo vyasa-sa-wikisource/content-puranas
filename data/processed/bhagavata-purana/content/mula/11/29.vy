@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "29",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 29"
-}
-
 `preface [
 भागवतधर्म निरूपणम्, उद्धवस्य बदरिकाश्रमगमनं च -
 ]

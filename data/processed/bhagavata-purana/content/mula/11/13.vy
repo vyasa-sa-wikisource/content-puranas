@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "13",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 13"
-}
-
 `preface [
 भगवता हंसरूपेण ब्रह्मणे ज्ञानोपदेशः -
 ]

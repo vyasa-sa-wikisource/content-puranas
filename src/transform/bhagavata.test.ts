@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test";
 import fs from "node:fs/promises";
 import { emitChapter, parseChapter } from "./bhagavata";
+import { emitFacetAnnotations } from "./facets";
 
 describe("bhagavata transform", () => {
   test("splits skandha 1 adhyāya 1 into verses, speakers, meters, and a colophon", async () => {
@@ -17,8 +18,12 @@ describe("bhagavata transform", () => {
     expect(verses[2]?.meter).toBe("द्रुतविलम्बित");
     expect(verses[3]?.meter).toBe("अनुष्टुप्");
     expect(verses[5]?.speaker).toBe("ऋषय ऊचुः");
-    const emitted = emitChapter(1, 1, parsed);
-    expect(emitted).toContain('skandha = "01"');
+    const emitted = emitChapter(parsed);
+    expect(emitted).not.toContain("`set context");
+    const notes = emitFacetAnnotations([1, 1], parsed.units);
+    expect(notes).toContain('speaker="ऋषय ऊचुः"');
+    expect(notes).toContain("1:1:6");
+    expect(notes).toContain('meter="अनुष्टुप्"');
     expect(emitted).toContain("`verse 6 [");
     expect(emitted).toContain("`colophon [");
   });

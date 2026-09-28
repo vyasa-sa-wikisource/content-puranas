@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "31",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 31"
-}
-
 `preface [
 भगवतः परमधामगमनम् -
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "21",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 21"
-}
-
 `preface [
 वेणुगीतम् - भगवतो मधुरं
  वेणुनादं आकर्ण्य गोपीभिः तद्‌गुणगानम्

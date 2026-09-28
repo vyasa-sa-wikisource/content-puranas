@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "12",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 12"
-}
-
 `preface [
 इक्ष्वाकूणां कुशादिसुमित्रान्तानां वर्णनम् -
 ]

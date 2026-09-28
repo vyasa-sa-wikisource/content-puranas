@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "20",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 20"
-}
-
 `preface [
 ज्ञानकर्मभक्तियोगानां वर्णनम् -
 ]

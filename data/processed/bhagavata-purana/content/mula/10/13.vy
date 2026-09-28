@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "13",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 13"
-}
-
 `verse 1 [
 सबालवत्सवृन्दे ब्रह्मणापहृते श्रीकृष्णस्य
 तत्तद्‌रूपेणाब्दं यथापूर्वं विहरणं ब्रह्मणो मोहभंगश्च -

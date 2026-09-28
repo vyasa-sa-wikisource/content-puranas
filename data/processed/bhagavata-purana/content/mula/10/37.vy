@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "37",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 37"
-}
-
 `preface [
 केशिवधः; नारदकृतं भगवतस्तवनं निलायन क्रीडायां व्योमासुरवधश्च
 ]

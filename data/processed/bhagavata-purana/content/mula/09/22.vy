@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "22",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 22"
-}
-
 `preface [
 दिवोदासादिवंशकथनम्, ऋक्षवंशे पाण्डवादि उत्पत्तिश्च -
 ]

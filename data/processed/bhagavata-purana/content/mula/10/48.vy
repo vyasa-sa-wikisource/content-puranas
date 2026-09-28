@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "48",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 48"
-}
-
 `preface [
 भगवताकुब्जामनोरथपूर्तिः; अक्रूरगृहं गत्वा पाण्डवसमाचारज्ञानाय अक्रूरस्य हस्तिनापुर प्रति प्रस्थानंच -
 ]

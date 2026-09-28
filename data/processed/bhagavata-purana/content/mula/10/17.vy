@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "17",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 17"
-}
-
 `preface [
 कालियस्य यमुनाह्रदे निवासस्य कारणवर्णनं
 ह्रदान्निर्गतेन श्रीकृष्णेन व्रजौकसां दावानलाद् रक्षणम् -

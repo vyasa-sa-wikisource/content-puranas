@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "49",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 49"
-}
-
 `preface [
 अक्रूरस्य हस्तिनापुरे गमनं; कुन्त्याः करुणोद्‌गारः; अक्रूरधृतराष्ट संवादः; अक्रूरस्य पुनर्यदुपूर्यामागमनंच -
 ]

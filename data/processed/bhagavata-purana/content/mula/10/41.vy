@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "41",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 41"
-}
-
 `preface [
 रामकृष्णयोर्मथुरायां प्रवेशः; रजकवधः वायकमालाकारयोरनुग्रहेणं च
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "62",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 62"
-}
-
 `preface [
 ऊषा-अनिरुद्ध समागमः; अनिरुद्धस्य बंधनं च -
 ]

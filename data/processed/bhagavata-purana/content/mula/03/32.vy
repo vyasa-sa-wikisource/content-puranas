@@ -1,10 +1,3 @@
-`set context {
-  skandha = "03",
-  adhyaya = "32",
-  skandha.title = "Skandha 3",
-  adhyaya.title = "Adhyāya 32"
-}
-
 `preface [
 मातुः कुक्षौ प्रविष्टस्य जीवस्य देहप्राप्तिवर्णनं गर्भस्थजीवकृता
 भगवत्स्तुतिः,जीवस्य बाल्यादि अवस्था क्लेशवर्णनं च -

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "46",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 46"
-}
-
 `preface [
 स्वविरहार्तगोपगोपीनां सान्त्वनाय भगवतोद्धवस्य प्रस्थापनम्, नन्दोद्धवसंवादश्च -
 ]

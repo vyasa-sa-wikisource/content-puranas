@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "14",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 14"
-}
-
 `preface [
 चंद्रवंशवर्णनं, बुधस्य जन्म, तस्मान्मनुपुत्र्यामिलायां जातस्य पुरूरवस उपाख्यानं च -
 ]

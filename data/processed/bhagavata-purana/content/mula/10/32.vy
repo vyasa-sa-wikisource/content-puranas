@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "32",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 32"
-}
-
 `preface [
 भगवतः प्रादुर्भावः गोपीनां आश्वासनं च -
 ]

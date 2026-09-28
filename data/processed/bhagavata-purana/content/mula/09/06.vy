@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "06",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 6"
-}
-
 `preface [
 इक्ष्वाकुवंशवर्णनं, तत्र मान्धातुश्चरितं, सौभर्युपाख्यानं च -
 ]

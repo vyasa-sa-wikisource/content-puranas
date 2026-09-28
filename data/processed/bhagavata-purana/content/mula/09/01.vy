@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "01",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 1"
-}
-
 `preface [
 सूर्यवंशवर्णनं, वैवस्वतमनोः पुत्रस्य स्त्रीभावापत्तिश्च -
 ]

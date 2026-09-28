@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "60",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 60"
-}
-
 `verse 1 [
 अथ षष्टितमोऽध्यायः 10.60
 श्रीबादरायणिरुवाच।

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "05",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 5"
-}
-
 `preface [
 अंबरीषानुग्रहेण दुर्वाससो दुःखनिवृत्तिः, अंबरीशप्रशंसा, तस्य भगवाद्‌रूपतापत्तीश्च -
 ]

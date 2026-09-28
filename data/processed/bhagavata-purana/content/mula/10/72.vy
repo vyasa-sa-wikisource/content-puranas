@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "72",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 72"
-}
-
 `preface [
 राजसूयोपक्रमे पाण्डवानां दिग्विजयः; भीमेन जरासंध वधश्च -
 ]

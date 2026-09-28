@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "19",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 19"
-}
-
 `verse 1 [
 श्रीभगवानुवाच।
 यो विद्याश्रुतसम्पन्नः आत्मवान्नानुमानिकः।

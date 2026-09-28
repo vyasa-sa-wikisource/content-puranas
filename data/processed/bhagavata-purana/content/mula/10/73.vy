@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "73",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 73"
-}
-
 `preface [
 जरासन्धरुद्धानां राज्ञां कारागृहान् मोचनम् -
 ]

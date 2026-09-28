@@ -1,10 +1,3 @@
-`set context {
-  skandha = "03",
-  adhyaya = "29",
-  skandha.title = "Skandha 3",
-  adhyaya.title = "Adhyāya 29"
-}
-
 `verse 1 [
 देवहूतिरुवाच -
 लक्षणं महदादीनां प्रकृतेः पुरुषस्य च ।

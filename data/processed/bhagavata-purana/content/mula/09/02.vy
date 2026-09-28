@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "02",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 2"
-}
-
 `preface [
 पृषध्र कवि करूष धृष्ट नृग नरिष्यंतादिष्टानां वंशविस्तारः
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "06",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 6"
-}
-
 `verse 1 [
 श्रीकृष्णोद्धवसंवाद आरंभ -
 श्रीशुक उवाच।

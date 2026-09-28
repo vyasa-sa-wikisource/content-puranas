@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "23",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 23"
-}
-
 `verse 1 [
 श्रीबादरायणिरुवाच।
 स एवमाशंसित उद्धवेन भागवतमुख्येन दाशार्हमुख्यः।

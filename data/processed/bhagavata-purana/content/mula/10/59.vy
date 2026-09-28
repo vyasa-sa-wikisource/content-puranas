@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "59",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 59"
-}
-
 `preface [
 मुरवधः भौमासुरवधः, भूमिकृता भगवत्स्तुतिः भौमाहृतषोडशसहस्रराजकन्यानां परिणयनं, पारिजातहरणं च
 ]

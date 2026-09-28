@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "34",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 34"
-}
-
 `preface [
 अजगरमुखात् अनन्दस्य मोचनम्,अजगरस्य पूर्वविद्याधरप्राप्ति; शंखचूड वधः ।
 ]

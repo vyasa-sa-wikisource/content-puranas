@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "69",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 69"
-}
-
 `preface [
 देवर्षिनारदकर्तृकं भगवतो गृहचर्यादर्शनम् -
 ]

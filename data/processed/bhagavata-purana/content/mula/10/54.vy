@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "54",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 54"
-}
-
 `verse 1 [
 अथ चतुःपञ्चाशत्तमोऽध्यायः 10.54
 श्रीशुक उवाच।

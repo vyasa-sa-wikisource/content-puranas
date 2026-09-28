@@ -1,10 +1,3 @@
-`set context {
-  skandha = "03",
-  adhyaya = "31",
-  skandha.title = "Skandha 3",
-  adhyaya.title = "Adhyāya 31"
-}
-
 `verse 1 [
 श्रीभगवानुवाच -
 कर्मणा दैवनेत्रेण जन्तुर्देहोपपत्तये ।

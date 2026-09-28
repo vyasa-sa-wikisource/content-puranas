@@ -1,10 +1,3 @@
-`set context {
-  skandha = "05",
-  adhyaya = "21",
-  skandha.title = "Skandha 5",
-  adhyaya.title = "Adhyāya 21"
-}
-
 `preface [
 ज्योतिश्चक्रसूर्यरथमण्डलवर्णनम्
 ]

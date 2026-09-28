@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "42",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 42"
-}
-
 `preface [
 कुब्जायामनुग्रहः; धनुषो भङ्गः; मल्लशालासज्जीकरणं च -
 ]

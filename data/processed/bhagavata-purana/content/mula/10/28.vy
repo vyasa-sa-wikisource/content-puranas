@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "28",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 28"
-}
-
 `preface [
 विकालेऽवगाहनाद् वरुणदूतेन वरुणालयं नीतस्य नंदस्य भगवता पुनरनयनम् -
 ]

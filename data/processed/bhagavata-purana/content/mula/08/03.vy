@@ -1,10 +1,3 @@
-`set context {
-  skandha = "08",
-  adhyaya = "03",
-  skandha.title = "Skandha 8",
-  adhyaya.title = "Adhyāya 3"
-}
-
 `verse 1 [
 अथ तृतीयोऽध्यायः ।
 श्रीबादरायणिरुवाच।

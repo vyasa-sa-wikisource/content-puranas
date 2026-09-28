@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "68",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 68"
-}
-
 `preface [
 सांबविवाहः; बलरामेण हस्तिनापुरकर्षणं च
 ]

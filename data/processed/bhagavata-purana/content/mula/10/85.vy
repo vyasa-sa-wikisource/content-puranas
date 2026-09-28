@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "85",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 85"
-}
-
 `preface [
 वसुदेवमुखेन भगवत्तत्त्वप्रतिपादनं भगवता देवकीप्रार्थनया तदीय मृतपुत्राणां आनयनं च -
 ]

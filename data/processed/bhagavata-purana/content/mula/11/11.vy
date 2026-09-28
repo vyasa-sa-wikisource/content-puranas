@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "11",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 11"
-}
-
 `preface [
 बद्धमुक्तयोः साधूनां च लक्षणकथनं सद्‌भक्ति प्राप्त्युपायस्य च वर्णनम् -
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "35",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 35"
-}
-
 `preface [
 युग्मगीतं; गोचारणाय वनं गतस्य भगवतो गोपीजनकृतं गुणगानम् -
 ]

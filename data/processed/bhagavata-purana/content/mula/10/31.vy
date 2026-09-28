@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "31",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 31"
-}
-
 `preface [
 गोपीगीतं - विरहार्त गोपीनां भगवदुपस्थानाय प्रार्थनम् -
 ]

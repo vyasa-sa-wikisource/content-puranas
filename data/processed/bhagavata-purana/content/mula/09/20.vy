@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "20",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 20"
-}
-
 `preface [
 पुरुवंशवर्णनं, तत्र दुष्यंतभरतयोश्चरितम् -
 ]

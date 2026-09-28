@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "19",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 19"
-}
-
 `preface [
 मुञ्जाटव्यां गवां गोपानां च दावानलाद् रक्षणम् -
 ]

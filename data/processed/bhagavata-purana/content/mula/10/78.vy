@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "78",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 78"
-}
-
 `preface [
 दन्तवक्रविदूरथवधः; बलरामद्‌वारा सूतशिरश्छेदश्च -
 ]

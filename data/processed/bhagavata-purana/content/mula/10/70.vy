@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "70",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 70"
-}
-
 `preface [
 श्रीकृष्णस्याह्निककृत्यवर्णनं; युधिष्ठिरसंदेशमादाय नारदस्य,
 जरासंधकारानिबद्धनृपाणां संदेशमादाय दूतस्य चागमनम् -

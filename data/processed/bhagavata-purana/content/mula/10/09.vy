@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "09",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 9"
-}
-
 `preface [
 श्रीकृष्णस्य उलूखले बन्धनम् -
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "17",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 17"
-}
-
 `preface [
 क्षत्रवृद्धरजिरम्भानेनां वंशवर्णनम् -
 ]

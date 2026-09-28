@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "17",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 17"
-}
-
 `preface [
 वर्णधर्मनिरूपणम्, आश्रमेषु ब्रह्मचारी गृहस्थ धर्मवर्णं च -
 ]

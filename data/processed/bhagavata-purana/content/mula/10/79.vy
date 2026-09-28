@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "79",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 79"
-}
-
 `preface [
 बल्वलवधः, सूतहत्यामार्जनाय बलभद्रस्य तीर्थेषु भ्रमणं च -
 ]

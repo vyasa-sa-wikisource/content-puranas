@@ -1,10 +1,3 @@
-`set context {
-  skandha = "03",
-  adhyaya = "26",
-  skandha.title = "Skandha 3",
-  adhyaya.title = "Adhyāya 26"
-}
-
 `verse 1 [
 श्रीभगवानुवाच ।
 अथ ते सम्प्रवक्ष्यामि तत्त्वानां लक्षणं पृथक् ।

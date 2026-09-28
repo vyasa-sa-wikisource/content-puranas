@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "05",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 5"
-}
-
 `preface [
 गोकुले भगवतो जातकर्मादि महोत्सवः,
 नन्दस्य मथुरागमनं, तत्र नन्दवसुदेवसंवादः -

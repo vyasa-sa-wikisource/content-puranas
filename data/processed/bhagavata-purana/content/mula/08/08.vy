@@ -1,10 +1,3 @@
-`set context {
-  skandha = "08",
-  adhyaya = "08",
-  skandha.title = "Skandha 8",
-  adhyaya.title = "Adhyāya 8"
-}
-
 `preface [
 thumb|श्वेत-कृष्ण अश्वाभ्यां श्येनचितेः परिक्रमणम्
 thumb|400px|उच्चैःश्रवा

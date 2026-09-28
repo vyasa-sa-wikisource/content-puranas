@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "04",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 4"
-}
-
 `preface [
 नभगवंशवर्णनं नाभागचरितम्, अंबरीषोपाख्यानं दुर्वासः पलायनं च -
 ]

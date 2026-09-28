@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "28",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 28"
-}
-
 `preface [
 परमार्थनिरूपणम् -
 ]

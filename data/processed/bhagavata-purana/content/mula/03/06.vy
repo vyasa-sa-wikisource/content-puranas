@@ -1,10 +1,3 @@
-`set context {
-  skandha = "03",
-  adhyaya = "06",
-  skandha.title = "Skandha 3",
-  adhyaya.title = "Adhyāya 6"
-}
-
 `verse 1 [
 ऋषिरुवाच -
 (अनुष्टुप्)

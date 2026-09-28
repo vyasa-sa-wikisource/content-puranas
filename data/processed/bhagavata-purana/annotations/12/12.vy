@@ -1,0 +1,11 @@
+`annotate "12:12:1..12:12:46" { meter="अनुष्टुप्" }
+`annotate "12:12:47" { meter="उपेंद्रवज्रा" }
+`annotate "12:12:48..12:12:53" { meter="मिश्र-१२" }
+`annotate "12:12:54" { meter="मिश्र-११,१२" }
+`annotate "12:12:55" { meter="इंद्रवज्रा" }
+`annotate "12:12:56" { meter="मिश्र-११,१२" }
+`annotate "12:12:57..12:12:64" { meter="अनुष्टुप्" }
+`annotate "12:12:65" { meter="unknown" }
+`annotate "12:12:66..12:12:67" { meter="पुष्पिताग्रा" }
+`annotate "12:12:1..12:12:68" { speaker="सूत उवाच" }
+`annotate "12:12:68" { meter="मालिनी" }

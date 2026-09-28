@@ -1,10 +1,3 @@
-`set context {
-  skandha = "07",
-  adhyaya = "02",
-  skandha.title = "Skandha 7",
-  adhyaya.title = "Adhyāya 2"
-}
-
 `preface [
 सप्तमः स्कन्धः - अथ द्वितीयोऽध्यायः
 

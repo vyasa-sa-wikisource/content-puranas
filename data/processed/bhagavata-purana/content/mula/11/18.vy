@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "18",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 18"
-}
-
 `preface [
 वानप्रस्थ संन्यासाश्रमधर्म निरूपणम् -
 ]

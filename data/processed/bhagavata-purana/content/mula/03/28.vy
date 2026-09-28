@@ -1,10 +1,3 @@
-`set context {
-  skandha = "03",
-  adhyaya = "28",
-  skandha.title = "Skandha 3",
-  adhyaya.title = "Adhyāya 28"
-}
-
 `verse 1 [
 श्रीभगवानुवाच -
 योगस्य लक्षणं वक्ष्ये सबीजस्य नृपात्मजे ।

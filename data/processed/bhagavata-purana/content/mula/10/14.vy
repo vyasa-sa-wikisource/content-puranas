@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "14",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 14"
-}
-
 `preface [
 ब्रह्मणा कृता भगवतः स्तुतिर्वत्सवत्सपालानयनंच -
 ]

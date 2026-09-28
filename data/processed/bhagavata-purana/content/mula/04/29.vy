@@ -1,10 +1,3 @@
-`set context {
-  skandha = "04",
-  adhyaya = "29",
-  skandha.title = "Skandha 4",
-  adhyaya.title = "Adhyāya 29"
-}
-
 `verse 1 [
 प्राचीनबर्हिरुवाच -
 (अनुष्टुप्)

@@ -1,0 +1,14 @@
+`annotate "1:8:1..1:8:8" { speaker="सूत उवाच" }
+`annotate "1:8:9..1:8:10" { speaker="उत्तरोवाच" }
+`annotate "1:8:1..1:8:22" { meter="अनुष्टुप्" }
+`annotate "1:8:23..1:8:24" { meter="वंशस्थ" }
+`annotate "1:8:25..1:8:28" { meter="अनुष्टुप्" }
+`annotate "1:8:29" { meter="वंशस्थ" }
+`annotate "1:8:30" { meter="अनुष्टुप्" }
+`annotate "1:8:31" { meter="वसंततिलका" }
+`annotate "1:8:32..1:8:35" { meter="अनुष्टुप्" }
+`annotate "1:8:36..1:8:37" { meter="वंशस्थ" }
+`annotate "1:8:38..1:8:42" { meter="अनुष्टुप्" }
+`annotate "1:8:43" { meter="वसंततिलका" }
+`annotate "1:8:11..1:8:52" { speaker="सूत उवाच" }
+`annotate "1:8:44..1:8:52" { meter="अनुष्टुप्" }

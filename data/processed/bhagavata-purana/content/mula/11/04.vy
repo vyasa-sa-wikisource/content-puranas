@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "04",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 4"
-}
-
 `preface [
 भगवतोऽवताराणां वर्णनम्, नारायणकृतः कामपराभवः -
 ]

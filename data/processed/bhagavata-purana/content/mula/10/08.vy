@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "08",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 8"
-}
-
 `preface [
 गर्ग आगमनं, जातककथनपूर्वकं यशोदारोहिणीसुतयोः
 नामकरणसंस्कारः, मृद्‌भक्षणव्याजेन यशोदायै

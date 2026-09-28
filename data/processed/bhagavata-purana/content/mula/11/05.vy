@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "05",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 5"
-}
-
 `preface [
 भक्तिहीनपुरुषाणां निष्ठायाः प्रतियुगं पूजाविधानस्य च भेदवर्णनम् -
 ]

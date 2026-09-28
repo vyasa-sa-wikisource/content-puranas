@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "21",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 21"
-}
-
 `preface [
 भरतवंशः - रन्तिदेव चरितम् -
 ]

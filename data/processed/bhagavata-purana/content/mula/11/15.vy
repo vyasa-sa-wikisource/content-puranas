@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "15",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 15"
-}
-
 `preface [
 अष्टादशसिद्धिवर्णनम् -
 ]

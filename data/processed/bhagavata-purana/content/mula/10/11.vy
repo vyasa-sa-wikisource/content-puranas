@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "11",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 11"
-}
-
 `preface [
 गोपानां गोकुलं परित्यज्य वृन्दावने गमनं तत्र
 श्रीकृष्णद्वारावत्सासुर-बकासुरयोर्वधः -

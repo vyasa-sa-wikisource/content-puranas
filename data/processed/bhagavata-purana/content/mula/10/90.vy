@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "90",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 90"
-}
-
 `preface [
 श्रीकृष्णलीलानां संक्षेपतोऽवर्णनं, तन्महिषीणां तस्मिन्
 अनुरागाधिक्यं यदुवंशीयानामसख्येयत्व प्रतिपादनं च -

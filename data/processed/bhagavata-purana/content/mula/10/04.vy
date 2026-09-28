@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "04",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 4"
-}
-
 `preface [
 जिघांसोः कंसस्य हस्तात् उन्मुक्ताया देव्या भगवद्
  अवतार सूचनं कंसानुतापः,तदीय दुर्मंत्रिणां दुर्मंत्रणं च -

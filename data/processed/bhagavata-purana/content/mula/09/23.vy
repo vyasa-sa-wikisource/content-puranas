@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "23",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 23"
-}
-
 `preface [
 अनुद्रुह्युतुर्वसु यदूनां वंशवर्णनम् -
 ]

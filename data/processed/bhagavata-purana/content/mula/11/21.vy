@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "21",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 21"
-}
-
 `verse 1 [
 श्रीभगवानुवाच।
 य एतान्मत्पथो हित्वा भक्तिज्ञानक्रियात्मकान्।

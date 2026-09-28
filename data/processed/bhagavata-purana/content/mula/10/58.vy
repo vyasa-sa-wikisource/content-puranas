@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "58",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 58"
-}
-
 `verse 1 [
 कालिन्दीमित्रविन्दासत्याभद्रालक्ष्मणादीनां पाणिग्रहणम्।
 अथाष्टपञ्चाशत्तमोऽध्यायः 10.58

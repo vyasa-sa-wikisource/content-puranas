@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "76",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 76"
-}
-
 `preface [
 शाल्वस्य यदुभिः सह युद्धम् -
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "50",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 50"
-}
-
 `preface [
 रामकृष्णयोर्जरासन्धेन सह युद्धं, द्वारकादुर्गनिर्माणंच -
 ]

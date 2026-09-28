@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "23",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 23"
-}
-
 `preface [
 अन्नयाञ्चामिषेण यज्ञपत्‍नीषु अनुग्रहः -
 ]

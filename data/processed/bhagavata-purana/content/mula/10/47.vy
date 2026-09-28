@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "47",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 47"
-}
-
 `preface [
 उद्धवगोपीसंवादः; भ्रमरगीतम्; उद्धवस्य मथुरागमनंच -
 ]

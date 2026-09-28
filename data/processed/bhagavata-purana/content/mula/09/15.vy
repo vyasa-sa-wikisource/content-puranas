@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "15",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 15"
-}
-
 `preface [
 ऋचीकजमदग्निपरशुरामचरितं, सहस्रार्जुन वधश्च -
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "44",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 44"
-}
-
 `preface [
 चाणूरमुष्टिकादीनां मल्लानां निधनं कंसस्य वधश्च -
 ]

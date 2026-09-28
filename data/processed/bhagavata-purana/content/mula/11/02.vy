@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "02",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 2"
-}
-
 `verse 1 [
 वसुदेवाय देवर्षिनारदोपदेशः, तत्र निमि-नवयोगेश्वरसंवादरूपेण
  पूर्वं भागवतधर्मस्य भागवतलक्षणस्य च वर्णनम्

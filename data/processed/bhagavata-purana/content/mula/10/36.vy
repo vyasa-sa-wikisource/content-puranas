@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "36",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 36"
-}
-
 `preface [
 अरिष्टासुरवधः, कंसस्य अक्रूरं प्रति नन्दगोकुल गमनायादेशश्च -
 ]

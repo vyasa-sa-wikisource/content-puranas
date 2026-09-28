@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "10",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 10"
-}
-
 `preface [
 श्रीरामचरितम् -
 ]

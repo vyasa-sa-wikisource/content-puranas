@@ -1,0 +1,9 @@
+`annotate "4:31:1..4:31:4" { speaker="मैत्रेय उवाच" }
+`annotate "4:31:5..4:31:7" { speaker="प्रचेतस ऊचुः" }
+`annotate "4:31:8" { speaker="मैत्रेय उवाच" }
+`annotate "4:31:9..4:31:22" { speaker="नारद उवाच" }
+`annotate "4:31:23..4:31:25" { speaker="मैत्रेय उवाच" }
+`annotate "4:31:26..4:31:28" { speaker="श्रीशुक उवाच" }
+`annotate "4:31:29" { speaker="विदुर उवाच" }
+`annotate "4:31:30..4:31:31" { speaker="श्रीशुक उवाच" }
+`annotate "4:31:1..4:31:31" { meter="अनुष्टुप्" }

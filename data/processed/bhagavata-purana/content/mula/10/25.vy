@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "25",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 25"
-}
-
 `preface [
 कोपान् मुसलधारावर्षं वर्षतीन्द्रे व्रजौकसां रक्षणार्थं गोवर्धनधारणम् -
 ]

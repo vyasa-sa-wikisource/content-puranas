@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "77",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 77"
-}
-
 `preface [
 भगवता सौभसहितस्य शाल्वस्य विनाशः -
 ]

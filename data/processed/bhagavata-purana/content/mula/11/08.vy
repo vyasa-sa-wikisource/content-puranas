@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "08",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 8"
-}
-
 `preface [
 अवधूतस्य अजगरादि नवगुरूणां वर्णनम् -
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "82",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 82"
-}
-
 `preface [
 कुरुक्षेत्रे सूर्योपरागपर्वणि यदुभिः सह कुरूणां नन्दादिगोपानां च समागमः -
 ]

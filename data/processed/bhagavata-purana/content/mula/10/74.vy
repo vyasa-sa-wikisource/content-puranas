@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "74",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 74"
-}
-
 `preface [
 राजसूये भगवतोऽग्रपूजनं ततो रुष्टस्य दुर्वदत्तः शिशुपालस्य भगवता वधश्च -
 ]

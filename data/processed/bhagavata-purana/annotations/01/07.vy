@@ -1,0 +1,10 @@
+`annotate "1:7:1..1:7:8" { speaker="शौनक उवाच" }
+`annotate "1:7:1..1:7:11" { meter="अनुष्टुप्" }
+`annotate "1:7:12..1:7:15" { meter="इंद्रवज्रा" }
+`annotate "1:7:16..1:7:17" { meter="उपेंद्रवज्रा" }
+`annotate "1:7:9..1:7:20" { speaker="सूत उवाच" }
+`annotate "1:7:21..1:7:27" { speaker="अर्जुन उवाच" }
+`annotate "1:7:18..1:7:40" { meter="अनुष्टुप्" }
+`annotate "1:7:41" { meter="वंशस्थ" }
+`annotate "1:7:28..1:7:57" { speaker="सूत उवाच" }
+`annotate "1:7:42..1:7:57" { meter="अनुष्टुप्" }

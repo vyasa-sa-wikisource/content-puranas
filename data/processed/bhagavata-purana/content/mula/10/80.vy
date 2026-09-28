@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "80",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 80"
-}
-
 `preface [
 सुदामोपाख्यानम् – पत्‍नीप्रेरणया सुदाम्नो भगवत् समीपे गमनं; भगवता तस्य सत्कारश्च -
 ]

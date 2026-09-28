@@ -1,10 +1,3 @@
-`set context {
-  skandha = "03",
-  adhyaya = "27",
-  skandha.title = "Skandha 3",
-  adhyaya.title = "Adhyāya 27"
-}
-
 `verse 1 [
 श्रीभगवानुवाच -
 प्रकृतिस्थोऽपि पुरुषो नाज्यते प्राकृतैर्गुणैः ।

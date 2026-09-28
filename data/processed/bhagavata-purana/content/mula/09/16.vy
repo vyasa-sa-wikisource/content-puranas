@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "16",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 16"
-}
-
 `preface [
 जमदग्निवधः, परशुरामद्वारा क्षत्रियाणां संहारः, विश्वामित्र वंशवर्णनं च -
 ]

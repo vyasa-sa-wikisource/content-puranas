@@ -1,0 +1,10 @@
+`annotate "4:8:1..4:8:26" { speaker="मैत्रेय उवाच" }
+`annotate "4:8:27..4:8:34" { speaker="नारद उवाच" }
+`annotate "4:8:35..4:8:38" { speaker="ध्रुव उवाच" }
+`annotate "4:8:39" { speaker="मैत्रेय उवाच" }
+`annotate "4:8:40..4:8:64" { speaker="नारद उवाच" }
+`annotate "4:8:65..4:8:67" { speaker="राजोवाच" }
+`annotate "4:8:68..4:8:69" { speaker="नारद उवाच" }
+`annotate "4:8:70..4:8:80" { speaker="मैत्रेय उवाच" }
+`annotate "4:8:81..4:8:82" { speaker="देवा ऊचुः" }
+`annotate "4:8:1..4:8:82" { meter="अनुष्टुप्" }

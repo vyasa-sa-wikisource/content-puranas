@@ -1,10 +1,3 @@
-`set context {
-  skandha = "10",
-  adhyaya = "26",
-  skandha.title = "Skandha 10",
-  adhyaya.title = "Adhyāya 26"
-}
-
 `preface [
 श्रीकृष्णस्य अलौकिकं प्रभावं दृष्ट्वा चकितान् गोपान प्रति नन्दस्य गर्गोक्तिकथनम्
 ]

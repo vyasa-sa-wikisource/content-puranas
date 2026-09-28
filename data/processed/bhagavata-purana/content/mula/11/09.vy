@@ -1,10 +1,3 @@
-`set context {
-  skandha = "11",
-  adhyaya = "09",
-  skandha.title = "Skandha 11",
-  adhyaya.title = "Adhyāya 9"
-}
-
 `preface [
 कुरुरादि सप्तगुरूणां वर्णनम्, अवधूतोपाख्यानसमाप्तिश्च -
 ]

@@ -1,10 +1,3 @@
-`set context {
-  skandha = "05",
-  adhyaya = "06",
-  skandha.title = "Skandha 5",
-  adhyaya.title = "Adhyāya 6"
-}
-
 `verse 1 [
 अथ षष्ठोऽध्यायः
 राजोवाच

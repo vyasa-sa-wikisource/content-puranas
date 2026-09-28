@@ -1,10 +1,3 @@
-`set context {
-  skandha = "09",
-  adhyaya = "07",
-  skandha.title = "Skandha 9",
-  adhyaya.title = "Adhyāya 7"
-}
-
 `preface [
 त्रिशंकुकथा हरिश्चंद्रचरितं च -
 ]
