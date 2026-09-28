@@ -1,0 +1,18 @@
+`title [श्रीमद्भागवतपुराणम्]
+
+`command-def { name="verse" category="structure" urn="true" propagate_state="false" }
+`command-def { name="speaker" category="content" }
+`command-def { name="meter" category="metadata" }
+`command-def { name="preface" category="content" }
+`command-def { name="colophon" category="content" }
+
+`command-def { name="annotate" category="metadata" flexible_args="true" }
+
+`set settings {
+  break_after = "।॥"
+}
+
+`set context {
+  work = "Śrīmad Bhāgavata Purāṇa",
+  corpus = "bhagavata-purana"
+}

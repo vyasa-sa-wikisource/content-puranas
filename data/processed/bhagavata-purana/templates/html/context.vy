@@ -1,0 +1,5 @@
+`verse [`div { class="verse" } [$.body]]
+`speaker [`div { class="speaker" } [$.body]]
+`meter [`div { class="meter" } [$.body]]
+`preface [`div { class="preface" } [$.body]]
+`colophon [`div { class="colophon" } [$.body]]
