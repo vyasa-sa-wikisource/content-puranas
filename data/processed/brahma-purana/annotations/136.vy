@@ -1,0 +1,10 @@
+`annotate "136:1..136:14" { speaker="ब्रह्मोवाच" }
+`annotate "136:15..136:16" { speaker="जाबालोवाच" }
+`annotate "136:17" { speaker="ब्रह्मोवाच" }
+`annotate "136:18" { speaker="मौद्‌गल्य उवाच" }
+`annotate "136:19..136:26" { speaker="श्रीविष्णुरुवाच" }
+`annotate "136:27..136:28" { speaker="मौद्‌गल्य उवाच" }
+`annotate "136:29..136:31" { speaker="विष्णुरुवाच" }
+`annotate "136:32..136:38" { speaker="ब्रह्मोवाच" }
+`annotate "136:39" { speaker="ऋषिरुवाच" }
+`annotate "136:40..136:44" { speaker="ब्रह्मोवाच" }

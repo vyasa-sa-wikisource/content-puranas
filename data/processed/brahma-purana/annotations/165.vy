@@ -1,0 +1,13 @@
+`annotate "165:1..165:5" { speaker="ब्रह्मोवाच" }
+`annotate "165:6..165:17" { speaker="विष्टिरुवाच" }
+`annotate "165:18" { speaker="ब्रह्मोवाच" }
+`annotate "165:19..165:20" { speaker="सूर्य उवाच" }
+`annotate "165:21" { speaker="ब्रह्मोवाच" }
+`annotate "165:22" { speaker="सूर्य उवाच" }
+`annotate "165:23..165:32" { speaker="ब्रह्मोवाच" }
+`annotate "165:33" { speaker="हर्षण उवाच" }
+`annotate "165:34" { speaker="ब्रह्मोवाच" }
+`annotate "165:35..165:36" { speaker="यम उवाच" }
+`annotate "165:37" { speaker="ब्रह्मोवाच" }
+`annotate "165:38..165:44" { speaker="हर्षण उवाच" }
+`annotate "165:45..165:49" { speaker="ब्रह्मोवाच" }

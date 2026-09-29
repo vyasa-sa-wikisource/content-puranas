@@ -1,0 +1,13 @@
+`annotate "163:1..163:13" { speaker="ब्रह्मोवाच" }
+`annotate "163:14..163:16" { speaker="परशुरुवाच" }
+`annotate "163:17..163:18" { speaker="ब्रह्मोवाच" }
+`annotate "163:19..163:22" { speaker="परशुरुवाच" }
+`annotate "163:23..163:26" { speaker="ब्रह्मोवाच" }
+`annotate "163:27..163:31" { speaker="शाकल्य उवाच" }
+`annotate "163:32..163:34" { speaker="ब्रह्मोवाच" }
+`annotate "163:35..163:39" { speaker="परशुरुवाच" }
+`annotate "163:40..163:45" { speaker="ब्रह्मोवाच" }
+`annotate "163:46" { speaker="परशुरुवाच" }
+`annotate "163:47..163:48" { speaker="ब्रह्मोवाच" }
+`annotate "163:49" { speaker="जनार्दन उवाच" }
+`annotate "163:50..163:54" { speaker="ब्रह्मोवाच" }

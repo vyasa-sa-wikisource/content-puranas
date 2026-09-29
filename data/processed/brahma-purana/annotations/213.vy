@@ -1,0 +1,13 @@
+`annotate "213:1..213:9" { speaker="मुनय ऊचुः" }
+`annotate "213:10..213:51" { speaker="व्यास उवाच" }
+`annotate "213:52" { speaker="ब्रह्मोवाच" }
+`annotate "213:53..213:57" { speaker="हिरण्यकशिपुरुवाच" }
+`annotate "213:58" { speaker="ब्रह्मोवाच" }
+`annotate "213:59..213:60" { speaker="व्यास उवाच" }
+`annotate "213:61..213:62" { speaker="देवा ऊचुः" }
+`annotate "213:63" { speaker="व्यास उवाच" }
+`annotate "213:64" { speaker="ब्रह्मोवाच" }
+`annotate "213:65..213:71" { speaker="व्यास उवाच" }
+`annotate "213:72..213:73" { speaker="देवा ऊचुः" }
+`annotate "213:74..213:75" { speaker="वासुदेव उवाच" }
+`annotate "213:76..213:171" { speaker="व्यास उवाच" }

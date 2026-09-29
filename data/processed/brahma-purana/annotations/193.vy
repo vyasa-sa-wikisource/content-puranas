@@ -1,0 +1,9 @@
+`annotate "193:1..193:3" { speaker="व्यास उवाच" }
+`annotate "193:4..193:5" { speaker="कुब्जोवाच" }
+`annotate "193:6" { speaker="श्रीकृष्ण उवाच" }
+`annotate "193:7..193:17" { speaker="व्यास उवाच" }
+`annotate "193:18..193:20" { speaker="कंस उवाच" }
+`annotate "193:21..193:41" { speaker="व्यास उवाच" }
+`annotate "193:42..193:49" { speaker="स्त्रिय ऊचुः" }
+`annotate "193:50..193:79" { speaker="व्यास उवाच" }
+`annotate "193:80..193:90" { speaker="वसुदेव उवाच" }

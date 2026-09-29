@@ -1,0 +1,11 @@
+`annotate "130:1..130:4" { speaker="ब्रह्मोवाच" }
+`annotate "130:5..130:6" { speaker="आपस्तम्ब उवाच" }
+`annotate "130:7..130:14" { speaker="अगस्त्य उवाच" }
+`annotate "130:15" { speaker="आपस्तम्ब उवाच" }
+`annotate "130:16" { speaker="ब्रह्मोवाच" }
+`annotate "130:17..130:18" { speaker="अगस्त्य उवाच" }
+`annotate "130:19..130:20" { speaker="ब्रह्मोवाच" }
+`annotate "130:21" { speaker="अगस्त्य उवाच" }
+`annotate "130:22" { speaker="ब्रह्मोवाच" }
+`annotate "130:23..130:31" { speaker="आपस्तम्ब उवाच" }
+`annotate "130:32..130:35" { speaker="ब्रह्मोवाच" }

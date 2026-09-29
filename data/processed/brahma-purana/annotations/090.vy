@@ -1,0 +1,14 @@
+`annotate "90:1..90:8" { speaker="ब्रह्मोवाच" }
+`annotate "90:9" { speaker="नन्दिकेश्वर उवाच" }
+`annotate "90:10" { speaker="ब्रहमोवाच" }
+`annotate "90:11..90:13" { speaker="शिव उवाच" }
+`annotate "90:14" { speaker="विष्णुरुवाच" }
+`annotate "90:15..90:19" { speaker="गरुड उवाच" }
+`annotate "90:20..90:24" { speaker="ब्रह्मोवाच" }
+`annotate "90:25..90:27" { speaker="गरुड उवाच" }
+`annotate "90:28" { speaker="ब्रह्मोवाच" }
+`annotate "90:29" { speaker="कमलोवाच" }
+`annotate "90:30" { speaker="विष्णुरुवाच" }
+`annotate "90:31" { speaker="ब्रह्मोवाच" }
+`annotate "90:32..90:33" { speaker="शिव उवाच" }
+`annotate "90:34..90:37" { speaker="ब्रह्मोवाच" }

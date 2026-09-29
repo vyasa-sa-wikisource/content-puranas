@@ -1,0 +1,10 @@
+`annotate "116:1..116:5" { speaker="ब्रह्मोवाच" }
+`annotate "116:6" { speaker="देवा ऊचुः" }
+`annotate "116:7" { speaker="असुरा ऊचुः" }
+`annotate "116:8..116:13" { speaker="ब्रह्मोवाच" }
+`annotate "116:14" { speaker="ऋषय ऊचुः" }
+`annotate "116:15..116:16" { speaker="मृत्युरुवाच" }
+`annotate "116:17" { speaker="ब्रह्मोवाच" }
+`annotate "116:18" { speaker="मृत्युरुवाच" }
+`annotate "116:19..116:20" { speaker="ब्रह्मोवाच" }
+`annotate "116:21..116:26" { speaker="ऋषय ऊचुः" }

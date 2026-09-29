@@ -1,0 +1,13 @@
+`annotate "94:1..94:5" { speaker="ब्रह्मोवाच" }
+`annotate "94:6" { speaker="चित्रक उवाच" }
+`annotate "94:7" { speaker="ब्रह्मोवाच" }
+`annotate "94:8" { speaker="दूता ऊचुः" }
+`annotate "94:9..94:11" { speaker="ब्रह्मोवाच" }
+`annotate "94:12" { speaker="मृत्युरुवाच" }
+`annotate "94:13..94:26" { speaker="ब्रह्मोवाच" }
+`annotate "94:27..94:30" { speaker="देवा ऊचुः" }
+`annotate "94:31" { speaker="ब्रह्मोवाच" }
+`annotate "94:32..94:34" { speaker="देवा ऊचुः" }
+`annotate "94:35..94:43" { speaker="ब्रह्मोवाच" }
+`annotate "94:44" { speaker="शिव उवाच" }
+`annotate "94:45..94:50" { speaker="ब्रह्मोवाच" }

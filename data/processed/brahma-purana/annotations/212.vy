@@ -1,0 +1,14 @@
+`annotate "212:15..212:17" { speaker="आभीरा ऊचुः" }
+`annotate "212:18" { speaker="व्यास उवाच" }
+`annotate "212:19" { speaker="अर्जुन उवाच" }
+`annotate "212:20..212:29" { speaker="व्यास उवाच" }
+`annotate "212:30..212:41" { speaker="अर्जुन उवाच" }
+`annotate "212:42" { speaker="व्यास उवाच" }
+`annotate "212:43..212:53" { speaker="अर्जुन उवाच" }
+`annotate "212:54..212:76" { speaker="व्यास उवाच" }
+`annotate "212:77" { speaker="अष्टावक्र उवाच" }
+`annotate "212:78" { speaker="व्यास उवाच" }
+`annotate "212:79..212:80" { speaker="अपसरस ऊचुः" }
+`annotate "212:81..212:82" { speaker="व्यास उवाच" }
+`annotate "212:83..212:84" { speaker="अष्टावक्र उवाच" }
+`annotate "212:85..212:95" { speaker="व्यास उवाच" }

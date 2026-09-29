@@ -1,0 +1,9 @@
+`annotate "89:1..89:9" { speaker="ब्रह्मोवाच" }
+`annotate "89:10" { speaker="त्वष्टोवाच" }
+`annotate "89:11..89:17" { speaker="ब्रह्मोवाच" }
+`annotate "89:18..89:21" { speaker="यम उवाच" }
+`annotate "89:22..89:32" { speaker="ब्रह्मोवाच" }
+`annotate "89:33" { speaker="भानुरुवाच" }
+`annotate "89:34..89:40" { speaker="ब्रह्मोवाच" }
+`annotate "89:41..89:48" { speaker="भानुरुवाच" }
+`annotate "89:33..89:48" { meter="ततः कोपाद्बटून्पञ्च शशापोषापतिः प्रभुः -पा.भे." }

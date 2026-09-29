@@ -1,0 +1,10 @@
+`annotate "208:1..208:2" { speaker="मुनय ऊचुः" }
+`annotate "208:3..208:9" { speaker="व्यास उवाच" }
+`annotate "208:10" { speaker="बलदेव उवाच" }
+`annotate "208:11..208:12" { speaker="व्यास उवाच" }
+`annotate "208:13..208:18" { speaker="कौरवा ऊचुः" }
+`annotate "208:19..208:21" { speaker="व्यास उवाच" }
+`annotate "208:22..208:31" { speaker="बलदेव उवाच" }
+`annotate "208:32..208:33" { speaker="व्यास उवाच" }
+`annotate "208:34..208:35" { speaker="कौरवा ऊचुः" }
+`annotate "208:36..208:39" { speaker="व्यास उवाच" }

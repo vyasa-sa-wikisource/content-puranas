@@ -1,0 +1,13 @@
+`annotate "95:1..95:7" { speaker="ब्रह्मोवाच" }
+`annotate "95:8..95:11" { speaker="शुक्र उवाच" }
+`annotate "95:12..95:13" { speaker="ब्रह्मोवाच" }
+`annotate "95:14" { speaker="शुक्र उवाच" }
+`annotate "95:15" { speaker="ब्रह्मोवाच" }
+`annotate "95:16" { speaker="गौतम उवाच" }
+`annotate "95:17" { speaker="ब्रह्मोवाच" }
+`annotate "95:18..95:21" { speaker="शुक्र उवाच" }
+`annotate "95:22" { speaker="ब्रह्मोवाच" }
+`annotate "95:23" { speaker="शिव उवाच" }
+`annotate "95:24" { speaker="ब्रह्मोवाच" }
+`annotate "95:25" { speaker="शुक्र उवाच" }
+`annotate "95:26..95:33" { speaker="ब्रह्मोवाच" }

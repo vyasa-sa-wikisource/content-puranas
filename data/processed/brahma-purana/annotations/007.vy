@@ -1,0 +1,10 @@
+`annotate "7:1..7:7" { speaker="लोमहर्षण उवाच" }
+`annotate "7:8..7:11" { speaker="इलोवाच" }
+`annotate "7:12..7:34" { speaker="मित्रावरुणावूचतुः" }
+`annotate "7:35..7:36" { speaker="मुनय ऊचुः" }
+`annotate "7:37..7:55" { speaker="लोमहर्षण उवाच" }
+`annotate "7:56" { speaker="मुनय ऊचुः" }
+`annotate "7:57..7:59" { speaker="लोमहर्षण उवाच" }
+`annotate "7:60..7:71" { speaker="उत्तङ्क उवाच" }
+`annotate "7:72..7:73" { speaker="बृहदश्व उवाच" }
+`annotate "7:74..7:109" { speaker="लोमहर्षण उवाच" }

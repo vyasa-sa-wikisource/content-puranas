@@ -1,0 +1,11 @@
+`annotate "217:1" { speaker="लोमहर्षण उवाच" }
+`annotate "217:2..217:3" { speaker="मुनय ऊचुः" }
+`annotate "217:4..217:11" { speaker="व्यास उवाच" }
+`annotate "217:12..217:13" { speaker="मुनय ऊचुः" }
+`annotate "217:14..217:17" { speaker="व्यास उवाच" }
+`annotate "217:18" { speaker="मुनय ऊचुः" }
+`annotate "217:19..217:21" { speaker="व्यास उवाच" }
+`annotate "217:22" { speaker="मुनय ऊचुः" }
+`annotate "217:23..217:24" { speaker="व्यास उवाच" }
+`annotate "217:25" { speaker="मुनय ऊचुः" }
+`annotate "217:26..217:118" { speaker="व्यास उवाच" }

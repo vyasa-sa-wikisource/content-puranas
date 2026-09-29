@@ -1,0 +1,9 @@
+`annotate "119:1..119:4" { speaker="ब्रह्मोवाच" }
+`annotate "119:5" { speaker="ओषध्य ऊचुः" }
+`annotate "119:6..119:8" { speaker="ब्रह्मोवाच" }
+`annotate "119:9..119:12" { speaker="ओषध्य ऊचुः" }
+`annotate "119:13" { speaker="ब्रह्मोवाच" }
+`annotate "119:14" { speaker="ओषध्य ऊचुः" }
+`annotate "119:15" { speaker="ब्रह्मोवाच" }
+`annotate "119:16" { speaker="गङ्गोवाच" }
+`annotate "119:17..119:21" { speaker="ब्रह्मोवाच" }

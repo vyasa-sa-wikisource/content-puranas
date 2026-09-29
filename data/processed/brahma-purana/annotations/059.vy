@@ -1,0 +1,11 @@
+`annotate "59:1..59:3" { speaker="ब्रह्मोवाच" }
+`annotate "59:4..59:5" { speaker="मुनय ऊचुः" }
+`annotate "59:6..59:10" { speaker="ब्रह्मोवाच" }
+`annotate "59:11" { speaker="राजोवाच" }
+`annotate "59:12..59:15" { speaker="ब्रह्मोवाच" }
+`annotate "59:16..59:17" { speaker="श्वेत उवाच" }
+`annotate "59:18..59:21" { speaker="ब्रह्मोवाच" }
+`annotate "59:22" { speaker="मुनय ऊचुः" }
+`annotate "59:23..59:33" { speaker="ब्रह्मोवाच" }
+`annotate "59:34..59:72" { speaker="श्वेत उवाच" }
+`annotate "59:73..59:91" { speaker="ब्रह्मोवाच" }

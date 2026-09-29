@@ -1,0 +1,15 @@
+`annotate "34:1..34:6" { speaker="ब्रह्मोवाच" }
+`annotate "34:7..34:14" { speaker="मुनय ऊचुः" }
+`annotate "34:15" { speaker="ब्रह्मोवाच" }
+`annotate "34:16..34:21" { speaker="दक्ष उवाच" }
+`annotate "34:22..34:26" { speaker="ब्रह्मोवाच" }
+`annotate "34:27..34:32" { speaker="श्रीशङ्कर उवाच" }
+`annotate "34:33..34:37" { speaker="दक्ष उवाच" }
+`annotate "34:38..34:49" { speaker="ब्रह्मोवाच" }
+`annotate "34:50..34:53" { speaker="मुनय ऊचुः" }
+`annotate "34:54..34:56" { speaker="ब्रह्मोवाच" }
+`annotate "34:57..34:63" { speaker="कश्यप उवाच" }
+`annotate "34:64" { speaker="द्विज उवाच" }
+`annotate "34:65..34:69" { speaker="पितर ऊचुः" }
+`annotate "34:70..34:72" { speaker="कश्यप उवाच" }
+`annotate "34:73..34:100" { speaker="ब्रह्मोवाच" }

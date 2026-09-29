@@ -1,0 +1,15 @@
+`annotate "128:1..128:4" { speaker="ब्रह्मोवाच" }
+`annotate "128:5" { speaker="अग्निरुवाच" }
+`annotate "128:6..128:8" { speaker="ब्रह्मोवाच" }
+`annotate "128:9" { speaker="देवा ऊचुः" }
+`annotate "128:10..128:12" { speaker="अग्निरुवाच" }
+`annotate "128:13..128:15" { speaker="देवा ऊचुः" }
+`annotate "128:16..128:18" { speaker="ब्रह्मोवाच" }
+`annotate "128:19" { speaker="शंभुरुवाच" }
+`annotate "128:20..128:35" { speaker="ब्रह्मोवाच" }
+`annotate "128:36..128:37" { speaker="सुरासुरा ऊचुः" }
+`annotate "128:38..128:43" { speaker="ब्रह्मोवाच" }
+`annotate "128:44..128:45" { speaker="अग्निरुवाच" }
+`annotate "128:46..128:50" { speaker="ब्रह्मोवाच" }
+`annotate "128:51..128:61" { speaker="शंभुरुवाच" }
+`annotate "128:62..128:85" { speaker="ब्रह्मोवाच" }

@@ -1,0 +1,11 @@
+`annotate "71:2..71:6" { speaker="ब्रह्मोवाच" }
+`annotate "71:7..71:12" { speaker="देवा ऊचुः" }
+`annotate "71:13" { speaker="ब्रह्मोवाच" }
+`annotate "71:14..71:15" { speaker="देवा ऊचुः" }
+`annotate "71:16..71:20" { speaker="ब्रह्मोवाच" }
+`annotate "71:21..71:23" { speaker="देवा ऊचुः" }
+`annotate "71:24..71:28" { speaker="ब्रह्मोवाच" }
+`annotate "71:29..71:33" { speaker="बृहस्पतिरुवाच" }
+`annotate "71:34..71:39" { speaker="ब्रह्मोवाच" }
+`annotate "71:40" { speaker="देवा ऊचुः" }
+`annotate "71:41..71:43" { speaker="ब्रह्मोवाच" }

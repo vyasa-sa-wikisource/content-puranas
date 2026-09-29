@@ -1,0 +1,15 @@
+`annotate "141:1..141:4" { speaker="ब्रह्मोवाच" }
+`annotate "141:5" { speaker="मुनिगणा ऊचुः" }
+`annotate "141:6" { speaker="ब्रह्मोवाच" }
+`annotate "141:7" { speaker="कपिल उवाच" }
+`annotate "141:8..141:12" { speaker="ब्रह्मोवाच" }
+`annotate "141:13" { speaker="मुनय ऊचुः" }
+`annotate "141:14" { speaker="ब्रह्मोवाच" }
+`annotate "141:15" { speaker="पृथुरुवाच" }
+`annotate "141:16..141:18" { speaker="ब्रह्मोवाच" }
+`annotate "141:19" { speaker="पृथुरुवाच" }
+`annotate "141:20" { speaker="भूमिरुवाच" }
+`annotate "141:21..141:22" { speaker="पृथुरुवाच" }
+`annotate "141:23" { speaker="देवा ऊचुः" }
+`annotate "141:24" { speaker="ब्रह्मोवाच" }
+`annotate "141:25..141:31" { speaker="देवा ऊचुः" }

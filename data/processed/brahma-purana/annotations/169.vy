@@ -1,0 +1,9 @@
+`annotate "169:1..169:23" { speaker="ब्रह्मोवाच" }
+`annotate "169:24" { speaker="आदिकेश उवाच" }
+`annotate "169:25..169:26" { speaker="ब्रह्मोवाच" }
+`annotate "169:27..169:32" { speaker="वेद उवाच" }
+`annotate "169:33" { speaker="ब्रह्मोवाच" }
+`annotate "169:34" { speaker="आदिकेश उवाच" }
+`annotate "169:35..169:43" { speaker="ब्रह्मोवाच" }
+`annotate "169:44..169:45" { speaker="आदिकेश उवाच" }
+`annotate "169:46..169:50" { speaker="ब्रह्मोवाच" }

@@ -1,0 +1,9 @@
+`annotate "131:1..131:6" { speaker="ब्रह्मोवाच" }
+`annotate "131:7" { speaker="सरमोवाच" }
+`annotate "131:8" { speaker="ब्रह्मोवाच" }
+`annotate "131:9" { speaker="बृहस्पतिरुवाच" }
+`annotate "131:10..131:11" { speaker="ब्रह्मोवाच" }
+`annotate "131:12" { speaker="सरमोवाच" }
+`annotate "131:13..131:39" { speaker="ब्रह्मोवाच" }
+`annotate "131:40..131:51" { speaker="यम उवाच" }
+`annotate "131:52..131:58" { speaker="ब्रह्मोवाच" }

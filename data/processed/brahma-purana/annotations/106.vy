@@ -1,0 +1,10 @@
+`annotate "106:4..106:7" { speaker="देवदैत्या ऊचुः" }
+`annotate "106:8..106:13" { speaker="ब्रहमोवाच" }
+`annotate "106:14" { speaker="देवा ऊचुः" }
+`annotate "106:15" { speaker="ब्रह्मोवाच" }
+`annotate "106:16..106:18" { speaker="बृहस्पतिरुवाच" }
+`annotate "106:19" { speaker="ब्रह्मोवाच" }
+`annotate "106:20..106:21" { speaker="देवा ऊचुः" }
+`annotate "106:22..106:34" { speaker="ब्रह्मोवाच" }
+`annotate "106:35..106:36" { speaker="देवा ऊचुः" }
+`annotate "106:37..106:58" { speaker="ब्रह्मोवाच" }

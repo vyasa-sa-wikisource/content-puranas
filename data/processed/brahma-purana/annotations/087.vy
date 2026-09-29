@@ -1,0 +1,11 @@
+`annotate "87:1..87:42" { speaker="ब्रह्मोवाच" }
+`annotate "87:43..87:47" { speaker="इन्द्र उवाच" }
+`annotate "87:48" { speaker="रक्षिण ऊचुः" }
+`annotate "87:49..87:50" { speaker="ब्रह्मोवाच" }
+`annotate "87:51..87:54" { speaker="अहल्योवाच" }
+`annotate "87:55..87:58" { speaker="इन्द्र उवाच" }
+`annotate "87:59..87:60" { speaker="गौतम उवाच" }
+`annotate "87:61..87:63" { speaker="अहल्योवाच" }
+`annotate "87:64..87:66" { speaker="गौतम उवाच" }
+`annotate "87:67" { speaker="इन्द्र उवाच" }
+`annotate "87:68..87:71" { speaker="गौतम उवाच" }

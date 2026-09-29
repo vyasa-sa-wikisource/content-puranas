@@ -1,0 +1,11 @@
+`annotate "164:1..164:12" { speaker="ब्रह्मोवाच" }
+`annotate "164:13" { speaker="राजोवाच" }
+`annotate "164:14" { speaker="ब्रह्मोवाच" }
+`annotate "164:15..164:16" { speaker="चिच्चिक उवाच" }
+`annotate "164:17" { speaker="ब्रह्मोवाच" }
+`annotate "164:18..164:20" { speaker="राजोवाच" }
+`annotate "164:21..164:39" { speaker="ब्रह्मोवाच" }
+`annotate "164:40..164:46" { speaker="चिच्चिक उवाच" }
+`annotate "164:47..164:48" { speaker="ब्रह्मोवाच" }
+`annotate "164:49..164:51" { speaker="चिच्चिक उवाच" }
+`annotate "164:52..164:56" { speaker="ब्रह्मोवाच" }

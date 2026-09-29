@@ -1,0 +1,10 @@
+`annotate "215:1" { speaker="मुनय ऊचुः" }
+`annotate "215:2..215:32" { speaker="व्यास उवाच" }
+`annotate "215:33..215:38" { speaker="यम्या ऊचुः" }
+`annotate "215:39..215:56" { speaker="व्यास उवाच" }
+`annotate "215:57..215:64" { speaker="चित्रगुप्त उवाच" }
+`annotate "215:65..215:66" { speaker="व्यास उवाच" }
+`annotate "215:67" { speaker="यम उवाच" }
+`annotate "215:68..215:72" { speaker="व्यास उवाच" }
+`annotate "215:73..215:77" { speaker="यमदूता ऊचुः" }
+`annotate "215:78..215:142" { speaker="व्यास उवाच" }

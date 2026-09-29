@@ -1,0 +1,9 @@
+`annotate "38:10..38:11" { speaker="उमामहेश्वरावूचतुः" }
+`annotate "38:12..38:20" { speaker="ब्रह्मोवाच" }
+`annotate "38:21" { speaker="ऋषय ऊचुः" }
+`annotate "38:22..38:25" { speaker="ब्रह्मोवाच" }
+`annotate "38:26..38:29" { speaker="मेनोवाच" }
+`annotate "38:30..38:34" { speaker="देव उवाच" }
+`annotate "38:35" { speaker="ब्रह्मोवाच" }
+`annotate "38:36..38:39" { speaker="देव उवाच" }
+`annotate "38:40" { speaker="ब्रह्मोवाच" }

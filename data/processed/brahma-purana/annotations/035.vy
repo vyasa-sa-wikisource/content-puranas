@@ -1,0 +1,12 @@
+`annotate "35:1..35:12" { speaker="ब्रह्मोवाच" }
+`annotate "35:13..35:15" { speaker="शैलेन्द्र उवाच" }
+`annotate "35:16..35:17" { speaker="शिव उवाच" }
+`annotate "35:18..35:22" { speaker="ब्रह्मोवाच" }
+`annotate "35:23..35:28" { speaker="शिव उवाच" }
+`annotate "35:29..35:34" { speaker="ब्रह्मोवाच" }
+`annotate "35:35..35:38" { speaker="बाल उवाच" }
+`annotate "35:39..35:43" { speaker="ब्रह्मोवाच" }
+`annotate "35:44..35:50" { speaker="ग्राह उवाच" }
+`annotate "35:51..35:52" { speaker="ब्रह्मोवाच" }
+`annotate "35:53..35:57" { speaker="ग्राह उवाच" }
+`annotate "35:58..35:64" { speaker="ब्रह्मोवाच" }

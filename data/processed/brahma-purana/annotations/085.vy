@@ -1,0 +1,9 @@
+`annotate "85:1..85:7" { speaker="ब्रह्मोवाच" }
+`annotate "85:8..85:10" { speaker="कण्व उवाच" }
+`annotate "85:11" { speaker="ब्रहोवाच" }
+`annotate "85:12..85:14" { speaker="कण्व उवाच" }
+`annotate "85:15..85:17" { speaker="ब्रह्मोवाच" }
+`annotate "85:18" { speaker="कण्व उवाच" }
+`annotate "85:19" { speaker="ब्रह्मोवाच" }
+`annotate "85:20..85:23" { speaker="कण्व उवाच" }
+`annotate "85:24..85:25" { speaker="ब्रह्मोवाच" }

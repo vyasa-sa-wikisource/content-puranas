@@ -1,0 +1,10 @@
+`annotate "75:4..75:24" { speaker="गौतम उवाच" }
+`annotate "75:25..75:26" { speaker="ब्रह्मोवाच" }
+`annotate "75:27" { speaker="शिव उवाच" }
+`annotate "75:28..75:29" { speaker="ब्रह्मोवाच" }
+`annotate "75:30" { speaker="गौतम उवाच" }
+`annotate "75:31" { speaker="ईश्वर उवाच" }
+`annotate "75:32" { speaker="गौतम उवाच" }
+`annotate "75:33..75:34" { speaker="ब्रह्मोवाच" }
+`annotate "75:35..75:45" { speaker="गौतम् उवाच" }
+`annotate "75:46..75:51" { speaker="ब्रह्मोवाच" }

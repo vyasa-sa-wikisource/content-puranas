@@ -1,0 +1,12 @@
+`annotate "39:29" { speaker="ब्रह्मोवाच" }
+`annotate "39:30" { speaker="दधीचिरुवाच" }
+`annotate "39:31" { speaker="दक्ष उवाच" }
+`annotate "39:32" { speaker="दधीचिरुवाच" }
+`annotate "39:33..39:34" { speaker="दक्ष उवाच" }
+`annotate "39:35" { speaker="उमोवाच" }
+`annotate "39:36..39:39" { speaker="महेश्वर उवाच" }
+`annotate "39:40..39:42" { speaker="उमोवाच" }
+`annotate "39:43..39:69" { speaker="ब्रह्मोवाच" }
+`annotate "39:70..39:73" { speaker="वीरभद्र उवाच" }
+`annotate "39:74..39:92" { speaker="ब्रह्मोवाच" }
+`annotate "39:93..39:97" { speaker="दक्ष उवाच" }

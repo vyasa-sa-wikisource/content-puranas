@@ -1,0 +1,14 @@
+`annotate "32:1..32:2" { speaker="मुनय ऊचुः" }
+`annotate "32:3..32:24" { speaker="ब्रह्मोवाच" }
+`annotate "32:25..32:28" { speaker="अदितिरुवाच" }
+`annotate "32:29..32:34" { speaker="ब्रह्मोवाच" }
+`annotate "32:35..32:47" { speaker="कश्यप उवाच" }
+`annotate "32:48" { speaker="मुनय ऊचुः" }
+`annotate "32:49..32:52" { speaker="ब्रह्मोवाच" }
+`annotate "32:53..32:54" { speaker="संज्ञोवाच" }
+`annotate "32:55..32:63" { speaker="छायोवाच" }
+`annotate "32:64" { speaker="ब्रह्मोवाच" }
+`annotate "32:65..32:68" { speaker="यम उवाच" }
+`annotate "32:69..32:72" { speaker="रविरुवाच" }
+`annotate "32:73..32:76" { speaker="ब्रह्मोवाच" }
+`annotate "32:77..32:109" { speaker="विश्वकर्मोवाच" }

@@ -1,0 +1,11 @@
+`annotate "138:1..138:7" { speaker="ब्रह्मोवाच" }
+`annotate "138:8..138:9" { speaker="मधुच्छन्दा उवाच" }
+`annotate "138:10" { speaker="ब्रह्मोवाच" }
+`annotate "138:11" { speaker="राजोवाच" }
+`annotate "138:12..138:18" { speaker="ब्रह्मोवाच" }
+`annotate "138:19" { speaker="राजोवाच" }
+`annotate "138:20..138:32" { speaker="ब्रह्मोवाच" }
+`annotate "138:33..138:34" { speaker="मधुच्छन्दा उवाच" }
+`annotate "138:35" { speaker="ब्रह्मोवाच" }
+`annotate "138:36" { speaker="मधुच्छन्दा उवाच" }
+`annotate "138:37..138:42" { speaker="ब्रह्मोवाच" }

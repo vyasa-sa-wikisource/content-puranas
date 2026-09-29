@@ -1,0 +1,15 @@
+`annotate "203:6..203:19" { speaker="अदितिरुवाच" }
+`annotate "203:20" { speaker="व्यास उवाच" }
+`annotate "203:21" { speaker="श्रीकृष्ण उवाच" }
+`annotate "203:22" { speaker="अदितिरुवाच" }
+`annotate "203:23" { speaker="व्यास उवाच" }
+`annotate "203:24" { speaker="अदितिरुवाच" }
+`annotate "203:25..203:28" { speaker="व्यास उवाच" }
+`annotate "203:29..203:32" { speaker="सत्यभामोवाच" }
+`annotate "203:33" { speaker="व्यास उवाच" }
+`annotate "203:34..203:37" { speaker="वनपाला ऊचुः" }
+`annotate "203:38" { speaker="व्यास उवाच" }
+`annotate "203:39..203:44" { speaker="सत्यभामोवाच" }
+`annotate "203:45..203:63" { speaker="व्यास उवाच" }
+`annotate "203:64..203:69" { speaker="सत्यभामोवाच" }
+`annotate "203:70..203:73" { speaker="व्यास उवाच" }

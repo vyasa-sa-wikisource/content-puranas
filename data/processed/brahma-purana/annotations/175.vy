@@ -1,0 +1,17 @@
+`annotate "175:3..175:9" { speaker="ब्रह्मोवाच" }
+`annotate "175:10..175:35" { speaker="नारद उवाच" }
+`annotate "175:36" { speaker="ब्रह्मोवाच" }
+`annotate "175:37" { speaker="गजवक्त्र उवाच" }
+`annotate "175:38..175:42" { speaker="ब्रह्मोवाच" }
+`annotate "175:43..175:46" { speaker="गणेश्वर उवाच" }
+`annotate "175:47" { speaker="शंकर उवाच" }
+`annotate "175:48..175:49" { speaker="ब्रह्मोवाच" }
+`annotate "175:50" { speaker="शंभुरुवाच" }
+`annotate "175:51" { speaker="ब्रह्मोवाच" }
+`annotate "175:52..175:53" { speaker="गौतम उवाच" }
+`annotate "175:54..175:56" { speaker="ब्रह्मोवाच" }
+`annotate "175:57..175:59" { speaker="गौतम उवाच" }
+`annotate "175:60" { speaker="ब्रह्मोवाच" }
+`annotate "175:61..175:68" { speaker="शिव उवाच" }
+`annotate "175:69..175:72" { speaker="गणेश्वर उवाच" }
+`annotate "175:73..175:90" { speaker="ब्रहमोवाच" }

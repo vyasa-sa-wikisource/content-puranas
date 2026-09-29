@@ -1,0 +1,13 @@
+`annotate "73:1..73:8" { speaker="नारद उवाच" }
+`annotate "73:9..73:17" { speaker="देवा ऊचुः" }
+`annotate "73:18..73:31" { speaker="ब्रह्मोवाच" }
+`annotate "73:32..73:33" { speaker="शुक्र उवाच" }
+`annotate "73:34" { speaker="ब्रह्मोवाच" }
+`annotate "73:35" { speaker="बलिरुवाच" }
+`annotate "73:36..73:43" { speaker="ब्रह्मोवाच" }
+`annotate "73:44" { speaker="बलिरुवाच" }
+`annotate "73:45" { speaker="ब्रह्मोवाच" }
+`annotate "73:46" { speaker="विष्णुरुवाच" }
+`annotate "73:47..73:49" { speaker="ब्रह्मोवाच" }
+`annotate "73:50..73:51" { speaker="बलिरुवाच" }
+`annotate "73:52..73:70" { speaker="ब्रह्मोवाच" }

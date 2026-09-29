@@ -1,0 +1,10 @@
+`annotate "126:13" { speaker="ऋषय ऊचुः" }
+`annotate "126:14..126:17" { speaker="ब्रह्मोवाच" }
+`annotate "126:18" { speaker="मुनय ऊचुः" }
+`annotate "126:19" { speaker="ब्रह्मोवाच" }
+`annotate "126:20" { speaker="मुनय ऊचुः" }
+`annotate "126:21" { speaker="ब्रह्मोवाच" }
+`annotate "126:22" { speaker="भूमिरुवाच" }
+`annotate "126:23" { speaker="ब्रह्मोवाच" }
+`annotate "126:24..126:27" { speaker="ऋषय ऊचुः" }
+`annotate "126:28..126:41" { speaker="ब्रह्मोवाच" }

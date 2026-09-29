@@ -1,0 +1,13 @@
+`annotate "78:7" { speaker="वसिष्ठ उवाच" }
+`annotate "78:8..78:53" { speaker="ब्रह्मोवाच" }
+`annotate "78:54" { speaker="कपिल उवाच" }
+`annotate "78:55" { speaker="ब्रह्मोवाच" }
+`annotate "78:56..78:58" { speaker="भगीरथ उवाच" }
+`annotate "78:59" { speaker="ब्रह्मोवाच" }
+`annotate "78:60" { speaker="शिव उवाच" }
+`annotate "78:61" { speaker="ब्रह्मोवाच" }
+`annotate "78:62" { speaker="भगीरथ उवाच" }
+`annotate "78:63" { speaker="ब्रह्मोवाच" }
+`annotate "78:64" { speaker="शिव उवाच" }
+`annotate "78:65..78:68" { speaker="ब्रह्मोवाच" }
+`annotate "78:69..78:78" { speaker="भगीरथ उवाच" }

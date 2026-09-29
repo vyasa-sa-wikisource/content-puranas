@@ -1,0 +1,10 @@
+`annotate "80:1..80:55" { speaker="ब्रह्मोवाच" }
+`annotate "80:56..80:60" { speaker="कपोत उवाच" }
+`annotate "80:61..80:66" { speaker="ब्रह्मोवाच" }
+`annotate "80:67" { speaker="कपोत उवाच" }
+`annotate "80:68..80:69" { speaker="ब्रह्मोवाच" }
+`annotate "80:70" { speaker="लुब्धक उवाच" }
+`annotate "80:71..80:83" { speaker="ब्रह्मोवाच" }
+`annotate "80:84" { speaker="ब्रह्मो उवाच" }
+`annotate "80:85..80:89" { speaker="लुब्धक उवाच" }
+`annotate "80:90..80:94" { speaker="ब्रह्मोवाच" }

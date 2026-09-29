@@ -1,0 +1,14 @@
+`annotate "140:1..140:10" { speaker="ब्रह्मोवाच" }
+`annotate "140:11" { speaker="आत्रेय उवाच" }
+`annotate "140:12" { speaker="ब्रह्मोवाच" }
+`annotate "140:13" { speaker="आत्रेय उवाच" }
+`annotate "140:14..140:21" { speaker="ब्रह्मोवाच" }
+`annotate "140:22..140:26" { speaker="आत्रेय उवाच" }
+`annotate "140:27" { speaker="असुरा ऊचुः" }
+`annotate "140:28..140:29" { speaker="ब्रह्मोवाच" }
+`annotate "140:30..140:31" { speaker="आत्रेय उवाच" }
+`annotate "140:32..140:34" { speaker="ब्रह्मोवाच" }
+`annotate "140:35" { speaker="आत्रेय उवाच" }
+`annotate "140:36" { speaker="ब्रह्मोवाच" }
+`annotate "140:37..140:40" { speaker="सुरा ऊचुः" }
+`annotate "140:41..140:42" { speaker="ब्रह्मोवाच" }

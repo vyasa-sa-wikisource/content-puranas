@@ -1,0 +1,12 @@
+`annotate "92:1..92:23" { speaker="ब्रह्मोवाच" }
+`annotate "92:24" { speaker="गालव उवाच" }
+`annotate "92:25" { speaker="ब्रह्मोवाच" }
+`annotate "92:26" { speaker="ब्रह्मण उवाच" }
+`annotate "92:27" { speaker="ब्रह्मोवाच" }
+`annotate "92:28..92:31" { speaker="ब्राह्मण उवाच" }
+`annotate "92:32" { speaker="ब्रह्मोवाच" }
+`annotate "92:33..92:34" { speaker="वेश्योवाच" }
+`annotate "92:35" { speaker="ब्राह्मण उवाच" }
+`annotate "92:36" { speaker="ब्रह्मोवाच" }
+`annotate "92:37..92:38" { speaker="ब्राह्मण उवाच" }
+`annotate "92:39..92:50" { speaker="ब्रह्मोवाच" }

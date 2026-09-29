@@ -1,0 +1,15 @@
+`annotate "146:1..146:11" { speaker="ब्रह्मोवाच" }
+`annotate "146:12..146:14" { speaker="शुक्र उवाच" }
+`annotate "146:15" { speaker="ब्रह्मोवाच" }
+`annotate "146:16..146:18" { speaker="ययातिरुवाच" }
+`annotate "146:19..146:20" { speaker="ब्रह्मोवाच" }
+`annotate "146:21..146:22" { speaker="शुक्र उवाच" }
+`annotate "146:23..146:24" { speaker="ब्रह्मोवाच" }
+`annotate "146:25" { speaker="ययातिरुवाच" }
+`annotate "146:26" { speaker="ब्रह्मोवाच" }
+`annotate "146:27" { speaker="ययातिरुवाच" }
+`annotate "146:28..146:33" { speaker="ब्रह्मोवाच" }
+`annotate "146:34" { speaker="ययातिरुवाच" }
+`annotate "146:35..146:39" { speaker="ब्रह्मोवाच" }
+`annotate "146:40" { speaker="पूरुरुवाच" }
+`annotate "146:41..146:46" { speaker="ब्रह्मोवाच" }

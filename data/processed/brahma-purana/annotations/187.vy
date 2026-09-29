@@ -1,0 +1,10 @@
+`annotate "187:1..187:18" { speaker="व्यास उवाच" }
+`annotate "187:19..187:20" { speaker="बलराम उवाच" }
+`annotate "187:21" { speaker="व्यास उवाच" }
+`annotate "187:22..187:25" { speaker="कृष्ण उवाच" }
+`annotate "187:26..187:33" { speaker="व्यास उवाच" }
+`annotate "187:34" { speaker="कृष्ण उवाच" }
+`annotate "187:35..187:40" { speaker="नन्द उवाच" }
+`annotate "187:41" { speaker="व्यास उवाच" }
+`annotate "187:42..187:54" { speaker="कृष्ण उवाच" }
+`annotate "187:55..187:61" { speaker="व्यास उवाच" }
