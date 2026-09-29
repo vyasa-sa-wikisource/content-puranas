@@ -1,0 +1,17 @@
+`annotate "1:11:1..1:11:15" { speaker="श्रीपराशर उवाच" }
+`annotate "1:11:16..1:11:24" { speaker="सुनीतिरुवाच" }
+`annotate "1:11:25..1:11:29" { speaker="ध्रुव उवाच" }
+`annotate "1:11:30..1:11:32" { speaker="श्रीपराशर उवाच" }
+`annotate "1:11:33" { speaker="ध्रुव उवाच" }
+`annotate "1:11:34..1:11:36" { speaker="ऋषय ऊचुः" }
+`annotate "1:11:37..1:11:40" { speaker="श्रीपराशर उवाच" }
+`annotate "1:11:41..1:11:42" { speaker="ध्रुव उवाच" }
+`annotate "1:11:43" { speaker="मरीचिरुवाच" }
+`annotate "1:11:44" { speaker="अत्रिरुवाच" }
+`annotate "1:11:45" { speaker="अङ्गिरा उवाच" }
+`annotate "1:11:46" { speaker="पुलस्त्य उवाच" }
+`annotate "1:11:47" { speaker="पुलह उवाच" }
+`annotate "1:11:48" { speaker="क्रतुरुवाच" }
+`annotate "1:11:49" { speaker="वसिष्ठ उवाच" }
+`annotate "1:11:50..1:11:51" { speaker="ध्रुव उवाच" }
+`annotate "1:11:52..1:11:57" { speaker="ऋषय ऊचुः" }

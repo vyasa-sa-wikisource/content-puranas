@@ -1,0 +1,758 @@
+[
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः १",
+    "amsa": 1,
+    "adhyaya": 1,
+    "file": "amsa-01/adhyaya-01.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः २",
+    "amsa": 1,
+    "adhyaya": 2,
+    "file": "amsa-01/adhyaya-02.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः ३",
+    "amsa": 1,
+    "adhyaya": 3,
+    "file": "amsa-01/adhyaya-03.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः ४",
+    "amsa": 1,
+    "adhyaya": 4,
+    "file": "amsa-01/adhyaya-04.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः ५",
+    "amsa": 1,
+    "adhyaya": 5,
+    "file": "amsa-01/adhyaya-05.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः ६",
+    "amsa": 1,
+    "adhyaya": 6,
+    "file": "amsa-01/adhyaya-06.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः ७",
+    "amsa": 1,
+    "adhyaya": 7,
+    "file": "amsa-01/adhyaya-07.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः ८",
+    "amsa": 1,
+    "adhyaya": 8,
+    "file": "amsa-01/adhyaya-08.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः ९",
+    "amsa": 1,
+    "adhyaya": 9,
+    "file": "amsa-01/adhyaya-09.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः १०",
+    "amsa": 1,
+    "adhyaya": 10,
+    "file": "amsa-01/adhyaya-10.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः ११",
+    "amsa": 1,
+    "adhyaya": 11,
+    "file": "amsa-01/adhyaya-11.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः १२",
+    "amsa": 1,
+    "adhyaya": 12,
+    "file": "amsa-01/adhyaya-12.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः १३",
+    "amsa": 1,
+    "adhyaya": 13,
+    "file": "amsa-01/adhyaya-13.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः १४",
+    "amsa": 1,
+    "adhyaya": 14,
+    "file": "amsa-01/adhyaya-14.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः १५",
+    "amsa": 1,
+    "adhyaya": 15,
+    "file": "amsa-01/adhyaya-15.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः १६",
+    "amsa": 1,
+    "adhyaya": 16,
+    "file": "amsa-01/adhyaya-16.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः १७",
+    "amsa": 1,
+    "adhyaya": 17,
+    "file": "amsa-01/adhyaya-17.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः १८",
+    "amsa": 1,
+    "adhyaya": 18,
+    "file": "amsa-01/adhyaya-18.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः १९",
+    "amsa": 1,
+    "adhyaya": 19,
+    "file": "amsa-01/adhyaya-19.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः २०",
+    "amsa": 1,
+    "adhyaya": 20,
+    "file": "amsa-01/adhyaya-20.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः २१",
+    "amsa": 1,
+    "adhyaya": 21,
+    "file": "amsa-01/adhyaya-21.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/प्रथमांशः/अध्यायः २२",
+    "amsa": 1,
+    "adhyaya": 22,
+    "file": "amsa-01/adhyaya-22.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः १",
+    "amsa": 2,
+    "adhyaya": 1,
+    "file": "amsa-02/adhyaya-01.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः २",
+    "amsa": 2,
+    "adhyaya": 2,
+    "file": "amsa-02/adhyaya-02.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः ३",
+    "amsa": 2,
+    "adhyaya": 3,
+    "file": "amsa-02/adhyaya-03.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः ४",
+    "amsa": 2,
+    "adhyaya": 4,
+    "file": "amsa-02/adhyaya-04.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः ५",
+    "amsa": 2,
+    "adhyaya": 5,
+    "file": "amsa-02/adhyaya-05.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः ६",
+    "amsa": 2,
+    "adhyaya": 6,
+    "file": "amsa-02/adhyaya-06.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः ७",
+    "amsa": 2,
+    "adhyaya": 7,
+    "file": "amsa-02/adhyaya-07.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः ८",
+    "amsa": 2,
+    "adhyaya": 8,
+    "file": "amsa-02/adhyaya-08.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः ९",
+    "amsa": 2,
+    "adhyaya": 9,
+    "file": "amsa-02/adhyaya-09.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः १०",
+    "amsa": 2,
+    "adhyaya": 10,
+    "file": "amsa-02/adhyaya-10.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः ११",
+    "amsa": 2,
+    "adhyaya": 11,
+    "file": "amsa-02/adhyaya-11.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः १२",
+    "amsa": 2,
+    "adhyaya": 12,
+    "file": "amsa-02/adhyaya-12.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः १३",
+    "amsa": 2,
+    "adhyaya": 13,
+    "file": "amsa-02/adhyaya-13.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः १४",
+    "amsa": 2,
+    "adhyaya": 14,
+    "file": "amsa-02/adhyaya-14.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः १५",
+    "amsa": 2,
+    "adhyaya": 15,
+    "file": "amsa-02/adhyaya-15.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/द्वितीयांशः/अध्यायः १६",
+    "amsa": 2,
+    "adhyaya": 16,
+    "file": "amsa-02/adhyaya-16.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः १",
+    "amsa": 3,
+    "adhyaya": 1,
+    "file": "amsa-03/adhyaya-01.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः २",
+    "amsa": 3,
+    "adhyaya": 2,
+    "file": "amsa-03/adhyaya-02.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः ३",
+    "amsa": 3,
+    "adhyaya": 3,
+    "file": "amsa-03/adhyaya-03.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः ४",
+    "amsa": 3,
+    "adhyaya": 4,
+    "file": "amsa-03/adhyaya-04.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः ५",
+    "amsa": 3,
+    "adhyaya": 5,
+    "file": "amsa-03/adhyaya-05.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः ६",
+    "amsa": 3,
+    "adhyaya": 6,
+    "file": "amsa-03/adhyaya-06.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः ७",
+    "amsa": 3,
+    "adhyaya": 7,
+    "file": "amsa-03/adhyaya-07.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः ८",
+    "amsa": 3,
+    "adhyaya": 8,
+    "file": "amsa-03/adhyaya-08.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः ९",
+    "amsa": 3,
+    "adhyaya": 9,
+    "file": "amsa-03/adhyaya-09.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः १०",
+    "amsa": 3,
+    "adhyaya": 10,
+    "file": "amsa-03/adhyaya-10.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः ११",
+    "amsa": 3,
+    "adhyaya": 11,
+    "file": "amsa-03/adhyaya-11.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः १२",
+    "amsa": 3,
+    "adhyaya": 12,
+    "file": "amsa-03/adhyaya-12.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः १३",
+    "amsa": 3,
+    "adhyaya": 13,
+    "file": "amsa-03/adhyaya-13.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः १४",
+    "amsa": 3,
+    "adhyaya": 14,
+    "file": "amsa-03/adhyaya-14.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः १५",
+    "amsa": 3,
+    "adhyaya": 15,
+    "file": "amsa-03/adhyaya-15.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः १६",
+    "amsa": 3,
+    "adhyaya": 16,
+    "file": "amsa-03/adhyaya-16.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः १७",
+    "amsa": 3,
+    "adhyaya": 17,
+    "file": "amsa-03/adhyaya-17.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/तृतीयांशः/अध्यायः १८",
+    "amsa": 3,
+    "adhyaya": 18,
+    "file": "amsa-03/adhyaya-18.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः १",
+    "amsa": 4,
+    "adhyaya": 1,
+    "file": "amsa-04/adhyaya-01.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः २",
+    "amsa": 4,
+    "adhyaya": 2,
+    "file": "amsa-04/adhyaya-02.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः ३",
+    "amsa": 4,
+    "adhyaya": 3,
+    "file": "amsa-04/adhyaya-03.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः ४",
+    "amsa": 4,
+    "adhyaya": 4,
+    "file": "amsa-04/adhyaya-04.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः ५",
+    "amsa": 4,
+    "adhyaya": 5,
+    "file": "amsa-04/adhyaya-05.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः ६",
+    "amsa": 4,
+    "adhyaya": 6,
+    "file": "amsa-04/adhyaya-06.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः ७",
+    "amsa": 4,
+    "adhyaya": 7,
+    "file": "amsa-04/adhyaya-07.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः ८",
+    "amsa": 4,
+    "adhyaya": 8,
+    "file": "amsa-04/adhyaya-08.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः ९",
+    "amsa": 4,
+    "adhyaya": 9,
+    "file": "amsa-04/adhyaya-09.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः १०",
+    "amsa": 4,
+    "adhyaya": 10,
+    "file": "amsa-04/adhyaya-10.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः ११",
+    "amsa": 4,
+    "adhyaya": 11,
+    "file": "amsa-04/adhyaya-11.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः १२",
+    "amsa": 4,
+    "adhyaya": 12,
+    "file": "amsa-04/adhyaya-12.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः १३",
+    "amsa": 4,
+    "adhyaya": 13,
+    "file": "amsa-04/adhyaya-13.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः १४",
+    "amsa": 4,
+    "adhyaya": 14,
+    "file": "amsa-04/adhyaya-14.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः १५",
+    "amsa": 4,
+    "adhyaya": 15,
+    "file": "amsa-04/adhyaya-15.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः १६",
+    "amsa": 4,
+    "adhyaya": 16,
+    "file": "amsa-04/adhyaya-16.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः १७",
+    "amsa": 4,
+    "adhyaya": 17,
+    "file": "amsa-04/adhyaya-17.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः १८",
+    "amsa": 4,
+    "adhyaya": 18,
+    "file": "amsa-04/adhyaya-18.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः १९",
+    "amsa": 4,
+    "adhyaya": 19,
+    "file": "amsa-04/adhyaya-19.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः २०",
+    "amsa": 4,
+    "adhyaya": 20,
+    "file": "amsa-04/adhyaya-20.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः २१",
+    "amsa": 4,
+    "adhyaya": 21,
+    "file": "amsa-04/adhyaya-21.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः २२",
+    "amsa": 4,
+    "adhyaya": 22,
+    "file": "amsa-04/adhyaya-22.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः २३",
+    "amsa": 4,
+    "adhyaya": 23,
+    "file": "amsa-04/adhyaya-23.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/चतुर्थांशः/अध्यायः २४",
+    "amsa": 4,
+    "adhyaya": 24,
+    "file": "amsa-04/adhyaya-24.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः १",
+    "amsa": 5,
+    "adhyaya": 1,
+    "file": "amsa-05/adhyaya-01.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः २",
+    "amsa": 5,
+    "adhyaya": 2,
+    "file": "amsa-05/adhyaya-02.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ३",
+    "amsa": 5,
+    "adhyaya": 3,
+    "file": "amsa-05/adhyaya-03.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ४",
+    "amsa": 5,
+    "adhyaya": 4,
+    "file": "amsa-05/adhyaya-04.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ५",
+    "amsa": 5,
+    "adhyaya": 5,
+    "file": "amsa-05/adhyaya-05.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ६",
+    "amsa": 5,
+    "adhyaya": 6,
+    "file": "amsa-05/adhyaya-06.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ७",
+    "amsa": 5,
+    "adhyaya": 7,
+    "file": "amsa-05/adhyaya-07.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ८",
+    "amsa": 5,
+    "adhyaya": 8,
+    "file": "amsa-05/adhyaya-08.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ९",
+    "amsa": 5,
+    "adhyaya": 9,
+    "file": "amsa-05/adhyaya-09.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः १०",
+    "amsa": 5,
+    "adhyaya": 10,
+    "file": "amsa-05/adhyaya-10.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ११",
+    "amsa": 5,
+    "adhyaya": 11,
+    "file": "amsa-05/adhyaya-11.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः १२",
+    "amsa": 5,
+    "adhyaya": 12,
+    "file": "amsa-05/adhyaya-12.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः १३",
+    "amsa": 5,
+    "adhyaya": 13,
+    "file": "amsa-05/adhyaya-13.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः १४",
+    "amsa": 5,
+    "adhyaya": 14,
+    "file": "amsa-05/adhyaya-14.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः १५",
+    "amsa": 5,
+    "adhyaya": 15,
+    "file": "amsa-05/adhyaya-15.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः १६",
+    "amsa": 5,
+    "adhyaya": 16,
+    "file": "amsa-05/adhyaya-16.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः १७",
+    "amsa": 5,
+    "adhyaya": 17,
+    "file": "amsa-05/adhyaya-17.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः १८",
+    "amsa": 5,
+    "adhyaya": 18,
+    "file": "amsa-05/adhyaya-18.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः १९",
+    "amsa": 5,
+    "adhyaya": 19,
+    "file": "amsa-05/adhyaya-19.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः २०",
+    "amsa": 5,
+    "adhyaya": 20,
+    "file": "amsa-05/adhyaya-20.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः २१",
+    "amsa": 5,
+    "adhyaya": 21,
+    "file": "amsa-05/adhyaya-21.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः २२",
+    "amsa": 5,
+    "adhyaya": 22,
+    "file": "amsa-05/adhyaya-22.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः २३",
+    "amsa": 5,
+    "adhyaya": 23,
+    "file": "amsa-05/adhyaya-23.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः २४",
+    "amsa": 5,
+    "adhyaya": 24,
+    "file": "amsa-05/adhyaya-24.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः २५",
+    "amsa": 5,
+    "adhyaya": 25,
+    "file": "amsa-05/adhyaya-25.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः २६",
+    "amsa": 5,
+    "adhyaya": 26,
+    "file": "amsa-05/adhyaya-26.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः २७",
+    "amsa": 5,
+    "adhyaya": 27,
+    "file": "amsa-05/adhyaya-27.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः २८",
+    "amsa": 5,
+    "adhyaya": 28,
+    "file": "amsa-05/adhyaya-28.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः २९",
+    "amsa": 5,
+    "adhyaya": 29,
+    "file": "amsa-05/adhyaya-29.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ३०",
+    "amsa": 5,
+    "adhyaya": 30,
+    "file": "amsa-05/adhyaya-30.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ३१",
+    "amsa": 5,
+    "adhyaya": 31,
+    "file": "amsa-05/adhyaya-31.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ३२",
+    "amsa": 5,
+    "adhyaya": 32,
+    "file": "amsa-05/adhyaya-32.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ३३",
+    "amsa": 5,
+    "adhyaya": 33,
+    "file": "amsa-05/adhyaya-33.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ३४",
+    "amsa": 5,
+    "adhyaya": 34,
+    "file": "amsa-05/adhyaya-34.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ३५",
+    "amsa": 5,
+    "adhyaya": 35,
+    "file": "amsa-05/adhyaya-35.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ३६",
+    "amsa": 5,
+    "adhyaya": 36,
+    "file": "amsa-05/adhyaya-36.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ३७",
+    "amsa": 5,
+    "adhyaya": 37,
+    "file": "amsa-05/adhyaya-37.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/पञ्चमांशः/अध्यायः ३८",
+    "amsa": 5,
+    "adhyaya": 38,
+    "file": "amsa-05/adhyaya-38.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/षष्टांशः/अध्यायः १",
+    "amsa": 6,
+    "adhyaya": 1,
+    "file": "amsa-06/adhyaya-01.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/षष्टांशः/अध्यायः २",
+    "amsa": 6,
+    "adhyaya": 2,
+    "file": "amsa-06/adhyaya-02.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/षष्टांशः/अध्यायः ३",
+    "amsa": 6,
+    "adhyaya": 3,
+    "file": "amsa-06/adhyaya-03.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/षष्टांशः/अध्यायः ४",
+    "amsa": 6,
+    "adhyaya": 4,
+    "file": "amsa-06/adhyaya-04.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/षष्टांशः/अध्यायः ५",
+    "amsa": 6,
+    "adhyaya": 5,
+    "file": "amsa-06/adhyaya-05.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/षष्टांशः/अध्यायः ६",
+    "amsa": 6,
+    "adhyaya": 6,
+    "file": "amsa-06/adhyaya-06.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/षष्टांशः/अध्यायः ७",
+    "amsa": 6,
+    "adhyaya": 7,
+    "file": "amsa-06/adhyaya-07.wikitext.json"
+  },
+  {
+    "title": "विष्णुपुराणम्/षष्टांशः/अध्यायः ८",
+    "amsa": 6,
+    "adhyaya": 8,
+    "file": "amsa-06/adhyaya-08.wikitext.json"
+  }
+]

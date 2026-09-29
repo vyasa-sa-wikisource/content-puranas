@@ -1,0 +1,10 @@
+`annotate "6:7:1" { speaker="केशिध्वज उवाच" }
+`annotate "6:7:2..6:7:7" { speaker="खांडिक्य उवाच" }
+`annotate "6:7:8" { speaker="श्रीपराशर उवाच" }
+`annotate "6:7:9..6:7:25" { speaker="केशिध्वज उवाच" }
+`annotate "6:7:26" { speaker="खांडिक्य उवाच" }
+`annotate "6:7:27..6:7:45" { speaker="केशिध्वज उवाच" }
+`annotate "6:7:46" { speaker="खाडिक्य उवाच" }
+`annotate "6:7:47..6:7:97" { speaker="केशिध्वज उवाच" }
+`annotate "6:7:98..6:7:101" { speaker="खांडिक्य उवाच" }
+`annotate "6:7:102..6:7:106" { speaker="श्रीपराशर उवाच" }

@@ -1,0 +1,11 @@
+`annotate "1:14:8" { speaker="श्रीमैत्रेय उवाच" }
+`annotate "1:14:9" { speaker="श्रीपराशर उवाच" }
+`annotate "1:14:10..1:14:11" { speaker="प्राचीनबर्हिरुवाच" }
+`annotate "1:14:12" { speaker="श्रीपराशर उवाच" }
+`annotate "1:14:13" { speaker="प्रचेतस ऊचुः" }
+`annotate "1:14:14..1:14:17" { speaker="पितोवाच" }
+`annotate "1:14:18..1:14:20" { speaker="श्रीपराशर उवाच" }
+`annotate "1:14:21" { speaker="श्रीमैत्रेय उवाच" }
+`annotate "1:14:22" { speaker="श्रीपराशर उवाच" }
+`annotate "1:14:23..1:14:43" { speaker="प्रचेतस ऊचुः" }
+`annotate "1:14:44..1:14:49" { speaker="श्रीपराशर उवाच" }

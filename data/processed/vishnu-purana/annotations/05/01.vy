@@ -1,0 +1,10 @@
+`annotate "5:1:1..5:1:2" { speaker="मैत्रेय उवाच" }
+`annotate "5:1:3..5:1:7" { speaker="श्रीपारशर उवाच" }
+`annotate "5:1:8..5:1:12" { speaker="श्रीपराशर उवाच" }
+`annotate "5:1:13..5:1:28" { speaker="भूमिरुवाच" }
+`annotate "5:1:29..5:1:32" { speaker="ब्रह्मोवाच" }
+`annotate "5:1:33" { speaker="श्रीपराशर उवाच" }
+`annotate "5:1:34..5:1:50" { speaker="ब्रह्मोवाच" }
+`annotate "5:1:51..5:1:53" { speaker="श्रीपराशर उवाच" }
+`annotate "5:1:54..5:1:58" { speaker="ब्रह्मोवाच" }
+`annotate "5:1:59..5:1:85" { speaker="श्रीपराशर उवाच" }

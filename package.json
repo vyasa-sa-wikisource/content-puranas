@@ -8,10 +8,11 @@
     "crawl:bhagavata": "bun run src/crawl/bhagavata.ts",
     "crawl:markandeya": "bun run src/crawl/markandeya.ts",
     "crawl:brahma": "bun run src/crawl/brahma.ts",
+    "crawl:vishnu": "bun run src/crawl/vishnu.ts",
     "transform:markandeya": "bun run src/transform/markandeya.ts",
     "transform:bhagavata": "bun run src/transform/bhagavata.ts",
     "transform:brahma": "bun run src/transform/brahma.ts",
-    "test": "bun test src",
-    "deploy": "gh-pages -d content-puranas/dist --dotfiles --nojekyll"
+    "transform:vishnu": "bun run src/transform/vishnu.ts",
+    "test": "bun test src"
   }
 }

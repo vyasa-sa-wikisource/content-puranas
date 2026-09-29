@@ -1,0 +1,23 @@
+[workspace]
+name = "vishnu-purana"
+title = "विष्णुपुराणम्"
+description = "Viṣṇu Purāṇa from Sanskrit Wikisource"
+
+[catalog]
+type = "work"
+language = "sa"
+license = "CC-BY-SA-4.0"
+
+[publish]
+publisher_dir = "../../../../publisher/sa_wikisource"
+
+[urn]
+path_schema = ["amsa", "adhyaya"]
+corpus = "vishnu-purana"
+hierarchy = ["amsa", "adhyaya", "verse"]
+
+[build.default]
+layout = "sequence"
+target = "view"
+publisher_css = ["styles/indic-verse.css"]
+css = ["templates/html/theme.css", "templates/html/reading.css"]
