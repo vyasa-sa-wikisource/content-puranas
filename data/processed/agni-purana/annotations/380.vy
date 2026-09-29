@@ -1,0 +1,10 @@
+`annotate "380:1..380:5" { speaker="अग्निरुवाच" }
+`annotate "380:6" { speaker="राजोवाच" }
+`annotate "380:7..380:21" { speaker="ब्राह्मण उवाच" }
+`annotate "380:22..380:39" { speaker="राजोवाच" }
+`annotate "380:40..380:47" { speaker="ब्राह्मण उवाच" }
+`annotate "380:48..380:55" { speaker="ऋतुरुवाच" }
+`annotate "380:56" { speaker="निदाघ उवाच" }
+`annotate "380:57..380:62" { speaker="ऋतुरुवाच" }
+`annotate "380:63..380:65" { speaker="ब्राह्मण उवाच" }
+`annotate "380:66" { speaker="अग्निरुवाच" }

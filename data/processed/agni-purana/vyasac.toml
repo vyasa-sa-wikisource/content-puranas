@@ -1,0 +1,23 @@
+[workspace]
+name = "agni-purana"
+title = "अग्निपुराणम्"
+description = "Agni Purāṇa from Sanskrit Wikisource"
+
+[catalog]
+type = "work"
+language = "sa"
+license = "CC-BY-SA-4.0"
+
+[publish]
+publisher_dir = "../../../../publisher/sa_wikisource"
+
+[urn]
+path_schema = ["adhyaya"]
+corpus = "agni-purana"
+hierarchy = ["adhyaya", "verse"]
+
+[build.default]
+layout = "sequence"
+target = "view"
+publisher_css = ["styles/indic-verse.css"]
+css = ["templates/html/theme.css", "templates/html/reading.css"]
