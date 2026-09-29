@@ -1,0 +1,12 @@
+`annotate "39:1" { speaker="अष्टक उवाच" }
+`annotate "39:2" { speaker="ययातिरुवाच" }
+`annotate "39:3" { speaker="अष्टक उवाच" }
+`annotate "39:4..39:5" { speaker="ययातिरुवाच" }
+`annotate "39:6" { speaker="अष्टक उवाच" }
+`annotate "39:7..39:8" { speaker="ययातिरुवाच" }
+`annotate "39:9" { speaker="अष्टक उवाच" }
+`annotate "39:10..39:16" { speaker="ययातिरुवाच" }
+`annotate "39:17" { speaker="अष्टक उवाच" }
+`annotate "39:18..39:20" { speaker="ययातिरुवाच" }
+`annotate "39:21" { speaker="अष्टक उवाच" }
+`annotate "39:22..39:28" { speaker="ययातिरुवाच" }

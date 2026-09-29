@@ -1,0 +1,10 @@
+`annotate "246:10..246:13" { speaker="बलिरुवाच" }
+`annotate "246:14..246:18" { speaker="शुक्र उवाच" }
+`annotate "246:19..246:36" { speaker="बलिरुवाच" }
+`annotate "246:37..246:44" { speaker="शौनक उवाच" }
+`annotate "246:45..246:49" { speaker="बलिरुवाच" }
+`annotate "246:50..246:82" { speaker="वामन उवाच" }
+`annotate "246:83..246:85" { speaker="बलिरुवाच" }
+`annotate "246:86..246:91" { speaker="शौनक उवाच" }
+`annotate "246:92" { speaker="अर्जुन उवाच" }
+`annotate "246:93..246:96" { speaker="सूत उवाच" }

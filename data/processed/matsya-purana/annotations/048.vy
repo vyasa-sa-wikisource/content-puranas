@@ -1,0 +1,9 @@
+`annotate "48:1..48:29" { speaker="सूत उवाच" }
+`annotate "48:30..48:31" { speaker="मुनय ऊचुः" }
+`annotate "48:32..48:48" { speaker="सूत उवाच" }
+`annotate "48:49..48:50" { speaker="वृषभ उवाच" }
+`annotate "48:51..48:71" { speaker="सूत उवाच" }
+`annotate "48:72..48:76" { speaker="सुदेष्णोवाच" }
+`annotate "48:77..48:103" { speaker="सूत उवाच" }
+`annotate "48:104" { speaker="ऋषय ऊचुः" }
+`annotate "48:105..48:109" { speaker="सूत उवाच" }

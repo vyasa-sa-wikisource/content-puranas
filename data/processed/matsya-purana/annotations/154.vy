@@ -1,0 +1,11 @@
+`annotate "154:7..154:17" { speaker="देवा ऊचुः" }
+`annotate "154:18..154:115" { speaker="ब्रह्मोवाच" }
+`annotate "154:116..154:124" { speaker="इन्द्र उवाच" }
+`annotate "154:125..154:274" { speaker="नारद उवाच" }
+`annotate "154:275..154:284" { speaker="शङ्कर उवाच" }
+`annotate "154:285..154:330" { speaker="रतिरुवाच" }
+`annotate "154:331..154:406" { speaker="मुनयः ऊचुः" }
+`annotate "154:407..154:410" { speaker="शर्व उवाच" }
+`annotate "154:411..154:539" { speaker="मुनय ऊचुः" }
+`annotate "154:540..154:555" { speaker="शङ्कर उवाच" }
+`annotate "154:556..154:590" { speaker="उमोवाच" }

@@ -1,0 +1,16 @@
+`annotate "187:1..187:6" { speaker="मार्कण्डेय उवाच" }
+`annotate "187:7..187:13" { speaker="ऋषय ऊचुः" }
+`annotate "187:14..187:22" { speaker="नारद उवाच" }
+`annotate "187:23..187:24" { speaker="बाण उवाच" }
+`annotate "187:25" { speaker="अनौपम्योवाच" }
+`annotate "187:26..187:37" { speaker="नारदः उवाच" }
+`annotate "187:38..187:42" { speaker="अनौपम्योवाच" }
+`annotate "187:43..187:51" { speaker="नारद उवाच" }
+`annotate "187:52..187:57" { speaker="मार्कण्डेय उवाच" }
+`annotate "187:58..187:64" { speaker="ऋषय ऊचुः" }
+`annotate "187:65..187:73" { speaker="नारद उवाच" }
+`annotate "187:74..187:75" { speaker="बाण उवाच" }
+`annotate "187:76" { speaker="अनौपम्योवाच" }
+`annotate "187:77..187:88" { speaker="नारदः उवाच" }
+`annotate "187:89..187:93" { speaker="अनौपम्योवाच" }
+`annotate "187:94..187:102" { speaker="नारद उवाच" }

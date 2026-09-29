@@ -1,0 +1,12 @@
+`annotate "32:3..32:7" { speaker="शर्मिष्ठोवाच" }
+`annotate "32:8..32:19" { speaker="शौनक उवाच" }
+`annotate "32:20..32:22" { speaker="शर्मिष्ठोवाच" }
+`annotate "32:23..32:30" { speaker="शौनक उवाच" }
+`annotate "32:31" { speaker="शुक्र उवाच" }
+`annotate "32:32..32:34" { speaker="ययातिरुवाच" }
+`annotate "32:35" { speaker="शुक्र उवाच" }
+`annotate "32:36" { speaker="शौनक उवाच" }
+`annotate "32:37" { speaker="ययारिरुवाच" }
+`annotate "32:38" { speaker="शुक्र उवाच" }
+`annotate "32:39" { speaker="ययातिरुवाच" }
+`annotate "32:40..32:41" { speaker="शुक्र उवाच" }

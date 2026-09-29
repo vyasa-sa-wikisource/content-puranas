@@ -1,0 +1,14 @@
+`annotate "25:3" { speaker="सूत उवाच" }
+`annotate "25:4..25:5" { speaker="शतानीक उवाच" }
+`annotate "25:6..25:23" { speaker="शौनक उवाच" }
+`annotate "25:24" { speaker="शुक्र उवाच" }
+`annotate "25:25..25:34" { speaker="शौनक उवाच" }
+`annotate "25:35..25:46" { speaker="शुक्र उवाच" }
+`annotate "25:47..25:49" { speaker="शौनक उवाच" }
+`annotate "25:50..25:51" { speaker="कच उवाच" }
+`annotate "25:52..25:56" { speaker="शुक्र उवाच" }
+`annotate "25:57..25:61" { speaker="शौनक उवाच" }
+`annotate "25:62..25:63" { speaker="शुक्र उवाच" }
+`annotate "25:64" { speaker="शौनक उवाच" }
+`annotate "25:65" { speaker="शुक्र उवाच" }
+`annotate "25:66" { speaker="शौनक उवाच" }

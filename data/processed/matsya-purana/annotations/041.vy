@@ -1,0 +1,10 @@
+`annotate "41:1" { speaker="अष्टक उवाच" }
+`annotate "41:2..41:4" { speaker="ययातिरुवाच" }
+`annotate "41:5" { speaker="अष्टक उवाच" }
+`annotate "41:6..41:7" { speaker="ययातिरुवाच" }
+`annotate "41:8..41:10" { speaker="अष्टक उवाच" }
+`annotate "41:11..41:12" { speaker="ययातिरुवाच" }
+`annotate "41:13" { speaker="प्रतर्दन उवाच" }
+`annotate "41:14" { speaker="ययातिरुवाच" }
+`annotate "41:15" { speaker="प्रतर्दन उवाच" }
+`annotate "41:16..41:18" { speaker="ययातिरुवाच" }

@@ -1,0 +1,10 @@
+`annotate "29:10..29:11" { speaker="शुक्र उवाच" }
+`annotate "29:12" { speaker="वृषपर्वोवाच" }
+`annotate "29:13" { speaker="शुक्र उवाच" }
+`annotate "29:14..29:17" { speaker="शौनक उवाच" }
+`annotate "29:18" { speaker="वृषपर्वोवाच" }
+`annotate "29:19..29:20" { speaker="शौनक उवाच" }
+`annotate "29:21" { speaker="शर्मिष्ठोवाच" }
+`annotate "29:22" { speaker="शौनक उवाच" }
+`annotate "29:23..29:25" { speaker="शर्मिष्ठोवाच" }
+`annotate "29:26..29:28" { speaker="शौनक उवाच" }

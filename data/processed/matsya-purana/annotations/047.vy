@@ -1,0 +1,11 @@
+`annotate "47:1..47:6" { speaker="सूत उवाच" }
+`annotate "47:7..47:8" { speaker="ऋषय ऊचुः" }
+`annotate "47:9..47:29" { speaker="सूत उवाच" }
+`annotate "47:30..47:33" { speaker="ऋषय ऊचुः" }
+`annotate "47:34..47:39" { speaker="सूत उवाच" }
+`annotate "47:40" { speaker="मुनय ऊचुः" }
+`annotate "47:41..47:80" { speaker="सूत उवाच" }
+`annotate "47:81..47:121" { speaker="शुक्र उवाच" }
+`annotate "47:122..47:126" { speaker="महादेव उवाच" }
+`annotate "47:127..47:167" { speaker="शुक्र उवाच" }
+`annotate "47:168..47:263" { speaker="सूत उवाच" }
