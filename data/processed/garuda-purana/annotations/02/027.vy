@@ -1,0 +1,10 @@
+`annotate "2:27:1..2:27:2" { speaker="तार्क्ष्य उवाच" }
+`annotate "2:27:3..2:27:20" { speaker="श्रीकृष्ण उवाच" }
+`annotate "2:27:21..2:27:22" { speaker="नृपतिरुवाच" }
+`annotate "2:27:23..2:27:34" { speaker="प्रेत उवाच" }
+`annotate "2:27:35" { speaker="नृपतिरुवाच" }
+`annotate "2:27:36..2:27:40" { speaker="प्रेत उवाच" }
+`annotate "2:27:41" { speaker="राजोवाच" }
+`annotate "2:27:42..2:27:53" { speaker="प्रेत उवाच" }
+`annotate "2:27:54" { speaker="राजोवाच" }
+`annotate "2:27:55..2:27:66" { speaker="प्रेत उवाच" }

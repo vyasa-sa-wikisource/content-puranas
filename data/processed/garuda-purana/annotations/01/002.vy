@@ -1,0 +1,10 @@
+`annotate "1:2:1" { speaker="ऋषय ऊचुः" }
+`annotate "1:2:2..1:2:4" { speaker="सूत उवाच" }
+`annotate "1:2:5" { speaker="व्यास उवाच" }
+`annotate "1:2:6" { speaker="सूत उवाच" }
+`annotate "1:2:7" { speaker="व्यास उवाच" }
+`annotate "1:2:8" { speaker="ब्रह्मोवाच" }
+`annotate "1:2:9" { speaker="व्यास उवाच" }
+`annotate "1:2:10..1:2:30" { speaker="ब्रह्मोवाच" }
+`annotate "1:2:31..1:2:47" { speaker="रुद्र उवाच" }
+`annotate "1:2:48..1:2:57" { speaker="गरुड उवाच" }

@@ -1,0 +1,11 @@
+`annotate "2:22:1..2:22:18" { speaker="गरुड उवाच" }
+`annotate "2:22:19" { speaker="युधिष्ठिर उवाच" }
+`annotate "2:22:20..2:22:32" { speaker="भीष्म उवाच" }
+`annotate "2:22:33..2:22:50" { speaker="प्रेतराज उवाच" }
+`annotate "2:22:51" { speaker="ब्राह्मण उवाच" }
+`annotate "2:22:52" { speaker="प्रेता ऊचुः" }
+`annotate "2:22:53" { speaker="ब्राह्मण उवाच" }
+`annotate "2:22:54..2:22:63" { speaker="प्रेता ऊचुः" }
+`annotate "2:22:64..2:22:74" { speaker="ब्राह्मण उवाच" }
+`annotate "2:22:75..2:22:77" { speaker="भीष्म उवाच" }
+`annotate "2:22:78" { speaker="सूत उवाच" }

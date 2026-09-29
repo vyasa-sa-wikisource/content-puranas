@@ -1,0 +1,23 @@
+[workspace]
+name = "garuda-purana"
+title = "गरुडपुराणम्"
+description = "Garuḍa Purāṇa from Sanskrit Wikisource"
+
+[catalog]
+type = "work"
+language = "sa"
+license = "CC-BY-SA-4.0"
+
+[publish]
+publisher_dir = "../../../../publisher/sa_wikisource"
+
+[urn]
+path_schema = ["kanda", "adhyaya"]
+corpus = "garuda-purana"
+hierarchy = ["kanda", "adhyaya", "verse"]
+
+[build.default]
+layout = "sequence"
+target = "view"
+publisher_css = ["styles/indic-verse.css"]
+css = ["templates/html/theme.css", "templates/html/reading.css"]

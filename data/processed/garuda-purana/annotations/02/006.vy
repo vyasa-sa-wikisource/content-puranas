@@ -1,0 +1,9 @@
+`annotate "2:6:1..2:6:3" { speaker="गरुड उवाच" }
+`annotate "2:6:4..2:6:7" { speaker="श्रीकृष्ण उवाच" }
+`annotate "2:6:8..2:6:9" { speaker="राजोवाच" }
+`annotate "2:6:10..2:6:114" { speaker="वसिष्ठ उवाच" }
+`annotate "2:6:115..2:6:128" { speaker="लोमश उवाच" }
+`annotate "2:6:129..2:6:131" { speaker="वसिष्ठ उवाच" }
+`annotate "2:6:132..2:6:140" { speaker="श्रीकृष्ण उवाच" }
+`annotate "2:6:141..2:6:143" { speaker="धर्मराज उवाच" }
+`annotate "2:6:144" { speaker="श्रीकृष्ण उवाच" }
