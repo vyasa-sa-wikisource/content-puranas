@@ -7,6 +7,9 @@ description = "Agni Purāṇa from Sanskrit Wikisource"
 type = "work"
 language = "sa"
 license = "CC-BY-SA-4.0"
+source = "Sanskrit Wikisource"
+source_root = "अग्निपुराणम्"
+snapshot = "2026-09-28"
 
 [publish]
 publisher_dir = "../../../../publisher/sa_wikisource"
@@ -15,6 +18,9 @@ publisher_dir = "../../../../publisher/sa_wikisource"
 path_schema = ["adhyaya"]
 corpus = "agni-purana"
 hierarchy = ["adhyaya", "verse"]
+
+[urn.extent]
+adhyaya = "1..383"
 
 [build.default]
 layout = "sequence"

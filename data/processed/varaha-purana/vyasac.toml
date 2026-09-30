@@ -7,6 +7,9 @@ description = "Varāha Purāṇa from Sanskrit Wikisource"
 type = "work"
 language = "sa"
 license = "CC-BY-SA-4.0"
+source = "Sanskrit Wikisource"
+source_root = "वराहपुराणम्"
+snapshot = "2026-09-29"
 
 [publish]
 publisher_dir = "../../../../publisher/sa_wikisource"
@@ -15,6 +18,9 @@ publisher_dir = "../../../../publisher/sa_wikisource"
 path_schema = ["adhyaya"]
 corpus = "varaha-purana"
 hierarchy = ["adhyaya", "verse"]
+
+[urn.extent]
+adhyaya = "1..218"
 
 [build.default]
 layout = "sequence"

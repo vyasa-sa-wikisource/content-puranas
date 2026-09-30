@@ -7,6 +7,9 @@ description = "Śrīmad Bhāgavata Purāṇa from Sanskrit Wikisource"
 type = "work"
 language = "sa"
 license = "CC-BY-SA-4.0"
+source = "Sanskrit Wikisource"
+source_root = "श्रीमद्भागवतपुराणम्"
+snapshot = "2026-09-27"
 
 [publish]
 publisher_dir = "../../../../publisher/sa_wikisource"
@@ -15,6 +18,23 @@ publisher_dir = "../../../../publisher/sa_wikisource"
 path_schema = ["skandha", "adhyaya"]
 corpus = "bhagavata-purana"
 hierarchy = ["skandha", "adhyaya", "verse"]
+
+[urn.extent]
+skandha = "1..12"
+
+[urn.extent.adhyaya]
+"1" = "1..19"
+"2" = "1..10"
+"3" = "1..33"
+"4" = "1..31"
+"5" = "1..26"
+"6" = "1..19"
+"7" = "1..15"
+"8" = "1..24"
+"9" = "1..24"
+"10" = "1..90"
+"11" = "1..31"
+"12" = "1..13"
 
 [build.default]
 layout = "sequence"

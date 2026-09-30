@@ -7,6 +7,9 @@ description = "Garuḍa Purāṇa from Sanskrit Wikisource"
 type = "work"
 language = "sa"
 license = "CC-BY-SA-4.0"
+source = "Sanskrit Wikisource"
+source_root = "गरुडपुराणम्"
+snapshot = "2026-09-29"
 
 [publish]
 publisher_dir = "../../../../publisher/sa_wikisource"
@@ -15,6 +18,14 @@ publisher_dir = "../../../../publisher/sa_wikisource"
 path_schema = ["kanda", "adhyaya"]
 corpus = "garuda-purana"
 hierarchy = ["kanda", "adhyaya", "verse"]
+
+[urn.extent]
+kanda = "1..3"
+
+[urn.extent.adhyaya]
+"1" = "1..240"
+"2" = "1..49"
+"3" = "1..29"
 
 [build.default]
 layout = "sequence"

@@ -7,6 +7,9 @@ description = "Śiva Purāṇa from Sanskrit Wikisource"
 type = "work"
 language = "sa"
 license = "CC-BY-SA-4.0"
+source = "Sanskrit Wikisource"
+source_root = "शिवपुराणम्"
+snapshot = "2026-09-29"
 
 [publish]
 publisher_dir = "../../../../publisher/sa_wikisource"
@@ -15,6 +18,20 @@ publisher_dir = "../../../../publisher/sa_wikisource"
 path_schema = ["samhita", "khanda", "adhyaya"]
 corpus = "shiva-purana"
 hierarchy = ["samhita", "khanda", "adhyaya", "verse"]
+
+# Adhyāya extent is the third level. This packer accepts a parent-keyed
+# extent only on the second level, so the declaration stops at khaṇḍa.
+[urn.extent]
+samhita = "1..7"
+
+[urn.extent.khanda]
+"1" = "1..1"
+"2" = "1..5"
+"3" = "1..1"
+"4" = "1..1"
+"5" = "1..1"
+"6" = "1..1"
+"7" = "1..2"
 
 [build.default]
 layout = "sequence"

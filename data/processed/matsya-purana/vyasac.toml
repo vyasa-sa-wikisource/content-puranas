@@ -7,6 +7,9 @@ description = "Matsya Purāṇa from Sanskrit Wikisource"
 type = "work"
 language = "sa"
 license = "CC-BY-SA-4.0"
+source = "Sanskrit Wikisource"
+source_root = "मत्स्यपुराणम्"
+snapshot = "2026-09-29"
 
 [publish]
 publisher_dir = "../../../../publisher/sa_wikisource"
@@ -15,6 +18,9 @@ publisher_dir = "../../../../publisher/sa_wikisource"
 path_schema = ["adhyaya"]
 corpus = "matsya-purana"
 hierarchy = ["adhyaya", "verse"]
+
+[urn.extent]
+adhyaya = "1..291"
 
 [build.default]
 layout = "sequence"

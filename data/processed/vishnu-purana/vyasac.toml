@@ -7,6 +7,9 @@ description = "Viṣṇu Purāṇa from Sanskrit Wikisource"
 type = "work"
 language = "sa"
 license = "CC-BY-SA-4.0"
+source = "Sanskrit Wikisource"
+source_root = "विष्णुपुराणम्"
+snapshot = "2026-09-28"
 
 [publish]
 publisher_dir = "../../../../publisher/sa_wikisource"
@@ -15,6 +18,17 @@ publisher_dir = "../../../../publisher/sa_wikisource"
 path_schema = ["amsa", "adhyaya"]
 corpus = "vishnu-purana"
 hierarchy = ["amsa", "adhyaya", "verse"]
+
+[urn.extent]
+amsa = "1..6"
+
+[urn.extent.adhyaya]
+"1" = "1..22"
+"2" = "1..16"
+"3" = "1..18"
+"4" = "1..24"
+"5" = "1..38"
+"6" = "1..8"
 
 [build.default]
 layout = "sequence"
