@@ -1,0 +1,16 @@
+`annotate "2:3:50:1..2:3:50:23" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:50:24..2:3:50:25" { speaker="सरस्वत्युवाच" }
+`annotate "2:3:50:26" { speaker="लक्ष्मीरुवाच" }
+`annotate "2:3:50:27" { speaker="सावित्र्युवाच" }
+`annotate "2:3:50:28" { speaker="जाह्नव्युवाच" }
+`annotate "2:3:50:29" { speaker="शच्युवाच" }
+`annotate "2:3:50:30" { speaker="लोपामुद्रोवाच" }
+`annotate "2:3:50:31" { speaker="अरुन्धत्युवाच" }
+`annotate "2:3:50:32" { speaker="अहल्योवाच" }
+`annotate "2:3:50:33" { speaker="तुलस्युवाच" }
+`annotate "2:3:50:34" { speaker="स्वाहोवाच" }
+`annotate "2:3:50:35" { speaker="रोहिण्युवाच" }
+`annotate "2:3:50:36" { speaker="वसुन्धरोवाच" }
+`annotate "2:3:50:37" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:50:38" { speaker="शंकर उवाच" }
+`annotate "2:3:50:39..2:3:50:40" { speaker="ब्रह्मोवाच" }

@@ -1,0 +1,10 @@
+`annotate "2:3:35:1" { speaker="नारद उवाच" }
+`annotate "2:3:35:2" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:35:3..2:3:35:15" { speaker="शैलेश उवाच" }
+`annotate "2:3:35:16..2:3:35:22" { speaker="वसिष्ठ उवाच" }
+`annotate "2:3:35:23..2:3:35:30" { speaker="धर्म उवाच" }
+`annotate "2:3:35:31..2:3:35:39" { speaker="पद्मोवाच" }
+`annotate "2:3:35:40" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:35:41..2:3:35:46" { speaker="धर्म उवाच" }
+`annotate "2:3:35:47..2:3:35:55" { speaker="वसिष्ठ उवाच" }
+`annotate "2:3:35:56" { speaker="ब्रह्मोवाच" }

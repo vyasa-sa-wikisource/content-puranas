@@ -1,0 +1,10 @@
+`annotate "2:5:2:1" { speaker="व्यास उवाच" }
+`annotate "2:5:2:2" { speaker="ब्रह्मोवाच" }
+`annotate "2:5:2:3..2:5:2:4" { speaker="सनत्कुमार उवाच" }
+`annotate "2:5:2:5..2:5:2:6" { speaker="देवा ऊचुः" }
+`annotate "2:5:2:7" { speaker="सनत्कुमार उवाच" }
+`annotate "2:5:2:8..2:5:2:11" { speaker="ब्रह्मोवाच" }
+`annotate "2:5:2:12..2:5:2:50" { speaker="देवा ऊचुः" }
+`annotate "2:5:2:51..2:5:2:52" { speaker="सनत्कुमार उवाच" }
+`annotate "2:5:2:53..2:5:2:56" { speaker="देवा ऊचुः" }
+`annotate "2:5:2:57" { speaker="सनत्कुमार उवाच" }

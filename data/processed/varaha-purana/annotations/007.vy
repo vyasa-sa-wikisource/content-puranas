@@ -1,0 +1,11 @@
+`annotate "7:1" { speaker="धरण्युवाच" }
+`annotate "7:2..7:7" { speaker="श्रीवराह उवाच" }
+`annotate "7:8..7:9" { speaker="पुरुष उवाच" }
+`annotate "7:10" { speaker="रैभ्य उवाच" }
+`annotate "7:11..7:15" { speaker="सनत्कुमार उवाच" }
+`annotate "7:16..7:27" { speaker="सित उवाच" }
+`annotate "7:28" { speaker="श्रीवराह उवाच" }
+`annotate "7:29..7:38" { speaker="रैभ्य उवाच" }
+`annotate "7:39..7:41" { speaker="श्रीवराह उवाच" }
+`annotate "7:42" { speaker="रैभ्य उवाच" }
+`annotate "7:43..7:45" { speaker="देव उवाच" }

@@ -1,0 +1,9 @@
+`annotate "5:1:35:1..5:1:35:7" { speaker="सूत उवाच" }
+`annotate "5:1:35:8..5:1:35:9" { speaker="संज्ञोवाच" }
+`annotate "5:1:35:10" { speaker="छायोवाच" }
+`annotate "5:1:35:11..5:1:35:20" { speaker="सूत उवाच" }
+`annotate "5:1:35:21..5:1:35:23" { speaker="सवितोवाच" }
+`annotate "5:1:35:24" { speaker="सूत उवाच" }
+`annotate "5:1:35:25" { speaker="सूर्य उवाच" }
+`annotate "5:1:35:26" { speaker="सूत उवाच" }
+`annotate "5:1:35:27..5:1:35:42" { speaker="छायोवाच" }

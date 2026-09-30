@@ -1,0 +1,10 @@
+`annotate "39:1" { speaker="सत्यतपा उवाच" }
+`annotate "39:2..39:8" { speaker="दुर्वासा उवाच" }
+`annotate "39:9" { speaker="सत्यतपा उवाच" }
+`annotate "39:10..39:12" { speaker="दुर्वासा उवाच" }
+`annotate "39:13..39:14" { speaker="सत्यतपा उवाच" }
+`annotate "39:15..39:16" { speaker="दुर्वासा उवाच" }
+`annotate "39:17..39:19" { speaker="सत्यतपा उवाच" }
+`annotate "39:20..39:23" { speaker="दुर्वासा उवाच" }
+`annotate "39:24" { speaker="सत्यतपा उवाच" }
+`annotate "39:25..39:76" { speaker="दुर्वासा उवाच" }

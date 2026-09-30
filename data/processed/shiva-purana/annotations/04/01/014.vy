@@ -1,0 +1,14 @@
+`annotate "4:1:14:1" { speaker="ऋषय ऊचुः" }
+`annotate "4:1:14:2..4:1:14:10" { speaker="सूत उवाच" }
+`annotate "4:1:14:11..4:1:14:12" { speaker="दक्ष उवाच" }
+`annotate "4:1:14:13..4:1:14:17" { speaker="सूत उवाच" }
+`annotate "4:1:14:18" { speaker="दक्ष उवाच" }
+`annotate "4:1:14:19..4:1:14:23" { speaker="सूत उवाच" }
+`annotate "4:1:14:24..4:1:14:34" { speaker="ब्रह्मोवाच" }
+`annotate "4:1:14:35..4:1:14:41" { speaker="सूत उवाच" }
+`annotate "4:1:14:42" { speaker="शंकर उवाच" }
+`annotate "4:1:14:43..4:1:14:44" { speaker="चंद्र उवाच" }
+`annotate "4:1:14:45" { speaker="शिव उवाच" }
+`annotate "4:1:14:46..4:1:14:47" { speaker="सूत उवाच" }
+`annotate "4:1:14:48" { speaker="देवाः ऊचुः" }
+`annotate "4:1:14:49..4:1:14:62" { speaker="सूत उवाच" }

@@ -1,0 +1,9 @@
+`annotate "2:2:12:1..2:2:12:2" { speaker="नारद उवाच" }
+`annotate "2:2:12:3..2:2:12:11" { speaker="ब्रह्मोवाच" }
+`annotate "2:2:12:12..2:2:12:13" { speaker="दक्ष उवाच" }
+`annotate "2:2:12:14" { speaker="ब्रह्मोवाच" }
+`annotate "2:2:12:15" { speaker="देव्युवाच" }
+`annotate "2:2:12:16" { speaker="ब्रह्मोवाच" }
+`annotate "2:2:12:17..2:2:12:21" { speaker="दक्ष उवाच" }
+`annotate "2:2:12:22" { speaker="ब्रह्मोवाच" }
+`annotate "2:2:12:23..2:2:12:34" { speaker="देव्युवाच" }

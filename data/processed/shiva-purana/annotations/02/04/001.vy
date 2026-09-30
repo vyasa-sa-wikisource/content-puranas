@@ -1,0 +1,11 @@
+`annotate "2:4:1:2..2:4:1:4" { speaker="नारद उवाच" }
+`annotate "2:4:1:5" { speaker="सूत उवाच" }
+`annotate "2:4:1:6..2:4:1:17" { speaker="ब्रह्मोवाच" }
+`annotate "2:4:1:18..2:4:1:21" { speaker="सुरा ऊचुः" }
+`annotate "2:4:1:22..2:4:1:41" { speaker="ब्रह्मोवाच" }
+`annotate "2:4:1:42..2:4:1:43" { speaker="देवा ऊचुः" }
+`annotate "2:4:1:44..2:4:1:46" { speaker="ब्रह्मोवाच" }
+`annotate "2:4:1:47" { speaker="विष्णुरुवाच" }
+`annotate "2:4:1:48" { speaker="ब्रह्मोवाच" }
+`annotate "2:4:1:49..2:4:1:51" { speaker="शिवगणा ऊचुः" }
+`annotate "2:4:1:52..2:4:1:56" { speaker="ब्रह्मोवाच" }

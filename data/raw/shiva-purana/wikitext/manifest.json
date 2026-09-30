@@ -1,0 +1,3201 @@
+[
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः ०१",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 1,
+    "file": "samhita-01/khanda-01/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः ०२",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 2,
+    "file": "samhita-01/khanda-01/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः ०३",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 3,
+    "file": "samhita-01/khanda-01/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः ०४",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 4,
+    "file": "samhita-01/khanda-01/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः ०५",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 5,
+    "file": "samhita-01/khanda-01/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः ०६",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 6,
+    "file": "samhita-01/khanda-01/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः ०७",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 7,
+    "file": "samhita-01/khanda-01/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः ०८",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 8,
+    "file": "samhita-01/khanda-01/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः ०९",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 9,
+    "file": "samhita-01/khanda-01/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः १०",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 10,
+    "file": "samhita-01/khanda-01/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः ११",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 11,
+    "file": "samhita-01/khanda-01/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः १२",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 12,
+    "file": "samhita-01/khanda-01/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः १३",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 13,
+    "file": "samhita-01/khanda-01/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः १४",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 14,
+    "file": "samhita-01/khanda-01/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः १५",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 15,
+    "file": "samhita-01/khanda-01/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः १६",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 16,
+    "file": "samhita-01/khanda-01/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः १७",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 17,
+    "file": "samhita-01/khanda-01/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः १८",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 18,
+    "file": "samhita-01/khanda-01/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः १९",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 19,
+    "file": "samhita-01/khanda-01/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः २०",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 20,
+    "file": "samhita-01/khanda-01/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः २१",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 21,
+    "file": "samhita-01/khanda-01/adhyaya-021.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः २२",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 22,
+    "file": "samhita-01/khanda-01/adhyaya-022.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः २३",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 23,
+    "file": "samhita-01/khanda-01/adhyaya-023.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः २४",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 24,
+    "file": "samhita-01/khanda-01/adhyaya-024.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता १ (विश्वेश्वरसंहिता)/अध्यायः २५",
+    "samhita": 1,
+    "khanda": 1,
+    "adhyaya": 25,
+    "file": "samhita-01/khanda-01/adhyaya-025.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः ०१",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 1,
+    "file": "samhita-02/khanda-01/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः ०२",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 2,
+    "file": "samhita-02/khanda-01/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः ०३",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 3,
+    "file": "samhita-02/khanda-01/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः ०४",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 4,
+    "file": "samhita-02/khanda-01/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः ०५",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 5,
+    "file": "samhita-02/khanda-01/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः ०६",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 6,
+    "file": "samhita-02/khanda-01/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः ०७",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 7,
+    "file": "samhita-02/khanda-01/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः ०८",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 8,
+    "file": "samhita-02/khanda-01/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः ०९",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 9,
+    "file": "samhita-02/khanda-01/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः १०",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 10,
+    "file": "samhita-02/khanda-01/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः ११",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 11,
+    "file": "samhita-02/khanda-01/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः १२",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 12,
+    "file": "samhita-02/khanda-01/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः १३",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 13,
+    "file": "samhita-02/khanda-01/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः १४",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 14,
+    "file": "samhita-02/khanda-01/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः १५",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 15,
+    "file": "samhita-02/khanda-01/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः १६",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 16,
+    "file": "samhita-02/khanda-01/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः १७",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 17,
+    "file": "samhita-02/khanda-01/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः १८",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 18,
+    "file": "samhita-02/khanda-01/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः १९",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 19,
+    "file": "samhita-02/khanda-01/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः १ (सृष्टिखण्डः)/अध्यायः २०",
+    "samhita": 2,
+    "khanda": 1,
+    "adhyaya": 20,
+    "file": "samhita-02/khanda-01/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ०१",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 1,
+    "file": "samhita-02/khanda-02/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ०२",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 2,
+    "file": "samhita-02/khanda-02/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ०३",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 3,
+    "file": "samhita-02/khanda-02/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ०४",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 4,
+    "file": "samhita-02/khanda-02/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ०५",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 5,
+    "file": "samhita-02/khanda-02/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ०६",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 6,
+    "file": "samhita-02/khanda-02/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ०७",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 7,
+    "file": "samhita-02/khanda-02/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ०८",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 8,
+    "file": "samhita-02/khanda-02/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ०९",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 9,
+    "file": "samhita-02/khanda-02/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः १०",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 10,
+    "file": "samhita-02/khanda-02/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ११",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 11,
+    "file": "samhita-02/khanda-02/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः १२",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 12,
+    "file": "samhita-02/khanda-02/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः १३",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 13,
+    "file": "samhita-02/khanda-02/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः १४",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 14,
+    "file": "samhita-02/khanda-02/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः १५",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 15,
+    "file": "samhita-02/khanda-02/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः १६",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 16,
+    "file": "samhita-02/khanda-02/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः १७",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 17,
+    "file": "samhita-02/khanda-02/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः १८",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 18,
+    "file": "samhita-02/khanda-02/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः १९",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 19,
+    "file": "samhita-02/khanda-02/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः २०",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 20,
+    "file": "samhita-02/khanda-02/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः २१",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 21,
+    "file": "samhita-02/khanda-02/adhyaya-021.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः २२",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 22,
+    "file": "samhita-02/khanda-02/adhyaya-022.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः २३",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 23,
+    "file": "samhita-02/khanda-02/adhyaya-023.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः २४",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 24,
+    "file": "samhita-02/khanda-02/adhyaya-024.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः २५",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 25,
+    "file": "samhita-02/khanda-02/adhyaya-025.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः २६",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 26,
+    "file": "samhita-02/khanda-02/adhyaya-026.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः २७",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 27,
+    "file": "samhita-02/khanda-02/adhyaya-027.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः २८",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 28,
+    "file": "samhita-02/khanda-02/adhyaya-028.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः २९",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 29,
+    "file": "samhita-02/khanda-02/adhyaya-029.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ३०",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 30,
+    "file": "samhita-02/khanda-02/adhyaya-030.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ३१",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 31,
+    "file": "samhita-02/khanda-02/adhyaya-031.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ३२",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 32,
+    "file": "samhita-02/khanda-02/adhyaya-032.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ३३",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 33,
+    "file": "samhita-02/khanda-02/adhyaya-033.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ३४",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 34,
+    "file": "samhita-02/khanda-02/adhyaya-034.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ३५",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 35,
+    "file": "samhita-02/khanda-02/adhyaya-035.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ३६",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 36,
+    "file": "samhita-02/khanda-02/adhyaya-036.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ३७",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 37,
+    "file": "samhita-02/khanda-02/adhyaya-037.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ३८",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 38,
+    "file": "samhita-02/khanda-02/adhyaya-038.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ३९",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 39,
+    "file": "samhita-02/khanda-02/adhyaya-039.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ४०",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 40,
+    "file": "samhita-02/khanda-02/adhyaya-040.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ४१",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 41,
+    "file": "samhita-02/khanda-02/adhyaya-041.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ४२",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 42,
+    "file": "samhita-02/khanda-02/adhyaya-042.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः २ (सतीखण्डः)/अध्यायः ४३",
+    "samhita": 2,
+    "khanda": 2,
+    "adhyaya": 43,
+    "file": "samhita-02/khanda-02/adhyaya-043.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ०१",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 1,
+    "file": "samhita-02/khanda-03/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ०२",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 2,
+    "file": "samhita-02/khanda-03/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ०३",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 3,
+    "file": "samhita-02/khanda-03/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ०४",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 4,
+    "file": "samhita-02/khanda-03/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ०५",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 5,
+    "file": "samhita-02/khanda-03/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ०६",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 6,
+    "file": "samhita-02/khanda-03/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ०७",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 7,
+    "file": "samhita-02/khanda-03/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ०८",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 8,
+    "file": "samhita-02/khanda-03/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ०९",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 9,
+    "file": "samhita-02/khanda-03/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः १०",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 10,
+    "file": "samhita-02/khanda-03/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ११",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 11,
+    "file": "samhita-02/khanda-03/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः १२",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 12,
+    "file": "samhita-02/khanda-03/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः १३",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 13,
+    "file": "samhita-02/khanda-03/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः १४",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 14,
+    "file": "samhita-02/khanda-03/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः १५",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 15,
+    "file": "samhita-02/khanda-03/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः १६",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 16,
+    "file": "samhita-02/khanda-03/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः १७",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 17,
+    "file": "samhita-02/khanda-03/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः १८",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 18,
+    "file": "samhita-02/khanda-03/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः १९",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 19,
+    "file": "samhita-02/khanda-03/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः २०",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 20,
+    "file": "samhita-02/khanda-03/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः २१",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 21,
+    "file": "samhita-02/khanda-03/adhyaya-021.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः २२",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 22,
+    "file": "samhita-02/khanda-03/adhyaya-022.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः २३",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 23,
+    "file": "samhita-02/khanda-03/adhyaya-023.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः २४",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 24,
+    "file": "samhita-02/khanda-03/adhyaya-024.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः २५",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 25,
+    "file": "samhita-02/khanda-03/adhyaya-025.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः २६",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 26,
+    "file": "samhita-02/khanda-03/adhyaya-026.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः २७",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 27,
+    "file": "samhita-02/khanda-03/adhyaya-027.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः २८",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 28,
+    "file": "samhita-02/khanda-03/adhyaya-028.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः २९",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 29,
+    "file": "samhita-02/khanda-03/adhyaya-029.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ३०",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 30,
+    "file": "samhita-02/khanda-03/adhyaya-030.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ३१",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 31,
+    "file": "samhita-02/khanda-03/adhyaya-031.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ३२",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 32,
+    "file": "samhita-02/khanda-03/adhyaya-032.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ३३",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 33,
+    "file": "samhita-02/khanda-03/adhyaya-033.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ३४",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 34,
+    "file": "samhita-02/khanda-03/adhyaya-034.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ३५",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 35,
+    "file": "samhita-02/khanda-03/adhyaya-035.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ३६",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 36,
+    "file": "samhita-02/khanda-03/adhyaya-036.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ३७",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 37,
+    "file": "samhita-02/khanda-03/adhyaya-037.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ३८",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 38,
+    "file": "samhita-02/khanda-03/adhyaya-038.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ३९",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 39,
+    "file": "samhita-02/khanda-03/adhyaya-039.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ४०",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 40,
+    "file": "samhita-02/khanda-03/adhyaya-040.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ४१",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 41,
+    "file": "samhita-02/khanda-03/adhyaya-041.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ४२",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 42,
+    "file": "samhita-02/khanda-03/adhyaya-042.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ४३",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 43,
+    "file": "samhita-02/khanda-03/adhyaya-043.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ४४",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 44,
+    "file": "samhita-02/khanda-03/adhyaya-044.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ४५",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 45,
+    "file": "samhita-02/khanda-03/adhyaya-045.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ४६",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 46,
+    "file": "samhita-02/khanda-03/adhyaya-046.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ४७",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 47,
+    "file": "samhita-02/khanda-03/adhyaya-047.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ४८",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 48,
+    "file": "samhita-02/khanda-03/adhyaya-048.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ४९",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 49,
+    "file": "samhita-02/khanda-03/adhyaya-049.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ५०",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 50,
+    "file": "samhita-02/khanda-03/adhyaya-050.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ५१",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 51,
+    "file": "samhita-02/khanda-03/adhyaya-051.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ५२",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 52,
+    "file": "samhita-02/khanda-03/adhyaya-052.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ५३",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 53,
+    "file": "samhita-02/khanda-03/adhyaya-053.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ५४",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 54,
+    "file": "samhita-02/khanda-03/adhyaya-054.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ३ (पार्वतीखण्डः)/अध्यायः ५५",
+    "samhita": 2,
+    "khanda": 3,
+    "adhyaya": 55,
+    "file": "samhita-02/khanda-03/adhyaya-055.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः ०१",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 1,
+    "file": "samhita-02/khanda-04/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः ०२",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 2,
+    "file": "samhita-02/khanda-04/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः ०३",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 3,
+    "file": "samhita-02/khanda-04/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः ०४",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 4,
+    "file": "samhita-02/khanda-04/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः ०५",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 5,
+    "file": "samhita-02/khanda-04/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः ०६",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 6,
+    "file": "samhita-02/khanda-04/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः ०७",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 7,
+    "file": "samhita-02/khanda-04/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः ०८",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 8,
+    "file": "samhita-02/khanda-04/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः ०९",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 9,
+    "file": "samhita-02/khanda-04/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः १०",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 10,
+    "file": "samhita-02/khanda-04/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः ११",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 11,
+    "file": "samhita-02/khanda-04/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः १२",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 12,
+    "file": "samhita-02/khanda-04/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः १३",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 13,
+    "file": "samhita-02/khanda-04/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः १४",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 14,
+    "file": "samhita-02/khanda-04/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः १५",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 15,
+    "file": "samhita-02/khanda-04/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः १६",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 16,
+    "file": "samhita-02/khanda-04/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः १७",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 17,
+    "file": "samhita-02/khanda-04/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः १८",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 18,
+    "file": "samhita-02/khanda-04/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः १९",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 19,
+    "file": "samhita-02/khanda-04/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ४ (कुमारखण्डः)/अध्यायः २०",
+    "samhita": 2,
+    "khanda": 4,
+    "adhyaya": 20,
+    "file": "samhita-02/khanda-04/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ०१",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 1,
+    "file": "samhita-02/khanda-05/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ०२",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 2,
+    "file": "samhita-02/khanda-05/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ०३",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 3,
+    "file": "samhita-02/khanda-05/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ०४",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 4,
+    "file": "samhita-02/khanda-05/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ०५",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 5,
+    "file": "samhita-02/khanda-05/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ०६",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 6,
+    "file": "samhita-02/khanda-05/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ०७",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 7,
+    "file": "samhita-02/khanda-05/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ०८",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 8,
+    "file": "samhita-02/khanda-05/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ०९",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 9,
+    "file": "samhita-02/khanda-05/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः १०",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 10,
+    "file": "samhita-02/khanda-05/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ११",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 11,
+    "file": "samhita-02/khanda-05/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः १२",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 12,
+    "file": "samhita-02/khanda-05/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः १३",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 13,
+    "file": "samhita-02/khanda-05/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः १४",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 14,
+    "file": "samhita-02/khanda-05/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः १५",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 15,
+    "file": "samhita-02/khanda-05/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः १६",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 16,
+    "file": "samhita-02/khanda-05/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः १७",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 17,
+    "file": "samhita-02/khanda-05/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः १८",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 18,
+    "file": "samhita-02/khanda-05/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः १९",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 19,
+    "file": "samhita-02/khanda-05/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः २०",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 20,
+    "file": "samhita-02/khanda-05/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः २१",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 21,
+    "file": "samhita-02/khanda-05/adhyaya-021.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः २२",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 22,
+    "file": "samhita-02/khanda-05/adhyaya-022.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः २३",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 23,
+    "file": "samhita-02/khanda-05/adhyaya-023.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः २४",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 24,
+    "file": "samhita-02/khanda-05/adhyaya-024.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः २५",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 25,
+    "file": "samhita-02/khanda-05/adhyaya-025.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः २६",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 26,
+    "file": "samhita-02/khanda-05/adhyaya-026.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः २७",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 27,
+    "file": "samhita-02/khanda-05/adhyaya-027.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः २८",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 28,
+    "file": "samhita-02/khanda-05/adhyaya-028.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः २९",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 29,
+    "file": "samhita-02/khanda-05/adhyaya-029.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ३०",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 30,
+    "file": "samhita-02/khanda-05/adhyaya-030.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ३१",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 31,
+    "file": "samhita-02/khanda-05/adhyaya-031.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ३२",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 32,
+    "file": "samhita-02/khanda-05/adhyaya-032.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ३३",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 33,
+    "file": "samhita-02/khanda-05/adhyaya-033.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ३४",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 34,
+    "file": "samhita-02/khanda-05/adhyaya-034.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ३५",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 35,
+    "file": "samhita-02/khanda-05/adhyaya-035.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ३६",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 36,
+    "file": "samhita-02/khanda-05/adhyaya-036.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ३७",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 37,
+    "file": "samhita-02/khanda-05/adhyaya-037.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ३८",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 38,
+    "file": "samhita-02/khanda-05/adhyaya-038.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ३९",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 39,
+    "file": "samhita-02/khanda-05/adhyaya-039.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ४०",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 40,
+    "file": "samhita-02/khanda-05/adhyaya-040.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ४१",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 41,
+    "file": "samhita-02/khanda-05/adhyaya-041.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ४२",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 42,
+    "file": "samhita-02/khanda-05/adhyaya-042.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ४३",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 43,
+    "file": "samhita-02/khanda-05/adhyaya-043.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ४४",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 44,
+    "file": "samhita-02/khanda-05/adhyaya-044.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ४५",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 45,
+    "file": "samhita-02/khanda-05/adhyaya-045.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ४६",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 46,
+    "file": "samhita-02/khanda-05/adhyaya-046.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ४७",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 47,
+    "file": "samhita-02/khanda-05/adhyaya-047.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ४८",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 48,
+    "file": "samhita-02/khanda-05/adhyaya-048.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ४९",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 49,
+    "file": "samhita-02/khanda-05/adhyaya-049.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ५०",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 50,
+    "file": "samhita-02/khanda-05/adhyaya-050.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ५१",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 51,
+    "file": "samhita-02/khanda-05/adhyaya-051.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ५२",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 52,
+    "file": "samhita-02/khanda-05/adhyaya-052.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ५३",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 53,
+    "file": "samhita-02/khanda-05/adhyaya-053.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ५४",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 54,
+    "file": "samhita-02/khanda-05/adhyaya-054.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ५५",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 55,
+    "file": "samhita-02/khanda-05/adhyaya-055.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ५६",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 56,
+    "file": "samhita-02/khanda-05/adhyaya-056.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ५७",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 57,
+    "file": "samhita-02/khanda-05/adhyaya-057.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ५८",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 58,
+    "file": "samhita-02/khanda-05/adhyaya-058.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता २ (रुद्रसंहिता)/खण्डः ५ (युद्धखण्डः)/अध्यायः ५९",
+    "samhita": 2,
+    "khanda": 5,
+    "adhyaya": 59,
+    "file": "samhita-02/khanda-05/adhyaya-059.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ०१",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 1,
+    "file": "samhita-03/khanda-01/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ०२",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 2,
+    "file": "samhita-03/khanda-01/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ०३",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 3,
+    "file": "samhita-03/khanda-01/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ०४",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 4,
+    "file": "samhita-03/khanda-01/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ०५",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 5,
+    "file": "samhita-03/khanda-01/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ०६",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 6,
+    "file": "samhita-03/khanda-01/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ०७",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 7,
+    "file": "samhita-03/khanda-01/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ०८",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 8,
+    "file": "samhita-03/khanda-01/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ०९",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 9,
+    "file": "samhita-03/khanda-01/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः १०",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 10,
+    "file": "samhita-03/khanda-01/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ११",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 11,
+    "file": "samhita-03/khanda-01/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः १२",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 12,
+    "file": "samhita-03/khanda-01/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः १३",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 13,
+    "file": "samhita-03/khanda-01/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः १४",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 14,
+    "file": "samhita-03/khanda-01/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः १५",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 15,
+    "file": "samhita-03/khanda-01/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः १६",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 16,
+    "file": "samhita-03/khanda-01/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः १७",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 17,
+    "file": "samhita-03/khanda-01/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः १८",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 18,
+    "file": "samhita-03/khanda-01/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः १९",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 19,
+    "file": "samhita-03/khanda-01/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः २०",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 20,
+    "file": "samhita-03/khanda-01/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः २१",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 21,
+    "file": "samhita-03/khanda-01/adhyaya-021.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः २२",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 22,
+    "file": "samhita-03/khanda-01/adhyaya-022.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः २३",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 23,
+    "file": "samhita-03/khanda-01/adhyaya-023.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः २४",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 24,
+    "file": "samhita-03/khanda-01/adhyaya-024.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः २५",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 25,
+    "file": "samhita-03/khanda-01/adhyaya-025.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः २६",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 26,
+    "file": "samhita-03/khanda-01/adhyaya-026.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः २७",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 27,
+    "file": "samhita-03/khanda-01/adhyaya-027.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः २८",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 28,
+    "file": "samhita-03/khanda-01/adhyaya-028.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः २९",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 29,
+    "file": "samhita-03/khanda-01/adhyaya-029.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ३०",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 30,
+    "file": "samhita-03/khanda-01/adhyaya-030.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ३१",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 31,
+    "file": "samhita-03/khanda-01/adhyaya-031.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ३२",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 32,
+    "file": "samhita-03/khanda-01/adhyaya-032.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ३३",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 33,
+    "file": "samhita-03/khanda-01/adhyaya-033.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ३४",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 34,
+    "file": "samhita-03/khanda-01/adhyaya-034.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ३५",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 35,
+    "file": "samhita-03/khanda-01/adhyaya-035.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ३६",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 36,
+    "file": "samhita-03/khanda-01/adhyaya-036.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ३७",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 37,
+    "file": "samhita-03/khanda-01/adhyaya-037.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ३८",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 38,
+    "file": "samhita-03/khanda-01/adhyaya-038.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ३९",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 39,
+    "file": "samhita-03/khanda-01/adhyaya-039.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ४०",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 40,
+    "file": "samhita-03/khanda-01/adhyaya-040.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ४१",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 41,
+    "file": "samhita-03/khanda-01/adhyaya-041.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ३ (शतरुद्रसंहिता)/अध्यायः ४२",
+    "samhita": 3,
+    "khanda": 1,
+    "adhyaya": 42,
+    "file": "samhita-03/khanda-01/adhyaya-042.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ०१",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 1,
+    "file": "samhita-04/khanda-01/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ०२",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 2,
+    "file": "samhita-04/khanda-01/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ०३",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 3,
+    "file": "samhita-04/khanda-01/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ०४",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 4,
+    "file": "samhita-04/khanda-01/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ०५",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 5,
+    "file": "samhita-04/khanda-01/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ०६",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 6,
+    "file": "samhita-04/khanda-01/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ०७",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 7,
+    "file": "samhita-04/khanda-01/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ०८",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 8,
+    "file": "samhita-04/khanda-01/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ०९",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 9,
+    "file": "samhita-04/khanda-01/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः १०",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 10,
+    "file": "samhita-04/khanda-01/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ११",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 11,
+    "file": "samhita-04/khanda-01/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः १२",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 12,
+    "file": "samhita-04/khanda-01/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः १३",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 13,
+    "file": "samhita-04/khanda-01/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः १४",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 14,
+    "file": "samhita-04/khanda-01/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः १५",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 15,
+    "file": "samhita-04/khanda-01/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः १६",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 16,
+    "file": "samhita-04/khanda-01/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः १७",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 17,
+    "file": "samhita-04/khanda-01/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः १८",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 18,
+    "file": "samhita-04/khanda-01/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः १९",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 19,
+    "file": "samhita-04/khanda-01/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः २०",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 20,
+    "file": "samhita-04/khanda-01/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः २१",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 21,
+    "file": "samhita-04/khanda-01/adhyaya-021.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः २२",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 22,
+    "file": "samhita-04/khanda-01/adhyaya-022.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः २३",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 23,
+    "file": "samhita-04/khanda-01/adhyaya-023.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः २४",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 24,
+    "file": "samhita-04/khanda-01/adhyaya-024.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः २५",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 25,
+    "file": "samhita-04/khanda-01/adhyaya-025.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः २६",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 26,
+    "file": "samhita-04/khanda-01/adhyaya-026.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः २७",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 27,
+    "file": "samhita-04/khanda-01/adhyaya-027.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः २८",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 28,
+    "file": "samhita-04/khanda-01/adhyaya-028.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः २९",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 29,
+    "file": "samhita-04/khanda-01/adhyaya-029.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ३०",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 30,
+    "file": "samhita-04/khanda-01/adhyaya-030.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ३१",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 31,
+    "file": "samhita-04/khanda-01/adhyaya-031.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ३२",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 32,
+    "file": "samhita-04/khanda-01/adhyaya-032.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ३३",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 33,
+    "file": "samhita-04/khanda-01/adhyaya-033.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ३४",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 34,
+    "file": "samhita-04/khanda-01/adhyaya-034.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ३५",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 35,
+    "file": "samhita-04/khanda-01/adhyaya-035.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ३६",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 36,
+    "file": "samhita-04/khanda-01/adhyaya-036.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ३७",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 37,
+    "file": "samhita-04/khanda-01/adhyaya-037.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ३८",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 38,
+    "file": "samhita-04/khanda-01/adhyaya-038.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ३९",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 39,
+    "file": "samhita-04/khanda-01/adhyaya-039.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ४०",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 40,
+    "file": "samhita-04/khanda-01/adhyaya-040.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ४१",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 41,
+    "file": "samhita-04/khanda-01/adhyaya-041.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ४२",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 42,
+    "file": "samhita-04/khanda-01/adhyaya-042.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ४ (कोटिरुद्रसंहिता)/अध्यायः ४३",
+    "samhita": 4,
+    "khanda": 1,
+    "adhyaya": 43,
+    "file": "samhita-04/khanda-01/adhyaya-043.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ०१",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 1,
+    "file": "samhita-05/khanda-01/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ०२",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 2,
+    "file": "samhita-05/khanda-01/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ०३",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 3,
+    "file": "samhita-05/khanda-01/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ०४",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 4,
+    "file": "samhita-05/khanda-01/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ०५",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 5,
+    "file": "samhita-05/khanda-01/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ०६",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 6,
+    "file": "samhita-05/khanda-01/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ०७",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 7,
+    "file": "samhita-05/khanda-01/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ०८",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 8,
+    "file": "samhita-05/khanda-01/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ०९",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 9,
+    "file": "samhita-05/khanda-01/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः १०",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 10,
+    "file": "samhita-05/khanda-01/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ११",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 11,
+    "file": "samhita-05/khanda-01/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः १२",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 12,
+    "file": "samhita-05/khanda-01/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः १३",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 13,
+    "file": "samhita-05/khanda-01/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः १४",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 14,
+    "file": "samhita-05/khanda-01/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः १५",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 15,
+    "file": "samhita-05/khanda-01/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः १६",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 16,
+    "file": "samhita-05/khanda-01/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः १७",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 17,
+    "file": "samhita-05/khanda-01/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः १८",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 18,
+    "file": "samhita-05/khanda-01/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः १९",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 19,
+    "file": "samhita-05/khanda-01/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः २०",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 20,
+    "file": "samhita-05/khanda-01/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः २१",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 21,
+    "file": "samhita-05/khanda-01/adhyaya-021.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः २२",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 22,
+    "file": "samhita-05/khanda-01/adhyaya-022.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः २३",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 23,
+    "file": "samhita-05/khanda-01/adhyaya-023.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः २४",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 24,
+    "file": "samhita-05/khanda-01/adhyaya-024.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः २५",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 25,
+    "file": "samhita-05/khanda-01/adhyaya-025.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः २६",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 26,
+    "file": "samhita-05/khanda-01/adhyaya-026.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः २७",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 27,
+    "file": "samhita-05/khanda-01/adhyaya-027.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः २८",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 28,
+    "file": "samhita-05/khanda-01/adhyaya-028.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः २९",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 29,
+    "file": "samhita-05/khanda-01/adhyaya-029.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ३०",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 30,
+    "file": "samhita-05/khanda-01/adhyaya-030.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ३१",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 31,
+    "file": "samhita-05/khanda-01/adhyaya-031.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ३२",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 32,
+    "file": "samhita-05/khanda-01/adhyaya-032.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ३३",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 33,
+    "file": "samhita-05/khanda-01/adhyaya-033.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ३४",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 34,
+    "file": "samhita-05/khanda-01/adhyaya-034.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ३५",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 35,
+    "file": "samhita-05/khanda-01/adhyaya-035.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ३६",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 36,
+    "file": "samhita-05/khanda-01/adhyaya-036.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ३७",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 37,
+    "file": "samhita-05/khanda-01/adhyaya-037.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ३८",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 38,
+    "file": "samhita-05/khanda-01/adhyaya-038.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ३९",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 39,
+    "file": "samhita-05/khanda-01/adhyaya-039.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ४०",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 40,
+    "file": "samhita-05/khanda-01/adhyaya-040.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ४१",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 41,
+    "file": "samhita-05/khanda-01/adhyaya-041.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ४२",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 42,
+    "file": "samhita-05/khanda-01/adhyaya-042.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ४३",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 43,
+    "file": "samhita-05/khanda-01/adhyaya-043.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ४४",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 44,
+    "file": "samhita-05/khanda-01/adhyaya-044.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ४५",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 45,
+    "file": "samhita-05/khanda-01/adhyaya-045.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ४६",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 46,
+    "file": "samhita-05/khanda-01/adhyaya-046.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ४७",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 47,
+    "file": "samhita-05/khanda-01/adhyaya-047.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ४८",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 48,
+    "file": "samhita-05/khanda-01/adhyaya-048.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ४९",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 49,
+    "file": "samhita-05/khanda-01/adhyaya-049.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ५०",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 50,
+    "file": "samhita-05/khanda-01/adhyaya-050.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ५ (उमासंहिता)/अध्यायः ५१",
+    "samhita": 5,
+    "khanda": 1,
+    "adhyaya": 51,
+    "file": "samhita-05/khanda-01/adhyaya-051.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः ०१",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 1,
+    "file": "samhita-06/khanda-01/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः ०२",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 2,
+    "file": "samhita-06/khanda-01/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः ०३",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 3,
+    "file": "samhita-06/khanda-01/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः ०४",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 4,
+    "file": "samhita-06/khanda-01/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः ०५",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 5,
+    "file": "samhita-06/khanda-01/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः ०६",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 6,
+    "file": "samhita-06/khanda-01/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः ०७",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 7,
+    "file": "samhita-06/khanda-01/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः ०८",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 8,
+    "file": "samhita-06/khanda-01/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः ०९",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 9,
+    "file": "samhita-06/khanda-01/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः १०",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 10,
+    "file": "samhita-06/khanda-01/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः ११",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 11,
+    "file": "samhita-06/khanda-01/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः १२",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 12,
+    "file": "samhita-06/khanda-01/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः १३",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 13,
+    "file": "samhita-06/khanda-01/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः १४",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 14,
+    "file": "samhita-06/khanda-01/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः १५",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 15,
+    "file": "samhita-06/khanda-01/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः १६",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 16,
+    "file": "samhita-06/khanda-01/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः १७",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 17,
+    "file": "samhita-06/khanda-01/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः १८",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 18,
+    "file": "samhita-06/khanda-01/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः १९",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 19,
+    "file": "samhita-06/khanda-01/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः २०",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 20,
+    "file": "samhita-06/khanda-01/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः २१",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 21,
+    "file": "samhita-06/khanda-01/adhyaya-021.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः २२",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 22,
+    "file": "samhita-06/khanda-01/adhyaya-022.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ६ (कैलाससंहिता)/अध्यायः २३",
+    "samhita": 6,
+    "khanda": 1,
+    "adhyaya": 23,
+    "file": "samhita-06/khanda-01/adhyaya-023.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ०१",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 1,
+    "file": "samhita-07/khanda-01/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ०२",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 2,
+    "file": "samhita-07/khanda-01/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ०३",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 3,
+    "file": "samhita-07/khanda-01/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ०४",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 4,
+    "file": "samhita-07/khanda-01/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ०५",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 5,
+    "file": "samhita-07/khanda-01/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ०६",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 6,
+    "file": "samhita-07/khanda-01/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ०७",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 7,
+    "file": "samhita-07/khanda-01/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ०८",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 8,
+    "file": "samhita-07/khanda-01/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ०९",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 9,
+    "file": "samhita-07/khanda-01/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः १०",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 10,
+    "file": "samhita-07/khanda-01/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ११",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 11,
+    "file": "samhita-07/khanda-01/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः १२",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 12,
+    "file": "samhita-07/khanda-01/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः १३",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 13,
+    "file": "samhita-07/khanda-01/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः १४",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 14,
+    "file": "samhita-07/khanda-01/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः १५",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 15,
+    "file": "samhita-07/khanda-01/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः १६",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 16,
+    "file": "samhita-07/khanda-01/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः १७",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 17,
+    "file": "samhita-07/khanda-01/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः १८",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 18,
+    "file": "samhita-07/khanda-01/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः १९",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 19,
+    "file": "samhita-07/khanda-01/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः २०",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 20,
+    "file": "samhita-07/khanda-01/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः २१",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 21,
+    "file": "samhita-07/khanda-01/adhyaya-021.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः २२",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 22,
+    "file": "samhita-07/khanda-01/adhyaya-022.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः २३",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 23,
+    "file": "samhita-07/khanda-01/adhyaya-023.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः २४",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 24,
+    "file": "samhita-07/khanda-01/adhyaya-024.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः २५",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 25,
+    "file": "samhita-07/khanda-01/adhyaya-025.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः २६",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 26,
+    "file": "samhita-07/khanda-01/adhyaya-026.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः २७",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 27,
+    "file": "samhita-07/khanda-01/adhyaya-027.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः २८",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 28,
+    "file": "samhita-07/khanda-01/adhyaya-028.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः २९",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 29,
+    "file": "samhita-07/khanda-01/adhyaya-029.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ३०",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 30,
+    "file": "samhita-07/khanda-01/adhyaya-030.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ३१",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 31,
+    "file": "samhita-07/khanda-01/adhyaya-031.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ३२",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 32,
+    "file": "samhita-07/khanda-01/adhyaya-032.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ३३",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 33,
+    "file": "samhita-07/khanda-01/adhyaya-033.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ३४",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 34,
+    "file": "samhita-07/khanda-01/adhyaya-034.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/पूर्व भागः/अध्यायः ३५",
+    "samhita": 7,
+    "khanda": 1,
+    "adhyaya": 35,
+    "file": "samhita-07/khanda-01/adhyaya-035.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ०१",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 1,
+    "file": "samhita-07/khanda-02/adhyaya-001.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ०२",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 2,
+    "file": "samhita-07/khanda-02/adhyaya-002.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ०३",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 3,
+    "file": "samhita-07/khanda-02/adhyaya-003.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ०४",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 4,
+    "file": "samhita-07/khanda-02/adhyaya-004.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ०५",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 5,
+    "file": "samhita-07/khanda-02/adhyaya-005.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ०६",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 6,
+    "file": "samhita-07/khanda-02/adhyaya-006.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ०७",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 7,
+    "file": "samhita-07/khanda-02/adhyaya-007.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ०८",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 8,
+    "file": "samhita-07/khanda-02/adhyaya-008.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ०९",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 9,
+    "file": "samhita-07/khanda-02/adhyaya-009.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः १०",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 10,
+    "file": "samhita-07/khanda-02/adhyaya-010.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ११",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 11,
+    "file": "samhita-07/khanda-02/adhyaya-011.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः १२",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 12,
+    "file": "samhita-07/khanda-02/adhyaya-012.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः १३",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 13,
+    "file": "samhita-07/khanda-02/adhyaya-013.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः १४",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 14,
+    "file": "samhita-07/khanda-02/adhyaya-014.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः १५",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 15,
+    "file": "samhita-07/khanda-02/adhyaya-015.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः १६",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 16,
+    "file": "samhita-07/khanda-02/adhyaya-016.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः १७",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 17,
+    "file": "samhita-07/khanda-02/adhyaya-017.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः १८",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 18,
+    "file": "samhita-07/khanda-02/adhyaya-018.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः १९",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 19,
+    "file": "samhita-07/khanda-02/adhyaya-019.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः २०",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 20,
+    "file": "samhita-07/khanda-02/adhyaya-020.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः २१",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 21,
+    "file": "samhita-07/khanda-02/adhyaya-021.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः २२",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 22,
+    "file": "samhita-07/khanda-02/adhyaya-022.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः २३",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 23,
+    "file": "samhita-07/khanda-02/adhyaya-023.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः २४",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 24,
+    "file": "samhita-07/khanda-02/adhyaya-024.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः २५",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 25,
+    "file": "samhita-07/khanda-02/adhyaya-025.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः २६",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 26,
+    "file": "samhita-07/khanda-02/adhyaya-026.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः २७",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 27,
+    "file": "samhita-07/khanda-02/adhyaya-027.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः २८",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 28,
+    "file": "samhita-07/khanda-02/adhyaya-028.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः २९",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 29,
+    "file": "samhita-07/khanda-02/adhyaya-029.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ३०",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 30,
+    "file": "samhita-07/khanda-02/adhyaya-030.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ३१",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 31,
+    "file": "samhita-07/khanda-02/adhyaya-031.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ३२",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 32,
+    "file": "samhita-07/khanda-02/adhyaya-032.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ३३",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 33,
+    "file": "samhita-07/khanda-02/adhyaya-033.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ३४",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 34,
+    "file": "samhita-07/khanda-02/adhyaya-034.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ३५",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 35,
+    "file": "samhita-07/khanda-02/adhyaya-035.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ३६",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 36,
+    "file": "samhita-07/khanda-02/adhyaya-036.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ३७",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 37,
+    "file": "samhita-07/khanda-02/adhyaya-037.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ३८",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 38,
+    "file": "samhita-07/khanda-02/adhyaya-038.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ३९",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 39,
+    "file": "samhita-07/khanda-02/adhyaya-039.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ४०",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 40,
+    "file": "samhita-07/khanda-02/adhyaya-040.wikitext.json"
+  },
+  {
+    "title": "शिवपुराणम्/संहिता ७ (वायवीयसंहिता)/उत्तर भागः/अध्यायः ४१",
+    "samhita": 7,
+    "khanda": 2,
+    "adhyaya": 41,
+    "file": "samhita-07/khanda-02/adhyaya-041.wikitext.json"
+  }
+]

@@ -1,0 +1,10 @@
+`annotate "2:3:12:4..2:3:12:5" { speaker="हिमगिरिरुवाच" }
+`annotate "2:3:12:6..2:3:12:13" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:12:14..2:3:12:20" { speaker="हिमाचल उवाच" }
+`annotate "2:3:12:21" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:12:22" { speaker="महेश्वर उवाच" }
+`annotate "2:3:12:23" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:12:24" { speaker="हिमाचल उवाच" }
+`annotate "2:3:12:25" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:12:26..2:3:12:30" { speaker="शंभुरुवाच" }
+`annotate "2:3:12:31..2:3:12:33" { speaker="ब्रह्मोवाच" }

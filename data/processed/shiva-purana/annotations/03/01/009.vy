@@ -1,0 +1,13 @@
+`annotate "3:1:9:1..3:1:9:9" { speaker="नन्दीश्वर उवाच" }
+`annotate "3:1:9:10..3:1:9:23" { speaker="विष्णुरुवाच" }
+`annotate "3:1:9:24" { speaker="नन्दीश्वर उवाच" }
+`annotate "3:1:9:25" { speaker="भैरव उवाच" }
+`annotate "3:1:9:26" { speaker="नन्दीश्वर उवाच" }
+`annotate "3:1:9:27..3:1:9:43" { speaker="विष्णुरुवाच" }
+`annotate "3:1:9:44" { speaker="ब्रह्महत्योवाच" }
+`annotate "3:1:9:45" { speaker="नन्दीश्वर उवाच" }
+`annotate "3:1:9:46..3:1:9:48" { speaker="भैरव उवाच" }
+`annotate "3:1:9:49" { speaker="नन्दीश्वर उवाच" }
+`annotate "3:1:9:50..3:1:9:52" { speaker="विष्णुरुवाच" }
+`annotate "3:1:9:53" { speaker="श्रीभैरवी उवाच" }
+`annotate "3:1:9:54..3:1:9:72" { speaker="नन्दीश्वर उवाच" }

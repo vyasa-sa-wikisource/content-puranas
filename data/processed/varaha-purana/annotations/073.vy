@@ -1,0 +1,9 @@
+`annotate "73:1..73:8" { speaker="रुद्र उवाच" }
+`annotate "73:9..73:10" { speaker="पुरुष उवाच" }
+`annotate "73:11..73:16" { speaker="शम्भुरुवाच" }
+`annotate "73:17..73:37" { speaker="रुद्र उवाच" }
+`annotate "73:38" { speaker="श्रीवराह उवाच" }
+`annotate "73:39" { speaker="विष्णुरुवाच" }
+`annotate "73:40" { speaker="रुद्र उवाच" }
+`annotate "73:41..73:49" { speaker="विष्णुरुवाच" }
+`annotate "73:50..73:51" { speaker="रुद्र उवाच" }

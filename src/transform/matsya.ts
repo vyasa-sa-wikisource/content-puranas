@@ -93,7 +93,7 @@ export function stripWikitext(source: string): string {
 }
 
 const SPEAKER_LINE =
-  /^[\s।॥*]*([\u0900-\u097F][\u0900-\u097F\s\u200c\u200d\u200b.'’-]{0,80}(?:उवाच|ोवाच|रुवाच|ऊचुः|ूचतुः))\s*[।॥*\-–—:]*\s*$/;
+  /^[\s।॥*]*([\u0900-\u097F][\u0900-\u097F\s\u200c\u200d\u200b.'’-]{0,80}(?:उवाच|युवाच|ोवाच|रुवाच|ऊचुः|ूचतुः))\s*[।॥*\-–—:]*\s*$/;
 
 /**
  * `।। १.१ ।।`, an unclosed `।। २९१.१`, or a plain end-of-line `47.1 ।`.

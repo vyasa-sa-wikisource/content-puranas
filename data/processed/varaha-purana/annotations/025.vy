@@ -1,0 +1,9 @@
+`annotate "25:1" { speaker="प्रजापाल उवाच" }
+`annotate "25:2..25:16" { speaker="महातपा उवाच" }
+`annotate "25:17..25:28" { speaker="देवा ऊचुः" }
+`annotate "25:29" { speaker="महातपा उवाच" }
+`annotate "25:30" { speaker="देवा ऊचुः" }
+`annotate "25:31..25:39" { speaker="रुद्र उवाच" }
+`annotate "25:40..25:43" { speaker="देवा ऊचुः" }
+`annotate "25:44" { speaker="प्रजापाल उवाच" }
+`annotate "25:45..25:50" { speaker="महातपा उवाच" }

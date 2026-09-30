@@ -1,0 +1,17 @@
+`annotate "2:4:19:1..2:4:19:8" { speaker="नारद उवाच" }
+`annotate "2:4:19:9..2:4:19:14" { speaker="शिवा शिवावूचतुः" }
+`annotate "2:4:19:15..2:4:19:17" { speaker="शिवाशिवावूचतुः" }
+`annotate "2:4:19:18..2:4:19:21" { speaker="ब्रह्मोवाच" }
+`annotate "2:4:19:22" { speaker="गणेश उवाच" }
+`annotate "2:4:19:23..2:4:19:25" { speaker="ब्रह्मोवाच" }
+`annotate "2:4:19:26" { speaker="गणेश उवाच" }
+`annotate "2:4:19:27" { speaker="ब्रह्मोवाच" }
+`annotate "2:4:19:28" { speaker="शिवा शिवावूचतुः" }
+`annotate "2:4:19:29..2:4:19:30" { speaker="गणेश उवाच" }
+`annotate "2:4:19:31" { speaker="ब्रह्मोवाच" }
+`annotate "2:4:19:32" { speaker="पितरावूचतुः" }
+`annotate "2:4:19:33" { speaker="ब्रह्मोवाच" }
+`annotate "2:4:19:34..2:4:19:42" { speaker="गणेश उवाच" }
+`annotate "2:4:19:43..2:4:19:45" { speaker="ब्रह्मोवाच" }
+`annotate "2:4:19:46..2:4:19:49" { speaker="शिवाशिवावूचतुः" }
+`annotate "2:4:19:50" { speaker="ब्रह्मोवाच" }

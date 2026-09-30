@@ -1,0 +1,9 @@
+`annotate "7:1:24:1" { speaker="ऋषय ऊचुः" }
+`annotate "7:1:24:2..7:1:24:32" { speaker="वायुरुवाच" }
+`annotate "7:1:24:33..7:1:24:40" { speaker="देव्युवाच" }
+`annotate "7:1:24:41..7:1:24:47" { speaker="ईश्वर उवाच" }
+`annotate "7:1:24:48..7:1:24:51" { speaker="देव्युवाच" }
+`annotate "7:1:24:52" { speaker="शिव उवाच" }
+`annotate "7:1:24:53" { speaker="देव्युवाच" }
+`annotate "7:1:24:54" { speaker="ईश्वर उवाच" }
+`annotate "7:1:24:55..7:1:24:58" { speaker="देव्युवाच" }

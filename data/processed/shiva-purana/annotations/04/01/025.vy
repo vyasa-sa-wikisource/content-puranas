@@ -1,0 +1,16 @@
+`annotate "4:1:25:1..4:1:25:10" { speaker="सूत उवाच" }
+`annotate "4:1:25:11" { speaker="गणेश उवाच" }
+`annotate "4:1:25:12" { speaker="ऋषय ऊचुः" }
+`annotate "4:1:25:13" { speaker="सूत उवाच" }
+`annotate "4:1:25:14..4:1:25:16" { speaker="गणेश उवाच" }
+`annotate "4:1:25:17" { speaker="सूत उवाच" }
+`annotate "4:1:25:18" { speaker="ऋषय ऊचुः" }
+`annotate "4:1:25:19..4:1:25:23" { speaker="गणेश उवाच" }
+`annotate "4:1:25:24..4:1:25:25" { speaker="सूत उवाच" }
+`annotate "4:1:25:26..4:1:25:34" { speaker="गणेश उवाच" }
+`annotate "4:1:25:35..4:1:25:37" { speaker="गौतम उवाच" }
+`annotate "4:1:25:38..4:1:25:40" { speaker="ऋषय ऊचुः" }
+`annotate "4:1:25:41..4:1:25:44" { speaker="सूत उवाच" }
+`annotate "4:1:25:45" { speaker="गौतम उवाच" }
+`annotate "4:1:25:46..4:1:25:48" { speaker="सूत उवाच" }
+`annotate "4:1:25:49..4:1:25:57" { speaker="ऋषय ऊचुः" }

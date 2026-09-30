@@ -1,0 +1,9 @@
+`annotate "5:1:24:1" { speaker="व्यास उवाच" }
+`annotate "5:1:24:2..5:1:24:7" { speaker="सनत्कुमार उवाच" }
+`annotate "5:1:24:8" { speaker="नारद उवाच" }
+`annotate "5:1:24:9" { speaker="सनत्कुमार उवाच" }
+`annotate "5:1:24:10..5:1:24:12" { speaker="पंचचूडोवाच" }
+`annotate "5:1:24:13" { speaker="नारद उवाच" }
+`annotate "5:1:24:14" { speaker="सनत्कुमार उवाच" }
+`annotate "5:1:24:15..5:1:24:35" { speaker="पञ्चचूडोवाच" }
+`annotate "5:1:24:36..5:1:24:37" { speaker="सनत्कुमार उवाच" }

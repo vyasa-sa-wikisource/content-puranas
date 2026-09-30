@@ -1,0 +1,9 @@
+`annotate "37:1" { speaker="धरण्युवाच" }
+`annotate "37:2..37:12" { speaker="श्रीवराह उवाच" }
+`annotate "37:13..37:34" { speaker="व्याध उवाच" }
+`annotate "37:35" { speaker="ऋषिरुवाच" }
+`annotate "37:36" { speaker="व्याध उवाच" }
+`annotate "37:37..37:39" { speaker="ऋषिरुवाच" }
+`annotate "37:40" { speaker="व्याध उवाच" }
+`annotate "37:41..37:43" { speaker="ऋषिरुवाच" }
+`annotate "37:44" { speaker="श्रीवराह उवाच" }

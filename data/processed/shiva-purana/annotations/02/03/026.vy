@@ -1,0 +1,9 @@
+`annotate "2:3:26:1..2:3:26:7" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:26:8" { speaker="पार्वत्युवाच" }
+`annotate "2:3:26:9..2:3:26:13" { speaker="विप्र उवाच" }
+`annotate "2:3:26:14..2:3:26:21" { speaker="पार्वत्युवाच" }
+`annotate "2:3:26:22..2:3:26:29" { speaker="द्विज उवाच" }
+`annotate "2:3:26:30..2:3:26:37" { speaker="सख्युवाच" }
+`annotate "2:3:26:38" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:26:39" { speaker="जटिल उवाच" }
+`annotate "2:3:26:40" { speaker="ब्रह्मोवाच" }

@@ -1,0 +1,13 @@
+`annotate "2:3:51:1" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:51:2..2:3:51:9" { speaker="रतिरुवाच" }
+`annotate "2:3:51:10" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:51:11" { speaker="देव्य ऊचुः" }
+`annotate "2:3:51:12..2:3:51:16" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:51:17" { speaker="शङ्कर उवाच" }
+`annotate "2:3:51:18" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:51:19" { speaker="काम उवाच" }
+`annotate "2:3:51:20" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:51:21..2:3:51:23" { speaker="ईश्वर उवाच" }
+`annotate "2:3:51:24..2:3:51:25" { speaker="देवा ऊचुः" }
+`annotate "2:3:51:26..2:3:51:32" { speaker="ब्रह्मोवाच" }
+`annotate "2:3:51:33..2:3:51:39" { speaker="देवा ऊचुः" }

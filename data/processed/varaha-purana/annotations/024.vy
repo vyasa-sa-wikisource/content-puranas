@@ -1,0 +1,9 @@
+`annotate "24:1" { speaker="धरण्युवाच" }
+`annotate "24:2" { speaker="श्रीवराह उवाच" }
+`annotate "24:3" { speaker="प्रजापाल उवाच" }
+`annotate "24:4..24:11" { speaker="महातपा उवाच" }
+`annotate "24:12..24:14" { speaker="देवा ऊचुः" }
+`annotate "24:15..24:19" { speaker="ब्रह्मोवाच" }
+`annotate "24:20" { speaker="नागा ऊचुः" }
+`annotate "24:21" { speaker="ब्रह्मोवाच" }
+`annotate "24:22..24:33" { speaker="नागा ऊचुः" }

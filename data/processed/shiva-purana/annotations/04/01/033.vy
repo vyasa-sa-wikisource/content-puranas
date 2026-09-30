@@ -1,0 +1,12 @@
+`annotate "4:1:33:1..4:1:33:11" { speaker="सूत उवाच" }
+`annotate "4:1:33:12..4:1:33:13" { speaker="सुदेहोवाच" }
+`annotate "4:1:33:14..4:1:33:31" { speaker="सूत उवाच" }
+`annotate "4:1:33:32" { speaker="पुत्र उवाच" }
+`annotate "4:1:33:33..4:1:33:34" { speaker="सूत उवाच" }
+`annotate "4:1:33:35" { speaker="शिव उवाच" }
+`annotate "4:1:33:36" { speaker="सूत उवाच" }
+`annotate "4:1:33:37" { speaker="शिव उवाच" }
+`annotate "4:1:33:38..4:1:33:40" { speaker="घुश्मोवाच" }
+`annotate "4:1:33:41" { speaker="सूत उवाच" }
+`annotate "4:1:33:42" { speaker="शिव उवाच" }
+`annotate "4:1:33:43..4:1:33:56" { speaker="सूत उवाच" }

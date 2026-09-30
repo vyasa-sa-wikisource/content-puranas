@@ -1,0 +1,16 @@
+`annotate "3:1:6:2..3:1:6:8" { speaker="नन्दीश्वर उवाच" }
+`annotate "3:1:6:9" { speaker="शिलाद उवाच" }
+`annotate "3:1:6:10..3:1:6:16" { speaker="शक्र उवाच" }
+`annotate "3:1:6:17..3:1:6:30" { speaker="नन्दीश्वर उवाच" }
+`annotate "3:1:6:31" { speaker="शिलाद उवाच" }
+`annotate "3:1:6:32" { speaker="नंदीश्वर उवाच" }
+`annotate "3:1:6:33..3:1:6:34" { speaker="शिव उवाच" }
+`annotate "3:1:6:35..3:1:6:44" { speaker="नन्दीश्वर उवाच" }
+`annotate "3:1:6:45" { speaker="शिलाद उवाच" }
+`annotate "3:1:6:46..3:1:6:51" { speaker="नन्दीश्वर उवाच" }
+`annotate "3:1:6:52..3:1:6:55" { speaker="मित्रावरुणावूचतुः" }
+`annotate "3:1:6:56" { speaker="पितोवाच" }
+`annotate "3:1:6:57..3:1:6:58" { speaker="पुत्र उवाच" }
+`annotate "3:1:6:59" { speaker="पितोवाच" }
+`annotate "3:1:6:60" { speaker="पुत्र उवाच" }
+`annotate "3:1:6:61" { speaker="नन्दीश्वर उवाच" }
