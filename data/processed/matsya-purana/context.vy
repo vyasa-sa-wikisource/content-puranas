@@ -5,8 +5,6 @@
 `command-def { name="preface" category="content" }
 `command-def { name="colophon" category="content" }
 
-`command-def { name="annotate" category="metadata" flexible_args="true" }
-`command-def { name="note" category="metadata" flexible_args="true" }
 
 `facets { speaker="वक्ता", meter="छन्दः" }
 
